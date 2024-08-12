@@ -1,0 +1,2174 @@
+Date,Product Name & Brand,Past Week Sales,Weather Pattern,Event,Event_Impact_Level,Promotions (Discount),Competitor Action (Discount),Advertising,Economic Indicator,Store Location,Sales in Week (Target)
+01-01-2023,Basmati Rice,2638,Windy,No event,0,20,10,Low,3,Hyderabad,2809
+01-01-2023,Turmeric Powder,2685,Rainy,No event,0,10,10,Low,5,Vijayawada,2687
+01-01-2023,Red Chilli Powder,1459,Windy,No event,0,15,5,Low,3,Aurangabad,1541
+01-01-2023,Cumin Seeds,2705,Sunny,No event,0,0,10,High,5,Karimnagar,2742
+01-01-2023,Coriander Powder,2154,Rainy,No event,0,10,15,High,3,Rajahmundry,2129
+01-01-2023,Garam Masala,1241,Sunny,No event,0,0,5,Low,4,Hyderabad,1124
+01-01-2023,Toor Dal,1775,Windy,No event,0,15,15,High,3,Aurangabad,1924
+01-01-2023,Chana Dal,2021,Cloudy,No event,0,0,15,Medium,4,Bangalore,1979
+01-01-2023,Urad Dal,1201,Windy,No event,0,20,5,Medium,4,Kota,1465
+01-01-2023,Moong Dal,1719,Cloudy,No event,0,15,0,Medium,3,Bhopal,1850
+01-01-2023,Jaggery,2180,Sunny,No event,0,5,0,Low,3,Meerut,2144
+01-01-2023,Ghee,2162,Sunny,No event,0,0,0,Low,5,Ludhiana,2142
+01-01-2023,Paneer,2513,Rainy,No event,0,10,0,High,3,Indore,2553
+01-01-2023,Coconut Oil,1406,Sunny,No event,0,15,5,Low,5,Hyderabad,1492
+01-01-2023,Mustard Oil,2762,Rainy,No event,0,15,10,High,3,Zirakpur,2862
+01-01-2023,Aam Papad,1502,Cloudy,No event,0,10,0,Low,4,Meerut,1643
+01-01-2023,Mango Pickle,2714,Rainy,No event,0,0,5,Medium,3,Hyderabad,2651
+01-01-2023,Papad,2430,Sunny,No event,0,15,20,Medium,3,Hyderabad,2522
+01-01-2023,Idli Rice,2266,Sunny,No event,0,15,20,High,5,Kurnool,2301
+01-01-2023,Sambar Powder,1795,Cloudy,No event,0,20,0,Low,4,Aurangabad,1922
+01-01-2023,Aloo Bhujia,2371,Windy,No event,0,15,10,Medium,5,Karimnagar,2560
+01-01-2023,Kaju Katli,1627,Sunny,No event,0,0,10,Medium,3,Amritsar,1479
+01-01-2023,Besan,2248,Cloudy,No event,0,10,0,Medium,3,Hyderabad,2298
+01-01-2023,Aata (Wheat Flour),2520,Windy,No event,0,10,0,Low,4,Kota,2705
+01-01-2023,Mango Juice,2648,Windy,No event,0,5,10,Low,3,Visakhapatnam ,2731
+01-01-2023,Lemon Pickle,1854,Rainy,No event,0,0,5,Medium,4,Amravati,1857
+01-01-2023,Coconut Chutney,2439,Cloudy,No event,0,5,20,Medium,4,Vijayawada,2356
+01-01-2023,Rasgulla,1279,Windy,No event,0,10,0,High,4,Kurnool,1347
+01-01-2023,Gulab Jamun Mix,2349,Cloudy,No event,0,10,0,Low,5,Visakhapatnam ,2441
+01-01-2023,Lassi,2986,Windy,No event,0,15,10,High,4,Bangalore,3132
+01-01-2023,Bhel Puri Mix,1337,Windy,No event,0,15,0,Low,5,Visakhapatnam ,1490
+01-01-2023,Pav Bhaji Masala,1150,Rainy,No event,0,15,0,Low,4,Amritsar,1358
+01-01-2023,Chole Masala,1001,Rainy,No event,0,15,5,Low,3,Kota,1154
+01-01-2023,Tamarind Paste,2014,Cloudy,No event,0,15,20,Low,5,Rajahmundry,1972
+01-01-2023,Ready-to-eat Curry Packs,2943,Rainy,No event,0,10,10,Medium,3,Jalandhar,3008
+01-01-2023,Parle-G Biscuits,2135,Sunny,No event,0,15,15,Medium,5,Kurnool,2208
+01-01-2023,Thums Up,2743,Windy,No event,0,5,5,Medium,5,Tirupati,2856
+01-01-2023,Frooti,2300,Windy,No event,0,0,15,Low,4,Jalandhar,2172
+01-01-2023,Hajmola Tablets,2906,Windy,No event,0,10,0,Low,5,Visakhapatnam ,3024
+01-01-2023,Haldiram's Namkeen,1026,Cloudy,No event,0,20,10,Medium,5,Lucknow,1096
+01-01-2023,Chyawanprash,2539,Windy,No event,0,0,20,Low,5,Amritsar,2373
+08-01-2023,Basmati Rice,2069,Windy,Raksha Bandhan,2,0,15,Medium,3,Amravati,2110
+08-01-2023,Turmeric Powder,1496,Rainy,Raksha Bandhan,2,15,0,Low,3,Guntur,1691
+08-01-2023,Red Chilli Powder,1980,Windy,Raksha Bandhan,2,0,15,High,3,Bangalore,2064
+08-01-2023,Cumin Seeds,2758,Windy,Raksha Bandhan,2,10,5,Low,4,Amritsar,2886
+08-01-2023,Coriander Powder,1489,Windy,Raksha Bandhan,2,5,5,High,5,Bangalore,1643
+08-01-2023,Garam Masala,2199,Windy,Raksha Bandhan,2,0,0,High,4,Amravati,2237
+08-01-2023,Toor Dal,1407,Rainy,Raksha Bandhan,2,5,10,Medium,3,Kota,1419
+08-01-2023,Chana Dal,1399,Sunny,Raksha Bandhan,2,15,20,Low,4,Hyderabad,1590
+08-01-2023,Urad Dal,2982,Rainy,Raksha Bandhan,2,15,5,Medium,5,Karimnagar,3192
+08-01-2023,Moong Dal,1569,Sunny,Raksha Bandhan,2,5,20,Medium,4,Vijayawada,1604
+08-01-2023,Jaggery,1263,Windy,Raksha Bandhan,2,5,10,Low,3,Amravati,1315
+08-01-2023,Ghee,1991,Windy,Raksha Bandhan,2,20,15,Medium,3,Karimnagar,2231
+08-01-2023,Paneer,2693,Rainy,Raksha Bandhan,2,15,20,Medium,4,Meerut,2889
+08-01-2023,Coconut Oil,2369,Windy,Raksha Bandhan,2,10,15,Medium,5,Amravati,2510
+08-01-2023,Mustard Oil,1512,Windy,Raksha Bandhan,2,20,0,Medium,4,Jalandhar,1745
+08-01-2023,Aam Papad,1703,Sunny,Raksha Bandhan,2,20,20,Low,3,Rajahmundry,1993
+08-01-2023,Mango Pickle,1996,Cloudy,Raksha Bandhan,2,20,10,Medium,5,Zirakpur,2231
+08-01-2023,Papad,1957,Windy,Raksha Bandhan,2,20,0,Medium,4,Lucknow,2353
+08-01-2023,Idli Rice,2635,Windy,Raksha Bandhan,2,5,5,Low,5,Karimnagar,2692
+08-01-2023,Sambar Powder,2123,Rainy,Raksha Bandhan,2,5,5,Medium,3,Zirakpur,2181
+08-01-2023,Aloo Bhujia,2631,Rainy,Raksha Bandhan,2,5,5,High,4,Visakhapatnam ,2656
+08-01-2023,Kaju Katli,1851,Sunny,Raksha Bandhan,2,15,5,Low,5,Zirakpur,2127
+08-01-2023,Besan,1956,Cloudy,Raksha Bandhan,2,10,15,Low,3,Karimnagar,2159
+08-01-2023,Aata (Wheat Flour),2191,Sunny,Raksha Bandhan,2,15,10,Low,3,Kurnool,2364
+08-01-2023,Mango Juice,2921,Windy,Raksha Bandhan,2,20,20,High,4,Kurnool,3055
+08-01-2023,Lemon Pickle,2021,Cloudy,Raksha Bandhan,2,20,5,Medium,4,Amravati,2357
+08-01-2023,Coconut Chutney,2516,Sunny,Raksha Bandhan,2,15,5,Low,4,Vijayawada,2715
+08-01-2023,Rasgulla,2892,Sunny,Raksha Bandhan,2,20,20,Low,4,Bhopal,3143
+08-01-2023,Gulab Jamun Mix,1095,Sunny,Raksha Bandhan,2,10,15,Medium,3,Bangalore,1271
+08-01-2023,Lassi,1866,Windy,Raksha Bandhan,2,0,20,High,3,Zirakpur,1870
+08-01-2023,Bhel Puri Mix,1698,Sunny,Raksha Bandhan,2,15,0,Medium,3,Amravati,1866
+08-01-2023,Pav Bhaji Masala,1075,Windy,Raksha Bandhan,2,15,20,Low,5,Amravati,1133
+08-01-2023,Chole Masala,1143,Windy,Raksha Bandhan,2,15,10,Medium,5,Hyderabad,1359
+08-01-2023,Tamarind Paste,2507,Rainy,Raksha Bandhan,2,15,0,High,3,Zirakpur,2709
+08-01-2023,Ready-to-eat Curry Packs,1934,Sunny,Raksha Bandhan,2,20,20,Medium,4,Rajahmundry,2175
+08-01-2023,Parle-G Biscuits,1750,Rainy,Raksha Bandhan,2,20,10,High,4,Zirakpur,1975
+08-01-2023,Thums Up,2253,Cloudy,Raksha Bandhan,2,5,15,Low,3,Jalandhar,2234
+08-01-2023,Frooti,1633,Sunny,Raksha Bandhan,2,5,0,Medium,5,Lucknow,1876
+08-01-2023,Hajmola Tablets,2365,Sunny,Raksha Bandhan,2,20,10,Low,3,Zirakpur,2659
+08-01-2023,Haldiram's Namkeen,2810,Sunny,Raksha Bandhan,2,20,15,Medium,5,Hyderabad,3123
+08-01-2023,Chyawanprash,1038,Cloudy,Raksha Bandhan,2,10,5,Medium,5,Karimnagar,1238
+15-01-2023,Basmati Rice,2683,Sunny,Baisakhi,2,20,5,Medium,4,Bangalore,3057
+15-01-2023,Turmeric Powder,1504,Rainy,Baisakhi,2,0,10,Low,4,Jalandhar,1644
+15-01-2023,Red Chilli Powder,2579,Sunny,Baisakhi,2,0,20,Medium,4,Amravati,2651
+15-01-2023,Cumin Seeds,2699,Sunny,Baisakhi,2,20,20,High,3,Ludhiana,2945
+15-01-2023,Coriander Powder,2166,Sunny,Baisakhi,2,5,0,Low,4,Visakhapatnam ,2374
+15-01-2023,Garam Masala,1735,Sunny,Baisakhi,2,10,0,High,4,Amritsar,1850
+15-01-2023,Toor Dal,2371,Cloudy,Baisakhi,2,15,15,Low,4,Indore,2609
+15-01-2023,Chana Dal,1739,Cloudy,Baisakhi,2,15,5,Low,3,Indore,2055
+15-01-2023,Urad Dal,1908,Sunny,Baisakhi,2,0,20,Low,3,Amravati,1853
+15-01-2023,Moong Dal,2944,Sunny,Baisakhi,2,5,10,Low,5,Bangalore,3137
+15-01-2023,Jaggery,2142,Windy,Baisakhi,2,5,10,Low,3,Kota,2174
+15-01-2023,Ghee,1062,Cloudy,Baisakhi,2,0,10,Low,4,Amritsar,1097
+15-01-2023,Paneer,1510,Sunny,Baisakhi,2,0,5,Low,5,Amravati,1613
+15-01-2023,Coconut Oil,2668,Rainy,Baisakhi,2,15,0,Low,5,Rajahmundry,2919
+15-01-2023,Mustard Oil,2481,Sunny,Baisakhi,2,20,20,Low,4,Bangalore,2663
+15-01-2023,Aam Papad,1716,Sunny,Baisakhi,2,0,0,High,3,Amravati,1719
+15-01-2023,Mango Pickle,1153,Sunny,Baisakhi,2,5,15,High,5,Amritsar,1289
+15-01-2023,Papad,1235,Rainy,Baisakhi,2,5,15,Low,4,Bangalore,1342
+15-01-2023,Idli Rice,1074,Windy,Baisakhi,2,20,20,Medium,4,Amravati,1352
+15-01-2023,Sambar Powder,1097,Cloudy,Baisakhi,2,15,5,Medium,4,Hyderabad,1303
+15-01-2023,Aloo Bhujia,2504,Rainy,Baisakhi,2,10,5,Low,4,Meerut,2657
+15-01-2023,Kaju Katli,1183,Rainy,Baisakhi,2,0,20,Low,4,Kota,1227
+15-01-2023,Besan,2797,Sunny,Baisakhi,2,15,15,Low,4,Kota,2924
+15-01-2023,Aata (Wheat Flour),1110,Sunny,Baisakhi,2,10,10,High,5,Aurangabad,1310
+15-01-2023,Mango Juice,2887,Rainy,Baisakhi,2,10,15,Low,5,Rajahmundry,3106
+15-01-2023,Lemon Pickle,2028,Sunny,Baisakhi,2,5,10,High,3,Tirupati,2119
+15-01-2023,Coconut Chutney,1523,Sunny,Baisakhi,2,20,0,Low,3,Kota,1812
+15-01-2023,Rasgulla,2096,Cloudy,Baisakhi,2,0,5,Low,5,Lucknow,2096
+15-01-2023,Gulab Jamun Mix,1803,Sunny,Baisakhi,2,10,20,Low,4,Meerut,1803
+15-01-2023,Lassi,1638,Sunny,Baisakhi,2,10,20,High,5,Indore,1693
+15-01-2023,Bhel Puri Mix,1525,Cloudy,Baisakhi,2,15,5,Low,4,Lucknow,1836
+15-01-2023,Pav Bhaji Masala,2297,Rainy,Baisakhi,2,10,10,High,3,Vijayawada,2384
+15-01-2023,Chole Masala,2976,Rainy,Baisakhi,2,0,20,Medium,5,Bangalore,2892
+15-01-2023,Tamarind Paste,2548,Cloudy,Baisakhi,2,5,15,Low,3,Hyderabad,2547
+15-01-2023,Ready-to-eat Curry Packs,1110,Cloudy,Baisakhi,2,10,0,Low,4,Bhopal,1320
+15-01-2023,Parle-G Biscuits,1424,Rainy,Baisakhi,2,0,15,High,4,Aurangabad,1449
+15-01-2023,Thums Up,1876,Windy,Baisakhi,2,5,5,High,5,Guntur,2098
+15-01-2023,Frooti,2733,Sunny,Baisakhi,2,0,20,Medium,3,Zirakpur,2702
+15-01-2023,Hajmola Tablets,1242,Windy,Baisakhi,2,10,0,High,5,Rajahmundry,1372
+15-01-2023,Haldiram's Namkeen,1645,Sunny,Baisakhi,2,15,5,High,5,Indore,1887
+15-01-2023,Chyawanprash,1714,Cloudy,Baisakhi,2,10,0,Medium,5,Amravati,1949
+22-01-2023,Basmati Rice,2141,Sunny,Makar Sankranti,2,15,20,Medium,4,Vijayawada,2258
+22-01-2023,Turmeric Powder,1000,Windy,Makar Sankranti,2,0,15,Low,5,Vijayawada,1014
+22-01-2023,Red Chilli Powder,1258,Windy,Makar Sankranti,2,20,10,High,3,Lucknow,1568
+22-01-2023,Cumin Seeds,1171,Cloudy,Makar Sankranti,2,5,20,High,4,Guntur,1250
+22-01-2023,Coriander Powder,2636,Windy,Makar Sankranti,2,5,15,Low,5,Ludhiana,2683
+22-01-2023,Garam Masala,2840,Sunny,Makar Sankranti,2,10,10,Medium,5,Amravati,2958
+22-01-2023,Toor Dal,1587,Cloudy,Makar Sankranti,2,20,10,Low,4,Karimnagar,1771
+22-01-2023,Chana Dal,2252,Windy,Makar Sankranti,2,15,20,High,3,Amritsar,2315
+22-01-2023,Urad Dal,1077,Sunny,Makar Sankranti,2,20,20,High,5,Bangalore,1330
+22-01-2023,Moong Dal,1295,Sunny,Makar Sankranti,2,20,5,Low,4,Bhopal,1541
+22-01-2023,Jaggery,2046,Windy,Makar Sankranti,2,10,20,Medium,3,Hyderabad,2108
+22-01-2023,Ghee,1502,Sunny,Makar Sankranti,2,0,0,Low,5,Meerut,1695
+22-01-2023,Paneer,1578,Sunny,Makar Sankranti,2,10,10,Medium,4,Lucknow,1762
+22-01-2023,Coconut Oil,2692,Windy,Makar Sankranti,2,5,15,High,5,Vijayawada,2699
+22-01-2023,Mustard Oil,2464,Cloudy,Makar Sankranti,2,10,15,Low,4,Visakhapatnam ,2585
+22-01-2023,Aam Papad,2545,Rainy,Makar Sankranti,2,0,15,Medium,4,Zirakpur,2474
+22-01-2023,Mango Pickle,2180,Sunny,Makar Sankranti,2,20,15,Low,5,Kota,2440
+22-01-2023,Papad,2434,Sunny,Makar Sankranti,2,15,15,Low,4,Zirakpur,2603
+22-01-2023,Idli Rice,2306,Rainy,Makar Sankranti,2,15,15,Medium,5,Vijayawada,2449
+22-01-2023,Sambar Powder,1395,Rainy,Makar Sankranti,2,5,5,Medium,5,Visakhapatnam ,1560
+22-01-2023,Aloo Bhujia,2639,Cloudy,Makar Sankranti,2,5,0,Low,5,Indore,2748
+22-01-2023,Kaju Katli,2863,Windy,Makar Sankranti,2,15,15,Low,3,Kurnool,3064
+22-01-2023,Besan,1050,Sunny,Makar Sankranti,2,15,5,Low,4,Kota,1203
+22-01-2023,Aata (Wheat Flour),1813,Windy,Makar Sankranti,2,0,10,High,3,Lucknow,1863
+22-01-2023,Mango Juice,1566,Windy,Makar Sankranti,2,0,0,High,4,Lucknow,1680
+22-01-2023,Lemon Pickle,1201,Rainy,Makar Sankranti,2,20,0,Low,3,Indore,1580
+22-01-2023,Coconut Chutney,2829,Rainy,Makar Sankranti,2,15,0,Medium,5,Jalandhar,3108
+22-01-2023,Rasgulla,1639,Cloudy,Makar Sankranti,2,10,5,High,3,Hyderabad,1884
+22-01-2023,Gulab Jamun Mix,2524,Rainy,Makar Sankranti,2,10,0,High,4,Karimnagar,2711
+22-01-2023,Lassi,1155,Sunny,Makar Sankranti,2,20,10,Medium,4,Amritsar,1418
+22-01-2023,Bhel Puri Mix,1147,Rainy,Makar Sankranti,2,0,15,Low,3,Amravati,1189
+22-01-2023,Pav Bhaji Masala,1434,Sunny,Makar Sankranti,2,0,20,Medium,5,Indore,1456
+22-01-2023,Chole Masala,1285,Cloudy,Makar Sankranti,2,20,0,Low,3,Vijayawada,1628
+22-01-2023,Tamarind Paste,2198,Rainy,Makar Sankranti,2,5,0,Medium,5,Indore,2441
+22-01-2023,Ready-to-eat Curry Packs,1054,Cloudy,Makar Sankranti,2,10,15,Low,3,Amravati,1181
+22-01-2023,Parle-G Biscuits,1161,Windy,Makar Sankranti,2,5,5,High,4,Bangalore,1309
+22-01-2023,Thums Up,2031,Rainy,Makar Sankranti,2,15,5,High,3,Amritsar,2220
+22-01-2023,Frooti,2262,Windy,Makar Sankranti,2,10,20,Medium,3,Bangalore,2328
+22-01-2023,Hajmola Tablets,2311,Sunny,Makar Sankranti,2,15,5,High,4,Vijayawada,2555
+22-01-2023,Haldiram's Namkeen,1468,Rainy,Makar Sankranti,2,15,15,Low,4,Lucknow,1684
+22-01-2023,Chyawanprash,1146,Cloudy,Makar Sankranti,2,5,0,High,3,Rajahmundry,1307
+29-01-2023,Basmati Rice,2920,Windy,Dussehra,3,20,15,Medium,4,Vijayawada,3141
+29-01-2023,Turmeric Powder,1706,Windy,Dussehra,3,10,5,High,4,Zirakpur,1949
+29-01-2023,Red Chilli Powder,1904,Windy,Dussehra,3,20,20,Medium,4,Karimnagar,2106
+29-01-2023,Cumin Seeds,1713,Rainy,Dussehra,3,15,5,Medium,3,Karimnagar,2045
+29-01-2023,Coriander Powder,1525,Rainy,Dussehra,3,0,5,High,3,Lucknow,1558
+29-01-2023,Garam Masala,2781,Cloudy,Dussehra,3,20,0,High,3,Indore,3052
+29-01-2023,Toor Dal,2132,Cloudy,Dussehra,3,15,5,Medium,3,Kurnool,2404
+29-01-2023,Chana Dal,1933,Rainy,Dussehra,3,5,20,Medium,3,Zirakpur,1966
+29-01-2023,Urad Dal,2897,Sunny,Dussehra,3,0,5,High,3,Amravati,3007
+29-01-2023,Moong Dal,1820,Rainy,Dussehra,3,5,15,Low,3,Guntur,2043
+29-01-2023,Jaggery,1633,Sunny,Dussehra,3,0,5,Low,4,Kota,1703
+29-01-2023,Ghee,2315,Windy,Dussehra,3,10,0,High,3,Aurangabad,2579
+29-01-2023,Paneer,1806,Windy,Dussehra,3,10,15,Low,5,Kurnool,1934
+29-01-2023,Coconut Oil,2171,Rainy,Dussehra,3,20,0,Medium,5,Aurangabad,2501
+29-01-2023,Mustard Oil,2524,Rainy,Dussehra,3,5,0,Medium,4,Ludhiana,2696
+29-01-2023,Aam Papad,1938,Windy,Dussehra,3,0,0,Low,3,Jalandhar,2091
+29-01-2023,Mango Pickle,1107,Sunny,Dussehra,3,10,10,Medium,3,Kota,1378
+29-01-2023,Papad,2067,Cloudy,Dussehra,3,5,15,High,3,Vijayawada,2278
+29-01-2023,Idli Rice,2520,Sunny,Dussehra,3,0,5,Low,5,Amravati,2591
+29-01-2023,Sambar Powder,2508,Cloudy,Dussehra,3,10,20,Low,5,Karimnagar,2675
+29-01-2023,Aloo Bhujia,2594,Cloudy,Dussehra,3,0,5,Low,5,Rajahmundry,2772
+29-01-2023,Kaju Katli,2942,Sunny,Dussehra,3,5,5,High,3,Jalandhar,3042
+29-01-2023,Besan,1826,Cloudy,Dussehra,3,20,0,High,4,Hyderabad,2157
+29-01-2023,Aata (Wheat Flour),1614,Rainy,Dussehra,3,10,5,High,4,Visakhapatnam ,1755
+29-01-2023,Mango Juice,1130,Rainy,Dussehra,3,10,15,Low,4,Lucknow,1241
+29-01-2023,Lemon Pickle,2911,Windy,Dussehra,3,5,15,High,5,Kurnool,2939
+29-01-2023,Coconut Chutney,2473,Cloudy,Dussehra,3,0,20,Medium,4,Ludhiana,2477
+29-01-2023,Rasgulla,2164,Cloudy,Dussehra,3,5,10,High,3,Bangalore,2231
+29-01-2023,Gulab Jamun Mix,1476,Rainy,Dussehra,3,15,20,Medium,3,Bangalore,1637
+29-01-2023,Lassi,1920,Sunny,Dussehra,3,15,0,Medium,4,Karimnagar,2222
+29-01-2023,Bhel Puri Mix,2165,Sunny,Dussehra,3,0,0,High,3,Visakhapatnam ,2334
+29-01-2023,Pav Bhaji Masala,1948,Windy,Dussehra,3,5,20,Low,3,Tirupati,2020
+29-01-2023,Chole Masala,2828,Sunny,Dussehra,3,0,15,High,4,Meerut,2863
+29-01-2023,Tamarind Paste,1225,Rainy,Dussehra,3,15,10,Medium,3,Zirakpur,1527
+29-01-2023,Ready-to-eat Curry Packs,2333,Windy,Dussehra,3,15,10,Low,5,Hyderabad,2599
+29-01-2023,Parle-G Biscuits,1217,Sunny,Dussehra,3,5,10,Medium,3,Vijayawada,1435
+29-01-2023,Thums Up,2070,Cloudy,Dussehra,3,10,20,Low,4,Amravati,2296
+29-01-2023,Frooti,2914,Rainy,Dussehra,3,15,5,Low,3,Jalandhar,3251
+29-01-2023,Hajmola Tablets,1780,Cloudy,Dussehra,3,0,10,High,4,Tirupati,1899
+29-01-2023,Haldiram's Namkeen,2633,Sunny,Dussehra,3,0,15,Medium,3,Meerut,2618
+29-01-2023,Chyawanprash,2218,Windy,Dussehra,3,10,10,Low,3,Jalandhar,2470
+05-02-2023,Basmati Rice,2284,Windy,Republic Day,3,5,0,High,3,Aurangabad,2522
+05-02-2023,Turmeric Powder,1913,Windy,Republic Day,3,15,10,Low,4,Aurangabad,2260
+05-02-2023,Red Chilli Powder,1592,Windy,Republic Day,3,20,15,Low,3,Zirakpur,1880
+05-02-2023,Cumin Seeds,2591,Sunny,Republic Day,3,20,10,Medium,5,Indore,2830
+05-02-2023,Coriander Powder,2285,Windy,Republic Day,3,10,20,Low,3,Aurangabad,2481
+05-02-2023,Garam Masala,1815,Windy,Republic Day,3,15,0,High,5,Rajahmundry,2183
+05-02-2023,Toor Dal,1355,Rainy,Republic Day,3,20,0,Low,4,Ludhiana,1795
+05-02-2023,Chana Dal,1760,Windy,Republic Day,3,20,10,Low,4,Guntur,1990
+05-02-2023,Urad Dal,2950,Cloudy,Republic Day,3,10,20,Medium,5,Kota,3081
+05-02-2023,Moong Dal,2247,Cloudy,Republic Day,3,20,20,High,4,Bhopal,2409
+05-02-2023,Jaggery,1865,Rainy,Republic Day,3,0,0,Low,5,Lucknow,2102
+05-02-2023,Ghee,2854,Rainy,Republic Day,3,10,5,Low,4,Ludhiana,3134
+05-02-2023,Paneer,2347,Cloudy,Republic Day,3,20,20,Medium,4,Meerut,2688
+05-02-2023,Coconut Oil,1021,Windy,Republic Day,3,0,5,Medium,3,Amravati,1165
+05-02-2023,Mustard Oil,1947,Cloudy,Republic Day,3,20,15,High,5,Tirupati,2246
+05-02-2023,Aam Papad,1878,Rainy,Republic Day,3,20,10,Low,4,Karimnagar,2156
+05-02-2023,Mango Pickle,1737,Rainy,Republic Day,3,5,5,Medium,4,Vijayawada,1840
+05-02-2023,Papad,2294,Sunny,Republic Day,3,10,20,Low,5,Bhopal,2462
+05-02-2023,Idli Rice,2562,Windy,Republic Day,3,5,15,Medium,5,Kurnool,2781
+05-02-2023,Sambar Powder,1302,Cloudy,Republic Day,3,15,15,Low,3,Amravati,1527
+05-02-2023,Aloo Bhujia,2530,Cloudy,Republic Day,3,10,0,Low,5,Visakhapatnam ,2680
+05-02-2023,Kaju Katli,1792,Rainy,Republic Day,3,5,20,High,3,Guntur,1815
+05-02-2023,Besan,2680,Cloudy,Republic Day,3,15,10,Medium,3,Karimnagar,2922
+05-02-2023,Aata (Wheat Flour),1348,Rainy,Republic Day,3,10,5,High,5,Indore,1664
+05-02-2023,Mango Juice,1526,Sunny,Republic Day,3,15,5,High,4,Karimnagar,1853
+05-02-2023,Lemon Pickle,2967,Rainy,Republic Day,3,0,15,Low,4,Lucknow,3129
+05-02-2023,Coconut Chutney,1273,Windy,Republic Day,3,10,20,Low,3,Aurangabad,1386
+05-02-2023,Rasgulla,1101,Cloudy,Republic Day,3,10,20,Low,3,Tirupati,1319
+05-02-2023,Gulab Jamun Mix,2069,Rainy,Republic Day,3,10,0,Low,3,Indore,2378
+05-02-2023,Lassi,1935,Windy,Republic Day,3,15,15,Low,4,Meerut,2219
+05-02-2023,Bhel Puri Mix,2768,Windy,Republic Day,3,0,5,Low,3,Tirupati,2950
+05-02-2023,Pav Bhaji Masala,1193,Sunny,Republic Day,3,15,5,Medium,5,Amritsar,1533
+05-02-2023,Chole Masala,1105,Cloudy,Republic Day,3,5,5,High,4,Hyderabad,1298
+05-02-2023,Tamarind Paste,2925,Sunny,Republic Day,3,10,20,High,5,Karimnagar,2983
+05-02-2023,Ready-to-eat Curry Packs,2107,Sunny,Republic Day,3,0,5,Medium,4,Guntur,2193
+05-02-2023,Parle-G Biscuits,1021,Rainy,Republic Day,3,10,15,Medium,4,Meerut,1249
+05-02-2023,Thums Up,1970,Rainy,Republic Day,3,0,15,Medium,4,Bangalore,1956
+05-02-2023,Frooti,2170,Sunny,Republic Day,3,0,20,High,4,Karimnagar,2174
+05-02-2023,Hajmola Tablets,1694,Windy,Republic Day,3,20,20,High,3,Lucknow,1875
+05-02-2023,Haldiram's Namkeen,1548,Windy,Republic Day,3,5,5,High,4,Vijayawada,1718
+05-02-2023,Chyawanprash,1034,Rainy,Republic Day,3,10,15,Medium,5,Jalandhar,1297
+12-02-2023,Basmati Rice,1158,Sunny,No event,0,15,0,Medium,3,Meerut,1393
+12-02-2023,Turmeric Powder,2712,Sunny,No event,0,15,15,Medium,4,Visakhapatnam ,2865
+12-02-2023,Red Chilli Powder,1334,Windy,No event,0,5,20,Medium,4,Jalandhar,1345
+12-02-2023,Cumin Seeds,2269,Cloudy,No event,0,5,10,High,4,Bhopal,2293
+12-02-2023,Coriander Powder,2760,Rainy,No event,0,20,5,Low,5,Karimnagar,2933
+12-02-2023,Garam Masala,1001,Windy,No event,0,5,15,Medium,4,Indore,994
+12-02-2023,Toor Dal,2851,Sunny,No event,0,20,0,Medium,4,Zirakpur,3075
+12-02-2023,Chana Dal,1837,Cloudy,No event,0,0,15,Medium,5,Meerut,1806
+12-02-2023,Urad Dal,2447,Rainy,No event,0,20,20,High,3,Aurangabad,2630
+12-02-2023,Moong Dal,1269,Sunny,No event,0,10,5,High,4,Bhopal,1323
+12-02-2023,Jaggery,2280,Sunny,No event,0,5,15,Medium,3,Kota,2287
+12-02-2023,Ghee,1575,Windy,No event,0,10,15,Low,3,Visakhapatnam ,1617
+12-02-2023,Paneer,2227,Windy,No event,0,0,10,Low,5,Visakhapatnam ,2241
+12-02-2023,Coconut Oil,2925,Sunny,No event,0,15,15,High,5,Amravati,3007
+12-02-2023,Mustard Oil,2043,Cloudy,No event,0,5,0,High,3,Visakhapatnam ,2018
+12-02-2023,Aam Papad,1836,Rainy,No event,0,10,20,Low,5,Amritsar,1896
+12-02-2023,Mango Pickle,2239,Rainy,No event,0,15,5,Low,4,Amravati,2306
+12-02-2023,Papad,2246,Sunny,No event,0,5,20,Low,5,Aurangabad,2279
+12-02-2023,Idli Rice,1383,Rainy,No event,0,5,15,Medium,5,Meerut,1383
+12-02-2023,Sambar Powder,2364,Windy,No event,0,5,5,High,4,Ludhiana,2417
+12-02-2023,Aloo Bhujia,2142,Sunny,No event,0,20,5,Low,5,Indore,2387
+12-02-2023,Kaju Katli,2671,Cloudy,No event,0,5,5,Low,4,Kota,2642
+12-02-2023,Besan,2987,Sunny,No event,0,15,10,Low,4,Indore,3019
+12-02-2023,Aata (Wheat Flour),2981,Rainy,No event,0,20,20,Low,4,Amritsar,3174
+12-02-2023,Mango Juice,1687,Windy,No event,0,0,0,Low,3,Tirupati,1599
+12-02-2023,Lemon Pickle,2404,Sunny,No event,0,20,0,High,4,Jalandhar,2605
+12-02-2023,Coconut Chutney,2000,Windy,No event,0,10,5,Medium,3,Lucknow,1997
+12-02-2023,Rasgulla,1454,Sunny,No event,0,10,0,Medium,4,Vijayawada,1542
+12-02-2023,Gulab Jamun Mix,1916,Sunny,No event,0,15,5,High,5,Meerut,2087
+12-02-2023,Lassi,2290,Sunny,No event,0,0,10,Medium,4,Amritsar,2238
+12-02-2023,Bhel Puri Mix,2026,Cloudy,No event,0,5,5,Medium,3,Indore,2035
+12-02-2023,Pav Bhaji Masala,2177,Windy,No event,0,5,15,Low,3,Indore,2204
+12-02-2023,Chole Masala,1042,Sunny,No event,0,5,20,High,5,Karimnagar,1067
+12-02-2023,Tamarind Paste,2004,Cloudy,No event,0,5,15,High,5,Guntur,1899
+12-02-2023,Ready-to-eat Curry Packs,2827,Rainy,No event,0,20,15,High,3,Kurnool,2902
+12-02-2023,Parle-G Biscuits,2825,Windy,No event,0,20,20,Medium,5,Meerut,2902
+12-02-2023,Thums Up,2692,Windy,No event,0,20,15,Medium,5,Bhopal,2872
+12-02-2023,Frooti,1001,Windy,No event,0,5,15,Medium,4,Bangalore,1052
+12-02-2023,Hajmola Tablets,2286,Windy,No event,0,5,0,Medium,5,Ludhiana,2330
+12-02-2023,Haldiram's Namkeen,1297,Cloudy,No event,0,20,0,Medium,3,Karimnagar,1580
+12-02-2023,Chyawanprash,1558,Windy,No event,0,15,0,Low,4,Bhopal,1730
+19-02-2023,Basmati Rice,1520,Rainy,No event,0,20,15,Low,4,Ludhiana,1559
+19-02-2023,Turmeric Powder,1583,Windy,No event,0,5,0,Low,4,Kota,1684
+19-02-2023,Red Chilli Powder,1663,Sunny,No event,0,5,10,Low,4,Rajahmundry,1581
+19-02-2023,Cumin Seeds,2699,Windy,No event,0,5,0,Medium,5,Bhopal,2831
+19-02-2023,Coriander Powder,1630,Sunny,No event,0,0,10,Medium,3,Tirupati,1628
+19-02-2023,Garam Masala,1649,Cloudy,No event,0,20,10,High,5,Amravati,1776
+19-02-2023,Toor Dal,1262,Sunny,No event,0,0,0,Medium,5,Ludhiana,1246
+19-02-2023,Chana Dal,2776,Rainy,No event,0,5,20,High,3,Tirupati,2649
+19-02-2023,Urad Dal,1287,Rainy,No event,0,15,5,Medium,4,Lucknow,1478
+19-02-2023,Moong Dal,1072,Cloudy,No event,0,15,20,Low,5,Ludhiana,1157
+19-02-2023,Jaggery,1827,Rainy,No event,0,0,15,Low,3,Amritsar,1781
+19-02-2023,Ghee,1066,Windy,No event,0,10,20,Medium,4,Zirakpur,1009
+19-02-2023,Paneer,2232,Cloudy,No event,0,5,15,Medium,4,Bangalore,2141
+19-02-2023,Coconut Oil,2868,Rainy,No event,0,15,15,Medium,3,Aurangabad,2873
+19-02-2023,Mustard Oil,2423,Sunny,No event,0,5,0,High,3,Meerut,2512
+19-02-2023,Aam Papad,2127,Windy,No event,0,10,20,High,5,Indore,2144
+19-02-2023,Mango Pickle,1148,Windy,No event,0,15,0,Low,4,Zirakpur,1281
+19-02-2023,Papad,2523,Cloudy,No event,0,5,0,Low,4,Guntur,2614
+19-02-2023,Idli Rice,1340,Sunny,No event,0,5,20,Medium,3,Bhopal,1191
+19-02-2023,Sambar Powder,2689,Sunny,No event,0,10,10,Medium,5,Jalandhar,2834
+19-02-2023,Aloo Bhujia,2339,Rainy,No event,0,10,10,High,4,Tirupati,2389
+19-02-2023,Kaju Katli,1593,Cloudy,No event,0,15,0,Medium,4,Visakhapatnam ,1815
+19-02-2023,Besan,1072,Cloudy,No event,0,5,10,High,4,Bangalore,1114
+19-02-2023,Aata (Wheat Flour),2229,Cloudy,No event,0,10,5,High,4,Bangalore,2223
+19-02-2023,Mango Juice,1252,Windy,No event,0,5,0,Medium,3,Tirupati,1255
+19-02-2023,Lemon Pickle,2960,Windy,No event,0,0,20,High,5,Amritsar,2893
+19-02-2023,Coconut Chutney,2102,Sunny,No event,0,5,20,Medium,3,Ludhiana,2019
+19-02-2023,Rasgulla,1845,Windy,No event,0,15,15,Low,5,Ludhiana,1839
+19-02-2023,Gulab Jamun Mix,2153,Sunny,No event,0,15,20,High,4,Tirupati,2162
+19-02-2023,Lassi,1777,Rainy,No event,0,10,20,High,4,Vijayawada,1765
+19-02-2023,Bhel Puri Mix,2079,Cloudy,No event,0,10,5,Low,5,Aurangabad,2136
+19-02-2023,Pav Bhaji Masala,1882,Rainy,No event,0,20,0,Medium,4,Jalandhar,1988
+19-02-2023,Chole Masala,1100,Windy,No event,0,15,0,High,3,Rajahmundry,1252
+19-02-2023,Tamarind Paste,2713,Sunny,No event,0,15,15,Medium,5,Visakhapatnam ,2750
+19-02-2023,Ready-to-eat Curry Packs,1091,Windy,No event,0,20,10,High,5,Zirakpur,1154
+19-02-2023,Parle-G Biscuits,1385,Sunny,No event,0,20,20,Medium,5,Hyderabad,1446
+19-02-2023,Thums Up,2911,Rainy,No event,0,20,5,High,4,Guntur,3152
+19-02-2023,Frooti,1492,Sunny,No event,0,20,20,Medium,4,Zirakpur,1672
+19-02-2023,Hajmola Tablets,1496,Sunny,No event,0,20,15,Low,5,Tirupati,1708
+19-02-2023,Haldiram's Namkeen,2817,Rainy,No event,0,20,15,High,3,Kurnool,3037
+19-02-2023,Chyawanprash,2756,Windy,No event,0,15,5,High,3,Aurangabad,2960
+26-02-2023,Basmati Rice,1104,Cloudy,No event,0,20,5,Low,3,Guntur,1370
+26-02-2023,Turmeric Powder,1571,Windy,No event,0,0,0,Low,4,Amravati,1518
+26-02-2023,Red Chilli Powder,1758,Cloudy,No event,0,5,5,Low,5,Amritsar,1716
+26-02-2023,Cumin Seeds,1466,Rainy,No event,0,0,0,High,3,Indore,1434
+26-02-2023,Coriander Powder,1042,Sunny,No event,0,20,20,Low,5,Karimnagar,1170
+26-02-2023,Garam Masala,1231,Rainy,No event,0,10,0,Low,3,Ludhiana,1288
+26-02-2023,Toor Dal,2414,Windy,No event,0,10,15,High,5,Lucknow,2366
+26-02-2023,Chana Dal,2375,Rainy,No event,0,5,20,Low,4,Vijayawada,2232
+26-02-2023,Urad Dal,1328,Cloudy,No event,0,15,0,High,3,Kota,1571
+26-02-2023,Moong Dal,2640,Cloudy,No event,0,10,0,Medium,4,Meerut,2808
+26-02-2023,Jaggery,1373,Cloudy,No event,0,20,15,High,4,Tirupati,1410
+26-02-2023,Ghee,1782,Windy,No event,0,15,5,High,4,Rajahmundry,1823
+26-02-2023,Paneer,1123,Cloudy,No event,0,0,0,High,4,Indore,1136
+26-02-2023,Coconut Oil,1112,Cloudy,No event,0,15,20,High,4,Visakhapatnam ,1181
+26-02-2023,Mustard Oil,2553,Cloudy,No event,0,0,15,Low,5,Bangalore,2526
+26-02-2023,Aam Papad,1661,Cloudy,No event,0,20,15,High,4,Ludhiana,1774
+26-02-2023,Mango Pickle,1435,Cloudy,No event,0,5,20,Low,5,Ludhiana,1311
+26-02-2023,Papad,2706,Rainy,No event,0,10,15,Low,4,Tirupati,2795
+26-02-2023,Idli Rice,2053,Windy,No event,0,10,10,High,3,Amritsar,2041
+26-02-2023,Sambar Powder,2209,Rainy,No event,0,0,20,High,4,Karimnagar,2152
+26-02-2023,Aloo Bhujia,2923,Sunny,No event,0,15,20,High,3,Indore,2976
+26-02-2023,Kaju Katli,2033,Windy,No event,0,5,5,High,3,Bangalore,2106
+26-02-2023,Besan,1111,Rainy,No event,0,10,10,Medium,3,Lucknow,1073
+26-02-2023,Aata (Wheat Flour),1565,Windy,No event,0,15,5,Medium,4,Jalandhar,1601
+26-02-2023,Mango Juice,2043,Cloudy,No event,0,0,5,Low,3,Amravati,1992
+26-02-2023,Lemon Pickle,2404,Rainy,No event,0,10,20,Medium,5,Rajahmundry,2435
+26-02-2023,Coconut Chutney,2492,Cloudy,No event,0,10,5,Low,4,Visakhapatnam ,2520
+26-02-2023,Rasgulla,2795,Rainy,No event,0,20,5,Medium,4,Indore,3057
+26-02-2023,Gulab Jamun Mix,2538,Windy,No event,0,0,15,Low,4,Ludhiana,2442
+26-02-2023,Lassi,2211,Windy,No event,0,5,5,High,5,Visakhapatnam ,2195
+26-02-2023,Bhel Puri Mix,1997,Sunny,No event,0,10,20,Medium,4,Vijayawada,2013
+26-02-2023,Pav Bhaji Masala,1112,Windy,No event,0,10,20,Medium,5,Bhopal,1194
+26-02-2023,Chole Masala,2326,Cloudy,No event,0,15,0,High,5,Amritsar,2432
+26-02-2023,Tamarind Paste,1398,Sunny,No event,0,0,15,High,5,Ludhiana,1420
+26-02-2023,Ready-to-eat Curry Packs,1601,Cloudy,No event,0,15,10,High,3,Meerut,1744
+26-02-2023,Parle-G Biscuits,2794,Sunny,No event,0,15,20,Medium,4,Zirakpur,2850
+26-02-2023,Thums Up,1562,Cloudy,No event,0,20,0,High,3,Amravati,1808
+26-02-2023,Frooti,2855,Rainy,No event,0,5,10,Low,3,Kota,2919
+26-02-2023,Hajmola Tablets,2625,Sunny,No event,0,20,5,Low,4,Visakhapatnam ,2703
+26-02-2023,Haldiram's Namkeen,1611,Rainy,No event,0,5,10,Low,3,Hyderabad,1580
+26-02-2023,Chyawanprash,2619,Cloudy,No event,0,15,15,Low,5,Jalandhar,2745
+05-03-2023,Basmati Rice,2243,Sunny,Pongal,2,15,5,Medium,4,Bhopal,2502
+05-03-2023,Turmeric Powder,2641,Rainy,Pongal,2,15,5,Medium,5,Bangalore,2835
+05-03-2023,Red Chilli Powder,1249,Sunny,Pongal,2,20,15,High,4,Karimnagar,1480
+05-03-2023,Cumin Seeds,1638,Cloudy,Pongal,2,0,10,High,4,Bhopal,1730
+05-03-2023,Coriander Powder,2940,Windy,Pongal,2,10,15,High,5,Tirupati,3134
+05-03-2023,Garam Masala,2105,Windy,Pongal,2,0,20,Medium,3,Karimnagar,2073
+05-03-2023,Toor Dal,1370,Rainy,Pongal,2,5,20,Low,5,Bangalore,1408
+05-03-2023,Chana Dal,1628,Sunny,Pongal,2,20,0,Low,4,Karimnagar,2023
+05-03-2023,Urad Dal,2377,Sunny,Pongal,2,0,0,Low,3,Kota,2404
+05-03-2023,Moong Dal,2517,Sunny,Pongal,2,0,0,Medium,4,Kurnool,2714
+05-03-2023,Jaggery,1021,Sunny,Pongal,2,5,20,Low,4,Aurangabad,1082
+05-03-2023,Ghee,2109,Cloudy,Pongal,2,5,10,Low,5,Aurangabad,2184
+05-03-2023,Paneer,2727,Windy,Pongal,2,15,10,Medium,5,Meerut,2889
+05-03-2023,Coconut Oil,2091,Windy,Pongal,2,20,15,Medium,5,Amravati,2325
+05-03-2023,Mustard Oil,2404,Cloudy,Pongal,2,20,15,Medium,5,Visakhapatnam ,2696
+05-03-2023,Aam Papad,2991,Rainy,Pongal,2,5,0,Medium,5,Amravati,3084
+05-03-2023,Mango Pickle,2459,Cloudy,Pongal,2,15,10,Medium,5,Amritsar,2581
+05-03-2023,Papad,1503,Rainy,Pongal,2,10,20,High,5,Tirupati,1514
+05-03-2023,Idli Rice,2620,Windy,Pongal,2,15,15,Low,3,Kota,2766
+05-03-2023,Sambar Powder,1774,Rainy,Pongal,2,5,5,Medium,4,Jalandhar,1878
+05-03-2023,Aloo Bhujia,1039,Sunny,Pongal,2,10,10,Medium,5,Bangalore,1249
+05-03-2023,Kaju Katli,1259,Rainy,Pongal,2,20,15,High,3,Amritsar,1581
+05-03-2023,Besan,2910,Cloudy,Pongal,2,10,0,High,4,Lucknow,3025
+05-03-2023,Aata (Wheat Flour),1268,Rainy,Pongal,2,20,20,Low,4,Amritsar,1529
+05-03-2023,Mango Juice,2860,Windy,Pongal,2,5,10,High,5,Bhopal,2884
+05-03-2023,Lemon Pickle,2405,Sunny,Pongal,2,15,0,Medium,4,Bangalore,2687
+05-03-2023,Coconut Chutney,2457,Sunny,Pongal,2,15,20,Low,4,Bangalore,2640
+05-03-2023,Rasgulla,1942,Windy,Pongal,2,15,0,High,4,Vijayawada,2199
+05-03-2023,Gulab Jamun Mix,1587,Sunny,Pongal,2,20,5,Medium,5,Karimnagar,1791
+05-03-2023,Lassi,1980,Sunny,Pongal,2,15,5,Medium,3,Rajahmundry,2267
+05-03-2023,Bhel Puri Mix,2337,Cloudy,Pongal,2,0,10,High,4,Visakhapatnam ,2361
+05-03-2023,Pav Bhaji Masala,2806,Windy,Pongal,2,0,20,High,4,Rajahmundry,2796
+05-03-2023,Chole Masala,1482,Sunny,Pongal,2,15,20,Medium,4,Bangalore,1699
+05-03-2023,Tamarind Paste,1854,Rainy,Pongal,2,0,15,Low,5,Meerut,1906
+05-03-2023,Ready-to-eat Curry Packs,1142,Windy,Pongal,2,5,0,High,4,Bangalore,1382
+05-03-2023,Parle-G Biscuits,1459,Sunny,Pongal,2,20,20,Medium,4,Bangalore,1703
+05-03-2023,Thums Up,1209,Sunny,Pongal,2,10,15,Low,5,Hyderabad,1348
+05-03-2023,Frooti,2626,Cloudy,Pongal,2,10,10,High,5,Amritsar,2773
+05-03-2023,Hajmola Tablets,2682,Cloudy,Pongal,2,15,20,Medium,5,Lucknow,2761
+05-03-2023,Haldiram's Namkeen,1153,Rainy,Pongal,2,15,0,Low,4,Lucknow,1404
+05-03-2023,Chyawanprash,2298,Sunny,Pongal,2,10,10,High,4,Rajahmundry,2375
+12-03-2023,Basmati Rice,2531,Sunny,No event,0,0,10,High,3,Visakhapatnam ,2399
+12-03-2023,Turmeric Powder,1264,Windy,No event,0,20,20,Low,4,Meerut,1327
+12-03-2023,Red Chilli Powder,1820,Windy,No event,0,15,0,Medium,5,Amritsar,2056
+12-03-2023,Cumin Seeds,2896,Cloudy,No event,0,0,15,High,4,Lucknow,2845
+12-03-2023,Coriander Powder,1431,Cloudy,No event,0,0,20,Medium,3,Lucknow,1388
+12-03-2023,Garam Masala,1660,Rainy,No event,0,10,5,Low,5,Karimnagar,1703
+12-03-2023,Toor Dal,2224,Windy,No event,0,20,10,Low,3,Rajahmundry,2462
+12-03-2023,Chana Dal,2031,Windy,No event,0,10,0,Medium,3,Jalandhar,2075
+12-03-2023,Urad Dal,1526,Windy,No event,0,15,15,Medium,5,Meerut,1605
+12-03-2023,Moong Dal,2842,Cloudy,No event,0,15,20,Medium,3,Vijayawada,2829
+12-03-2023,Jaggery,1347,Sunny,No event,0,20,10,High,5,Visakhapatnam ,1424
+12-03-2023,Ghee,2515,Cloudy,No event,0,15,20,High,4,Bhopal,2658
+12-03-2023,Paneer,2285,Rainy,No event,0,0,0,High,4,Aurangabad,2337
+12-03-2023,Coconut Oil,1282,Sunny,No event,0,20,15,Medium,4,Tirupati,1442
+12-03-2023,Mustard Oil,2644,Windy,No event,0,5,0,Low,3,Vijayawada,2692
+12-03-2023,Aam Papad,1700,Cloudy,No event,0,10,20,Low,3,Indore,1648
+12-03-2023,Mango Pickle,2830,Sunny,No event,0,10,15,Low,4,Lucknow,2839
+12-03-2023,Papad,1232,Windy,No event,0,5,10,Medium,4,Amravati,1140
+12-03-2023,Idli Rice,2594,Sunny,No event,0,0,0,Low,5,Zirakpur,2660
+12-03-2023,Sambar Powder,1906,Rainy,No event,0,20,10,Medium,5,Jalandhar,2032
+12-03-2023,Aloo Bhujia,2132,Sunny,No event,0,0,15,High,3,Lucknow,1968
+12-03-2023,Kaju Katli,2476,Sunny,No event,0,20,5,High,4,Rajahmundry,2558
+12-03-2023,Besan,2681,Rainy,No event,0,20,0,High,4,Lucknow,2974
+12-03-2023,Aata (Wheat Flour),2682,Cloudy,No event,0,0,15,Medium,3,Bhopal,2662
+12-03-2023,Mango Juice,1654,Windy,No event,0,0,0,Medium,5,Indore,1594
+12-03-2023,Lemon Pickle,2842,Cloudy,No event,0,20,0,Medium,4,Hyderabad,3016
+12-03-2023,Coconut Chutney,2400,Cloudy,No event,0,5,10,Medium,3,Ludhiana,2338
+12-03-2023,Rasgulla,2701,Windy,No event,0,10,20,Medium,3,Bangalore,2731
+12-03-2023,Gulab Jamun Mix,1267,Cloudy,No event,0,5,0,Low,4,Rajahmundry,1379
+12-03-2023,Lassi,1573,Sunny,No event,0,20,5,Low,3,Kurnool,1696
+12-03-2023,Bhel Puri Mix,2452,Windy,No event,0,20,10,Medium,5,Guntur,2620
+12-03-2023,Pav Bhaji Masala,1194,Sunny,No event,0,5,15,Medium,5,Jalandhar,1224
+12-03-2023,Chole Masala,2848,Rainy,No event,0,0,10,Medium,5,Karimnagar,2815
+12-03-2023,Tamarind Paste,2219,Windy,No event,0,0,5,Low,5,Bhopal,2258
+12-03-2023,Ready-to-eat Curry Packs,2467,Sunny,No event,0,15,10,Low,4,Amritsar,2612
+12-03-2023,Parle-G Biscuits,2829,Rainy,No event,0,10,10,Low,3,Bangalore,2842
+12-03-2023,Thums Up,2054,Windy,No event,0,5,15,Medium,3,Zirakpur,2060
+12-03-2023,Frooti,2602,Sunny,No event,0,5,20,Medium,5,Amravati,2526
+12-03-2023,Hajmola Tablets,1362,Windy,No event,0,5,10,Medium,4,Ludhiana,1453
+12-03-2023,Haldiram's Namkeen,1244,Rainy,No event,0,5,10,Low,5,Kota,1173
+12-03-2023,Chyawanprash,1123,Sunny,No event,0,5,20,Low,4,Kota,1073
+19-03-2023,Basmati Rice,1796,Rainy,Diwali,3,15,5,Low,3,Bangalore,2047
+19-03-2023,Turmeric Powder,1067,Cloudy,Diwali,3,15,0,Low,4,Meerut,1335
+19-03-2023,Red Chilli Powder,2877,Sunny,Diwali,3,0,20,Medium,3,Zirakpur,2879
+19-03-2023,Cumin Seeds,1761,Rainy,Diwali,3,5,5,Low,5,Vijayawada,1920
+19-03-2023,Coriander Powder,1835,Rainy,Diwali,3,15,20,High,5,Lucknow,2063
+19-03-2023,Garam Masala,1272,Sunny,Diwali,3,5,10,High,3,Bangalore,1420
+19-03-2023,Toor Dal,1998,Windy,Diwali,3,0,5,High,3,Tirupati,2107
+19-03-2023,Chana Dal,2682,Windy,Diwali,3,20,0,Low,4,Indore,2995
+19-03-2023,Urad Dal,2781,Rainy,Diwali,3,20,15,Medium,3,Aurangabad,3094
+19-03-2023,Moong Dal,2017,Windy,Diwali,3,20,0,Low,4,Hyderabad,2278
+19-03-2023,Jaggery,2022,Sunny,Diwali,3,10,10,Medium,4,Guntur,2304
+19-03-2023,Ghee,1398,Cloudy,Diwali,3,10,0,Medium,5,Bhopal,1702
+19-03-2023,Paneer,2714,Windy,Diwali,3,0,10,Medium,3,Kurnool,2894
+19-03-2023,Coconut Oil,2774,Rainy,Diwali,3,5,15,High,5,Lucknow,2802
+19-03-2023,Mustard Oil,1336,Sunny,Diwali,3,10,0,Low,3,Hyderabad,1598
+19-03-2023,Aam Papad,2036,Windy,Diwali,3,10,10,High,3,Amritsar,2310
+19-03-2023,Mango Pickle,2858,Sunny,Diwali,3,5,20,Medium,5,Lucknow,2911
+19-03-2023,Papad,2687,Cloudy,Diwali,3,20,15,Medium,3,Kota,2896
+19-03-2023,Idli Rice,2511,Rainy,Diwali,3,10,5,Medium,3,Meerut,2706
+19-03-2023,Sambar Powder,1000,Rainy,Diwali,3,0,15,Low,3,Hyderabad,1117
+19-03-2023,Aloo Bhujia,1256,Sunny,Diwali,3,20,15,Low,5,Zirakpur,1594
+19-03-2023,Kaju Katli,2407,Cloudy,Diwali,3,0,5,Medium,4,Bangalore,2435
+19-03-2023,Besan,2708,Rainy,Diwali,3,10,10,Medium,3,Guntur,2841
+19-03-2023,Aata (Wheat Flour),1935,Sunny,Diwali,3,10,10,Medium,4,Ludhiana,2179
+19-03-2023,Mango Juice,2497,Cloudy,Diwali,3,15,15,Medium,4,Aurangabad,2634
+19-03-2023,Lemon Pickle,1903,Rainy,Diwali,3,15,5,High,5,Meerut,2197
+19-03-2023,Coconut Chutney,1436,Sunny,Diwali,3,0,0,Low,4,Hyderabad,1498
+19-03-2023,Rasgulla,1030,Sunny,Diwali,3,10,0,Low,4,Vijayawada,1260
+19-03-2023,Gulab Jamun Mix,2201,Cloudy,Diwali,3,15,15,Medium,4,Kota,2481
+19-03-2023,Lassi,2494,Windy,Diwali,3,20,15,Low,5,Lucknow,2676
+19-03-2023,Bhel Puri Mix,2098,Windy,Diwali,3,5,5,Medium,5,Tirupati,2277
+19-03-2023,Pav Bhaji Masala,2177,Sunny,Diwali,3,0,0,Medium,3,Karimnagar,2244
+19-03-2023,Chole Masala,1939,Sunny,Diwali,3,5,0,Medium,3,Guntur,2159
+19-03-2023,Tamarind Paste,2946,Sunny,Diwali,3,0,10,High,3,Kurnool,3107
+19-03-2023,Ready-to-eat Curry Packs,1140,Windy,Diwali,3,15,5,High,5,Karimnagar,1397
+19-03-2023,Parle-G Biscuits,2721,Cloudy,Diwali,3,15,10,Low,3,Amravati,3027
+19-03-2023,Thums Up,1174,Windy,Diwali,3,10,0,High,4,Amritsar,1346
+19-03-2023,Frooti,2475,Sunny,Diwali,3,20,0,High,3,Kurnool,2899
+19-03-2023,Hajmola Tablets,1809,Sunny,Diwali,3,15,10,High,3,Jalandhar,2103
+19-03-2023,Haldiram's Namkeen,2519,Cloudy,Diwali,3,15,0,High,5,Zirakpur,2864
+19-03-2023,Chyawanprash,2036,Rainy,Diwali,3,15,0,High,3,Lucknow,2376
+26-03-2023,Basmati Rice,2482,Rainy,Sunday,1,5,0,Low,4,Bhopal,2535
+26-03-2023,Turmeric Powder,2928,Windy,Sunday,1,20,20,Low,4,Amritsar,2985
+26-03-2023,Red Chilli Powder,1539,Windy,Sunday,1,5,10,Medium,3,Hyderabad,1542
+26-03-2023,Cumin Seeds,2548,Windy,Sunday,1,20,15,High,5,Amritsar,2679
+26-03-2023,Coriander Powder,2609,Cloudy,Sunday,1,5,20,High,3,Amravati,2554
+26-03-2023,Garam Masala,1674,Sunny,Sunday,1,5,0,Medium,4,Ludhiana,1826
+26-03-2023,Toor Dal,1170,Rainy,Sunday,1,0,15,Medium,3,Bangalore,1197
+26-03-2023,Chana Dal,2875,Cloudy,Sunday,1,15,5,Medium,3,Bhopal,3068
+26-03-2023,Urad Dal,2525,Rainy,Sunday,1,0,15,Medium,5,Rajahmundry,2580
+26-03-2023,Moong Dal,2414,Rainy,Sunday,1,0,5,Low,4,Kota,2491
+26-03-2023,Jaggery,1011,Rainy,Sunday,1,5,15,Low,4,Amritsar,951
+26-03-2023,Ghee,2251,Rainy,Sunday,1,20,15,Low,5,Rajahmundry,2436
+26-03-2023,Paneer,2527,Sunny,Sunday,1,10,0,High,3,Vijayawada,2776
+26-03-2023,Coconut Oil,1488,Cloudy,Sunday,1,10,15,High,3,Ludhiana,1619
+26-03-2023,Mustard Oil,2963,Cloudy,Sunday,1,15,20,High,5,Aurangabad,2966
+26-03-2023,Aam Papad,2166,Sunny,Sunday,1,20,15,Medium,5,Indore,2272
+26-03-2023,Mango Pickle,2464,Sunny,Sunday,1,10,5,High,4,Jalandhar,2514
+26-03-2023,Papad,2716,Rainy,Sunday,1,20,10,High,3,Kota,3015
+26-03-2023,Idli Rice,2072,Windy,Sunday,1,15,10,High,3,Indore,2296
+26-03-2023,Sambar Powder,1488,Cloudy,Sunday,1,15,0,High,5,Visakhapatnam ,1761
+26-03-2023,Aloo Bhujia,1458,Cloudy,Sunday,1,0,5,Low,3,Tirupati,1436
+26-03-2023,Kaju Katli,2145,Cloudy,Sunday,1,10,5,High,3,Amritsar,2190
+26-03-2023,Besan,2246,Sunny,Sunday,1,5,5,Medium,3,Lucknow,2223
+26-03-2023,Aata (Wheat Flour),2744,Sunny,Sunday,1,15,20,High,3,Guntur,2818
+26-03-2023,Mango Juice,1271,Cloudy,Sunday,1,10,15,Medium,3,Ludhiana,1313
+26-03-2023,Lemon Pickle,2355,Windy,Sunday,1,10,5,Medium,3,Bangalore,2518
+26-03-2023,Coconut Chutney,1869,Sunny,Sunday,1,5,10,High,5,Zirakpur,1936
+26-03-2023,Rasgulla,2594,Cloudy,Sunday,1,15,15,High,3,Tirupati,2743
+26-03-2023,Gulab Jamun Mix,1929,Sunny,Sunday,1,10,10,Low,4,Aurangabad,1936
+26-03-2023,Lassi,1592,Cloudy,Sunday,1,15,0,High,5,Ludhiana,1878
+26-03-2023,Bhel Puri Mix,1420,Windy,Sunday,1,5,20,Medium,3,Visakhapatnam ,1393
+26-03-2023,Pav Bhaji Masala,1170,Sunny,Sunday,1,15,15,Medium,5,Bhopal,1364
+26-03-2023,Chole Masala,1348,Cloudy,Sunday,1,10,20,High,3,Indore,1492
+26-03-2023,Tamarind Paste,2783,Sunny,Sunday,1,20,5,Low,4,Karimnagar,3062
+26-03-2023,Ready-to-eat Curry Packs,2776,Rainy,Sunday,1,0,0,Low,5,Aurangabad,2792
+26-03-2023,Parle-G Biscuits,2382,Windy,Sunday,1,20,10,High,3,Visakhapatnam ,2572
+26-03-2023,Thums Up,2114,Sunny,Sunday,1,5,20,Low,3,Lucknow,2095
+26-03-2023,Frooti,2900,Sunny,Sunday,1,5,0,Medium,4,Bhopal,3047
+26-03-2023,Hajmola Tablets,1104,Rainy,Sunday,1,5,10,High,3,Visakhapatnam ,1186
+26-03-2023,Haldiram's Namkeen,2603,Sunny,Sunday,1,5,20,Low,3,Amritsar,2699
+26-03-2023,Chyawanprash,2906,Windy,Sunday,1,10,20,High,4,Kurnool,3002
+02-04-2023,Basmati Rice,1131,Windy,No event,0,5,20,Low,4,Ludhiana,1003
+02-04-2023,Turmeric Powder,2927,Windy,No event,0,5,15,Low,3,Kota,2842
+02-04-2023,Red Chilli Powder,1270,Rainy,No event,0,15,0,High,4,Rajahmundry,1484
+02-04-2023,Cumin Seeds,2559,Rainy,No event,0,10,20,Medium,3,Amritsar,2482
+02-04-2023,Coriander Powder,1470,Windy,No event,0,10,5,Low,3,Kota,1625
+02-04-2023,Garam Masala,1180,Rainy,No event,0,20,20,High,4,Visakhapatnam ,1241
+02-04-2023,Toor Dal,2380,Sunny,No event,0,20,0,Medium,4,Jalandhar,2536
+02-04-2023,Chana Dal,1341,Windy,No event,0,20,20,High,5,Kota,1387
+02-04-2023,Urad Dal,2192,Windy,No event,0,15,10,High,5,Bhopal,2388
+02-04-2023,Moong Dal,1868,Rainy,No event,0,5,5,Medium,4,Ludhiana,1817
+02-04-2023,Jaggery,2070,Rainy,No event,0,10,0,Medium,5,Rajahmundry,2187
+02-04-2023,Ghee,2822,Rainy,No event,0,20,20,Low,5,Bhopal,2991
+02-04-2023,Paneer,1520,Windy,No event,0,10,5,High,4,Kota,1633
+02-04-2023,Coconut Oil,2658,Cloudy,No event,0,0,0,High,3,Kota,2706
+02-04-2023,Mustard Oil,1562,Cloudy,No event,0,0,0,High,3,Zirakpur,1497
+02-04-2023,Aam Papad,2006,Sunny,No event,0,5,10,Medium,3,Amravati,2056
+02-04-2023,Mango Pickle,1680,Sunny,No event,0,0,0,Medium,5,Hyderabad,1652
+02-04-2023,Papad,2360,Cloudy,No event,0,15,15,Low,5,Ludhiana,2397
+02-04-2023,Idli Rice,2497,Windy,No event,0,20,0,Low,5,Amravati,2611
+02-04-2023,Sambar Powder,1042,Windy,No event,0,15,5,Low,5,Bhopal,1182
+02-04-2023,Aloo Bhujia,1700,Windy,No event,0,5,0,Medium,4,Bangalore,1781
+02-04-2023,Kaju Katli,1192,Cloudy,No event,0,0,0,Low,5,Vijayawada,1288
+02-04-2023,Besan,2578,Cloudy,No event,0,20,10,High,5,Rajahmundry,2716
+02-04-2023,Aata (Wheat Flour),2399,Rainy,No event,0,15,15,High,4,Visakhapatnam ,2395
+02-04-2023,Mango Juice,1594,Sunny,No event,0,20,10,Medium,5,Vijayawada,1822
+02-04-2023,Lemon Pickle,2588,Windy,No event,0,15,0,Low,4,Tirupati,2712
+02-04-2023,Coconut Chutney,1516,Rainy,No event,0,15,0,Medium,3,Zirakpur,1622
+02-04-2023,Rasgulla,2903,Sunny,No event,0,10,0,Medium,4,Lucknow,2921
+02-04-2023,Gulab Jamun Mix,2107,Rainy,No event,0,5,15,Low,3,Zirakpur,2163
+02-04-2023,Lassi,1830,Rainy,No event,0,10,20,Low,4,Hyderabad,1834
+02-04-2023,Bhel Puri Mix,1517,Cloudy,No event,0,20,5,Low,4,Indore,1649
+02-04-2023,Pav Bhaji Masala,2491,Windy,No event,0,0,20,Medium,4,Zirakpur,2459
+02-04-2023,Chole Masala,1386,Rainy,No event,0,0,15,High,5,Amravati,1220
+02-04-2023,Tamarind Paste,1021,Sunny,No event,0,10,5,Medium,4,Aurangabad,1149
+02-04-2023,Ready-to-eat Curry Packs,1019,Rainy,No event,0,10,20,High,4,Kurnool,959
+02-04-2023,Parle-G Biscuits,2857,Windy,No event,0,10,15,High,5,Visakhapatnam ,2939
+02-04-2023,Thums Up,1480,Cloudy,No event,0,10,10,Medium,3,Aurangabad,1525
+02-04-2023,Frooti,1412,Cloudy,No event,0,0,10,High,4,Rajahmundry,1457
+02-04-2023,Hajmola Tablets,2102,Rainy,No event,0,5,0,Medium,3,Amritsar,2110
+02-04-2023,Haldiram's Namkeen,1413,Windy,No event,0,20,10,Medium,4,Vijayawada,1487
+02-04-2023,Chyawanprash,1816,Windy,No event,0,0,0,Low,5,Ludhiana,1852
+09-04-2023,Basmati Rice,1045,Rainy,No event,0,0,5,Low,3,Bhopal,1025
+09-04-2023,Turmeric Powder,1053,Windy,No event,0,0,5,Medium,5,Guntur,1105
+09-04-2023,Red Chilli Powder,2947,Windy,No event,0,10,20,High,3,Bangalore,2957
+09-04-2023,Cumin Seeds,2945,Windy,No event,0,20,10,Low,5,Meerut,3141
+09-04-2023,Coriander Powder,1211,Rainy,No event,0,0,0,Medium,4,Amravati,1278
+09-04-2023,Garam Masala,1736,Sunny,No event,0,20,15,High,5,Hyderabad,1870
+09-04-2023,Toor Dal,1962,Rainy,No event,0,5,10,Low,4,Zirakpur,1923
+09-04-2023,Chana Dal,1638,Rainy,No event,0,5,5,Medium,4,Amritsar,1581
+09-04-2023,Urad Dal,1832,Rainy,No event,0,20,10,Medium,4,Bhopal,2001
+09-04-2023,Moong Dal,1508,Windy,No event,0,10,5,Low,3,Lucknow,1616
+09-04-2023,Jaggery,1548,Sunny,No event,0,0,15,Low,4,Kurnool,1509
+09-04-2023,Ghee,2593,Windy,No event,0,10,20,Medium,3,Tirupati,2599
+09-04-2023,Paneer,2358,Cloudy,No event,0,15,5,High,3,Guntur,2474
+09-04-2023,Coconut Oil,1771,Cloudy,No event,0,10,5,Low,3,Tirupati,1880
+09-04-2023,Mustard Oil,1822,Cloudy,No event,0,15,15,High,3,Kurnool,1799
+09-04-2023,Aam Papad,2061,Cloudy,No event,0,5,0,Low,4,Lucknow,2095
+09-04-2023,Mango Pickle,1241,Sunny,No event,0,20,0,Medium,3,Rajahmundry,1539
+09-04-2023,Papad,2152,Sunny,No event,0,15,10,High,3,Bangalore,2347
+09-04-2023,Idli Rice,1276,Windy,No event,0,10,5,High,3,Karimnagar,1311
+09-04-2023,Sambar Powder,1543,Windy,No event,0,0,20,High,4,Visakhapatnam ,1397
+09-04-2023,Aloo Bhujia,1806,Windy,No event,0,5,0,Medium,4,Zirakpur,1835
+09-04-2023,Kaju Katli,2010,Sunny,No event,0,20,20,Low,4,Amritsar,2118
+09-04-2023,Besan,1464,Rainy,No event,0,0,20,Medium,5,Bangalore,1339
+09-04-2023,Aata (Wheat Flour),2700,Rainy,No event,0,0,0,Low,5,Rajahmundry,2686
+09-04-2023,Mango Juice,2639,Windy,No event,0,15,20,Low,5,Ludhiana,2673
+09-04-2023,Lemon Pickle,1757,Sunny,No event,0,15,5,Medium,4,Aurangabad,1814
+09-04-2023,Coconut Chutney,1633,Cloudy,No event,0,10,5,High,4,Amravati,1745
+09-04-2023,Rasgulla,2257,Windy,No event,0,10,15,Medium,3,Meerut,2209
+09-04-2023,Gulab Jamun Mix,1136,Cloudy,No event,0,10,15,High,3,Kurnool,1235
+09-04-2023,Lassi,2959,Cloudy,No event,0,0,10,High,4,Amritsar,2983
+09-04-2023,Bhel Puri Mix,1140,Sunny,No event,0,20,5,Medium,5,Kota,1343
+09-04-2023,Pav Bhaji Masala,1924,Sunny,No event,0,20,0,Low,3,Aurangabad,2062
+09-04-2023,Chole Masala,2474,Rainy,No event,0,20,20,Medium,3,Amravati,2480
+09-04-2023,Tamarind Paste,1528,Rainy,No event,0,20,0,Low,4,Amravati,1798
+09-04-2023,Ready-to-eat Curry Packs,2403,Rainy,No event,0,20,20,High,4,Bangalore,2546
+09-04-2023,Parle-G Biscuits,1335,Windy,No event,0,0,20,Low,4,Jalandhar,1303
+09-04-2023,Thums Up,2436,Windy,No event,0,10,0,High,4,Vijayawada,2518
+09-04-2023,Frooti,1138,Cloudy,No event,0,0,20,High,5,Vijayawada,1118
+09-04-2023,Hajmola Tablets,2759,Cloudy,No event,0,0,5,High,4,Lucknow,2769
+09-04-2023,Haldiram's Namkeen,2072,Windy,No event,0,0,15,High,3,Guntur,2069
+09-04-2023,Chyawanprash,1531,Cloudy,No event,0,20,20,Medium,5,Tirupati,1722
+16-04-2023,Basmati Rice,1205,Sunny,No event,0,10,10,High,4,Kota,1218
+16-04-2023,Turmeric Powder,2502,Rainy,No event,0,15,10,High,4,Indore,2608
+16-04-2023,Red Chilli Powder,1316,Cloudy,No event,0,0,0,High,4,Kurnool,1263
+16-04-2023,Cumin Seeds,2391,Windy,No event,0,0,5,Medium,3,Bhopal,2438
+16-04-2023,Coriander Powder,1484,Windy,No event,0,5,15,Low,5,Hyderabad,1550
+16-04-2023,Garam Masala,1219,Sunny,No event,0,10,15,Low,5,Karimnagar,1277
+16-04-2023,Toor Dal,2508,Windy,No event,0,10,20,Medium,4,Amravati,2469
+16-04-2023,Chana Dal,1053,Windy,No event,0,5,20,Low,5,Kota,918
+16-04-2023,Urad Dal,1385,Windy,No event,0,10,0,Low,5,Indore,1478
+16-04-2023,Moong Dal,2753,Cloudy,No event,0,15,10,High,3,Karimnagar,2754
+16-04-2023,Jaggery,2341,Windy,No event,0,10,5,High,4,Tirupati,2428
+16-04-2023,Ghee,2152,Sunny,No event,0,10,10,Medium,3,Guntur,2274
+16-04-2023,Paneer,2609,Sunny,No event,0,10,15,High,4,Lucknow,2714
+16-04-2023,Coconut Oil,1339,Rainy,No event,0,15,15,Medium,3,Meerut,1474
+16-04-2023,Mustard Oil,2614,Sunny,No event,0,20,20,Low,5,Indore,2618
+16-04-2023,Aam Papad,1454,Cloudy,No event,0,0,10,High,3,Lucknow,1407
+16-04-2023,Mango Pickle,2205,Cloudy,No event,0,5,5,High,3,Ludhiana,2254
+16-04-2023,Papad,1798,Windy,No event,0,10,15,High,3,Guntur,1813
+16-04-2023,Idli Rice,2678,Rainy,No event,0,20,10,High,5,Kota,2871
+16-04-2023,Sambar Powder,1916,Sunny,No event,0,10,15,High,5,Ludhiana,2022
+16-04-2023,Aloo Bhujia,1165,Cloudy,No event,0,15,20,High,4,Kurnool,1273
+16-04-2023,Kaju Katli,2791,Windy,No event,0,5,0,High,5,Lucknow,2926
+16-04-2023,Besan,1338,Rainy,No event,0,20,20,Low,4,Bangalore,1362
+16-04-2023,Aata (Wheat Flour),1073,Sunny,No event,0,20,10,High,4,Bhopal,1183
+16-04-2023,Mango Juice,2645,Sunny,No event,0,15,10,High,5,Kurnool,2827
+16-04-2023,Lemon Pickle,1779,Rainy,No event,0,10,20,High,3,Zirakpur,1728
+16-04-2023,Coconut Chutney,2037,Cloudy,No event,0,0,5,Medium,3,Bhopal,1943
+16-04-2023,Rasgulla,2745,Sunny,No event,0,5,10,High,4,Kurnool,2764
+16-04-2023,Gulab Jamun Mix,1570,Sunny,No event,0,15,20,High,3,Kurnool,1608
+16-04-2023,Lassi,2283,Cloudy,No event,0,5,10,Low,5,Jalandhar,2375
+16-04-2023,Bhel Puri Mix,1092,Windy,No event,0,15,5,High,3,Meerut,1290
+16-04-2023,Pav Bhaji Masala,2082,Cloudy,No event,0,15,5,Low,5,Lucknow,2149
+16-04-2023,Chole Masala,1012,Windy,No event,0,15,10,Medium,4,Meerut,1077
+16-04-2023,Tamarind Paste,2610,Sunny,No event,0,5,15,Medium,4,Zirakpur,2684
+16-04-2023,Ready-to-eat Curry Packs,1925,Windy,No event,0,10,15,Low,4,Karimnagar,1977
+16-04-2023,Parle-G Biscuits,1951,Windy,No event,0,10,20,High,5,Visakhapatnam ,2026
+16-04-2023,Thums Up,1464,Rainy,No event,0,10,15,Low,4,Jalandhar,1507
+16-04-2023,Frooti,2654,Rainy,No event,0,20,15,High,3,Indore,2690
+16-04-2023,Hajmola Tablets,2546,Sunny,No event,0,5,20,High,4,Amravati,2493
+16-04-2023,Haldiram's Namkeen,1275,Rainy,No event,0,15,5,Medium,5,Tirupati,1349
+16-04-2023,Chyawanprash,2107,Windy,No event,0,5,15,High,3,Guntur,2112
+23-04-2023,Basmati Rice,1109,Cloudy,No event,0,0,15,High,5,Zirakpur,1125
+23-04-2023,Turmeric Powder,2443,Sunny,No event,0,15,5,High,3,Indore,2592
+23-04-2023,Red Chilli Powder,2539,Windy,No event,0,15,20,Medium,4,Ludhiana,2570
+23-04-2023,Cumin Seeds,1452,Rainy,No event,0,5,10,Medium,4,Guntur,1543
+23-04-2023,Coriander Powder,2168,Cloudy,No event,0,10,15,Medium,5,Guntur,2157
+23-04-2023,Garam Masala,1789,Sunny,No event,0,5,20,Medium,3,Kota,1779
+23-04-2023,Toor Dal,1105,Cloudy,No event,0,10,15,Low,5,Rajahmundry,1044
+23-04-2023,Chana Dal,2754,Rainy,No event,0,20,0,Low,4,Meerut,2935
+23-04-2023,Urad Dal,1443,Windy,No event,0,0,15,Medium,5,Ludhiana,1338
+23-04-2023,Moong Dal,1223,Windy,No event,0,5,15,High,3,Bangalore,1159
+23-04-2023,Jaggery,2413,Sunny,No event,0,20,0,Low,3,Indore,2589
+23-04-2023,Ghee,1844,Rainy,No event,0,15,15,High,3,Lucknow,1978
+23-04-2023,Paneer,2435,Rainy,No event,0,15,20,Medium,5,Guntur,2515
+23-04-2023,Coconut Oil,1071,Cloudy,No event,0,5,20,Medium,5,Ludhiana,982
+23-04-2023,Mustard Oil,2099,Cloudy,No event,0,10,5,High,5,Guntur,2250
+23-04-2023,Aam Papad,1286,Cloudy,No event,0,15,0,High,3,Zirakpur,1419
+23-04-2023,Mango Pickle,1937,Rainy,No event,0,15,20,Low,5,Hyderabad,2000
+23-04-2023,Papad,1931,Windy,No event,0,15,20,Low,4,Amravati,2009
+23-04-2023,Idli Rice,1108,Sunny,No event,0,0,5,Medium,5,Meerut,1005
+23-04-2023,Sambar Powder,1780,Windy,No event,0,10,5,High,5,Lucknow,1921
+23-04-2023,Aloo Bhujia,2025,Sunny,No event,0,15,0,Low,5,Zirakpur,2219
+23-04-2023,Kaju Katli,2361,Sunny,No event,0,5,20,Medium,4,Hyderabad,2223
+23-04-2023,Besan,2224,Sunny,No event,0,20,0,High,5,Kurnool,2503
+23-04-2023,Aata (Wheat Flour),2848,Windy,No event,0,20,15,Medium,3,Kota,2924
+23-04-2023,Mango Juice,2121,Cloudy,No event,0,0,15,High,5,Jalandhar,1954
+23-04-2023,Lemon Pickle,1952,Windy,No event,0,0,20,Medium,3,Meerut,1887
+23-04-2023,Coconut Chutney,2725,Rainy,No event,0,15,0,High,4,Indore,2889
+23-04-2023,Rasgulla,1732,Rainy,No event,0,10,0,Low,4,Kurnool,1816
+23-04-2023,Gulab Jamun Mix,1821,Rainy,No event,0,5,20,Low,5,Indore,1870
+23-04-2023,Lassi,2172,Sunny,No event,0,10,10,High,3,Jalandhar,2236
+23-04-2023,Bhel Puri Mix,2029,Rainy,No event,0,10,15,High,3,Aurangabad,2100
+23-04-2023,Pav Bhaji Masala,2241,Windy,No event,0,5,20,High,4,Guntur,2267
+23-04-2023,Chole Masala,2128,Windy,No event,0,5,20,Medium,3,Kurnool,2165
+23-04-2023,Tamarind Paste,2895,Rainy,No event,0,5,15,High,4,Lucknow,2953
+23-04-2023,Ready-to-eat Curry Packs,1899,Cloudy,No event,0,5,0,High,4,Amritsar,2014
+23-04-2023,Parle-G Biscuits,1653,Rainy,No event,0,0,15,High,5,Karimnagar,1502
+23-04-2023,Thums Up,1915,Rainy,No event,0,5,5,Low,4,Aurangabad,2031
+23-04-2023,Frooti,2977,Cloudy,No event,0,10,10,Low,5,Indore,2953
+23-04-2023,Hajmola Tablets,2579,Sunny,No event,0,10,15,Low,3,Rajahmundry,2529
+23-04-2023,Haldiram's Namkeen,2711,Cloudy,No event,0,5,15,High,5,Meerut,2768
+23-04-2023,Chyawanprash,2401,Sunny,No event,0,0,5,Medium,5,Rajahmundry,2424
+30-04-2023,Basmati Rice,2504,Sunny,Janmashtami,2,15,20,Medium,3,Visakhapatnam ,2669
+30-04-2023,Turmeric Powder,2325,Sunny,Janmashtami,2,5,5,Medium,5,Guntur,2374
+30-04-2023,Red Chilli Powder,2987,Cloudy,Janmashtami,2,0,10,High,5,Zirakpur,3027
+30-04-2023,Cumin Seeds,1191,Sunny,Janmashtami,2,15,10,Medium,5,Tirupati,1485
+30-04-2023,Coriander Powder,1202,Cloudy,Janmashtami,2,5,0,Low,5,Indore,1312
+30-04-2023,Garam Masala,1055,Cloudy,Janmashtami,2,20,20,High,3,Zirakpur,1341
+30-04-2023,Toor Dal,1751,Cloudy,Janmashtami,2,20,20,Low,5,Ludhiana,1852
+30-04-2023,Chana Dal,1107,Windy,Janmashtami,2,15,10,Medium,5,Amritsar,1282
+30-04-2023,Urad Dal,1892,Cloudy,Janmashtami,2,20,10,High,3,Hyderabad,2223
+30-04-2023,Moong Dal,2270,Rainy,Janmashtami,2,5,20,High,4,Jalandhar,2250
+30-04-2023,Jaggery,1551,Sunny,Janmashtami,2,15,0,High,4,Visakhapatnam ,1801
+30-04-2023,Ghee,1693,Sunny,Janmashtami,2,0,0,High,4,Meerut,1862
+30-04-2023,Paneer,2808,Sunny,Janmashtami,2,10,20,Medium,5,Meerut,2824
+30-04-2023,Coconut Oil,1365,Sunny,Janmashtami,2,0,20,Medium,5,Ludhiana,1278
+30-04-2023,Mustard Oil,2776,Windy,Janmashtami,2,20,20,High,3,Meerut,3034
+30-04-2023,Aam Papad,2240,Windy,Janmashtami,2,20,5,Low,5,Bangalore,2576
+30-04-2023,Mango Pickle,1570,Sunny,Janmashtami,2,5,15,Medium,4,Meerut,1736
+30-04-2023,Papad,2485,Cloudy,Janmashtami,2,15,0,Low,4,Tirupati,2647
+30-04-2023,Idli Rice,1750,Windy,Janmashtami,2,15,10,High,5,Hyderabad,2012
+30-04-2023,Sambar Powder,1431,Rainy,Janmashtami,2,10,15,High,4,Amravati,1499
+30-04-2023,Aloo Bhujia,1362,Windy,Janmashtami,2,20,20,Low,5,Indore,1511
+30-04-2023,Kaju Katli,2151,Rainy,Janmashtami,2,15,20,Medium,4,Amritsar,2342
+30-04-2023,Besan,1857,Windy,Janmashtami,2,15,10,Medium,3,Zirakpur,1984
+30-04-2023,Aata (Wheat Flour),2510,Cloudy,Janmashtami,2,10,10,High,3,Ludhiana,2604
+30-04-2023,Mango Juice,2148,Windy,Janmashtami,2,15,10,High,4,Aurangabad,2304
+30-04-2023,Lemon Pickle,2908,Rainy,Janmashtami,2,5,5,Medium,3,Rajahmundry,3099
+30-04-2023,Coconut Chutney,2975,Rainy,Janmashtami,2,20,20,Medium,4,Aurangabad,3196
+30-04-2023,Rasgulla,1287,Windy,Janmashtami,2,15,20,High,4,Lucknow,1442
+30-04-2023,Gulab Jamun Mix,2235,Rainy,Janmashtami,2,5,0,Low,4,Tirupati,2290
+30-04-2023,Lassi,1810,Windy,Janmashtami,2,10,10,Medium,5,Rajahmundry,2004
+30-04-2023,Bhel Puri Mix,2924,Rainy,Janmashtami,2,15,0,Low,5,Bhopal,3233
+30-04-2023,Pav Bhaji Masala,1778,Rainy,Janmashtami,2,0,15,Medium,5,Guntur,1705
+30-04-2023,Chole Masala,1250,Windy,Janmashtami,2,15,0,Medium,3,Jalandhar,1472
+30-04-2023,Tamarind Paste,1029,Rainy,Janmashtami,2,20,20,High,5,Kota,1153
+30-04-2023,Ready-to-eat Curry Packs,2016,Sunny,Janmashtami,2,0,5,Medium,4,Aurangabad,2048
+30-04-2023,Parle-G Biscuits,1098,Sunny,Janmashtami,2,10,15,Medium,4,Jalandhar,1133
+30-04-2023,Thums Up,1977,Rainy,Janmashtami,2,0,5,Low,4,Ludhiana,2005
+30-04-2023,Frooti,2012,Windy,Janmashtami,2,0,10,Medium,5,Kurnool,2148
+30-04-2023,Hajmola Tablets,1238,Cloudy,Janmashtami,2,0,15,High,5,Rajahmundry,1210
+30-04-2023,Haldiram's Namkeen,1641,Windy,Janmashtami,2,15,20,High,4,Kota,1749
+30-04-2023,Chyawanprash,2578,Rainy,Janmashtami,2,15,15,Low,4,Meerut,2669
+07-05-2023,Basmati Rice,1719,Windy,No event,0,15,20,Low,4,Amravati,1704
+07-05-2023,Turmeric Powder,2203,Windy,No event,0,20,5,High,3,Meerut,2401
+07-05-2023,Red Chilli Powder,2459,Sunny,No event,0,10,15,High,4,Zirakpur,2402
+07-05-2023,Cumin Seeds,2011,Cloudy,No event,0,20,20,High,5,Ludhiana,2039
+07-05-2023,Coriander Powder,1964,Sunny,No event,0,15,5,Medium,4,Visakhapatnam ,2170
+07-05-2023,Garam Masala,1652,Cloudy,No event,0,20,10,High,4,Bhopal,1872
+07-05-2023,Toor Dal,2766,Cloudy,No event,0,15,15,High,3,Bhopal,2887
+07-05-2023,Chana Dal,2873,Cloudy,No event,0,15,0,Low,4,Guntur,2927
+07-05-2023,Urad Dal,2859,Rainy,No event,0,10,20,Medium,4,Visakhapatnam ,2802
+07-05-2023,Moong Dal,1134,Sunny,No event,0,5,0,Medium,5,Aurangabad,1151
+07-05-2023,Jaggery,1414,Cloudy,No event,0,10,0,Low,3,Vijayawada,1496
+07-05-2023,Ghee,1315,Rainy,No event,0,15,5,Medium,4,Aurangabad,1356
+07-05-2023,Paneer,1886,Windy,No event,0,20,10,Low,5,Rajahmundry,2020
+07-05-2023,Coconut Oil,2248,Rainy,No event,0,5,5,High,3,Bhopal,2264
+07-05-2023,Mustard Oil,2409,Rainy,No event,0,15,20,Medium,5,Amritsar,2464
+07-05-2023,Aam Papad,2194,Windy,No event,0,10,5,High,4,Bhopal,2243
+07-05-2023,Mango Pickle,1880,Rainy,No event,0,15,10,Medium,5,Ludhiana,2061
+07-05-2023,Papad,2619,Sunny,No event,0,5,15,Medium,4,Aurangabad,2659
+07-05-2023,Idli Rice,2397,Windy,No event,0,5,0,Low,3,Kota,2388
+07-05-2023,Sambar Powder,2306,Sunny,No event,0,20,0,Medium,5,Meerut,2446
+07-05-2023,Aloo Bhujia,1587,Cloudy,No event,0,5,0,Medium,3,Rajahmundry,1626
+07-05-2023,Kaju Katli,1320,Cloudy,No event,0,0,5,High,4,Jalandhar,1373
+07-05-2023,Besan,2101,Windy,No event,0,10,5,High,3,Bhopal,2269
+07-05-2023,Aata (Wheat Flour),1279,Windy,No event,0,20,15,Low,5,Meerut,1452
+07-05-2023,Mango Juice,2151,Cloudy,No event,0,20,5,Medium,4,Kota,2283
+07-05-2023,Lemon Pickle,1638,Cloudy,No event,0,15,20,Medium,4,Karimnagar,1667
+07-05-2023,Coconut Chutney,1293,Windy,No event,0,0,0,Low,4,Bhopal,1387
+07-05-2023,Rasgulla,2485,Rainy,No event,0,10,20,Low,5,Ludhiana,2582
+07-05-2023,Gulab Jamun Mix,1316,Windy,No event,0,0,20,High,4,Karimnagar,1314
+07-05-2023,Lassi,1494,Windy,No event,0,15,0,Low,4,Lucknow,1587
+07-05-2023,Bhel Puri Mix,1205,Sunny,No event,0,20,10,High,5,Aurangabad,1333
+07-05-2023,Pav Bhaji Masala,2133,Sunny,No event,0,20,10,Low,5,Kurnool,2364
+07-05-2023,Chole Masala,2224,Sunny,No event,0,10,15,High,3,Indore,2177
+07-05-2023,Tamarind Paste,1507,Rainy,No event,0,0,5,Low,3,Guntur,1470
+07-05-2023,Ready-to-eat Curry Packs,2958,Rainy,No event,0,0,15,High,5,Indore,2836
+07-05-2023,Parle-G Biscuits,1192,Sunny,No event,0,5,10,Medium,5,Kurnool,1218
+07-05-2023,Thums Up,1007,Sunny,No event,0,0,5,Low,4,Meerut,910
+07-05-2023,Frooti,2498,Rainy,No event,0,0,10,High,3,Rajahmundry,2455
+07-05-2023,Hajmola Tablets,2795,Windy,No event,0,20,15,Low,5,Karimnagar,2838
+07-05-2023,Haldiram's Namkeen,1187,Rainy,No event,0,20,10,Low,3,Guntur,1421
+07-05-2023,Chyawanprash,1210,Rainy,No event,0,20,20,Medium,5,Visakhapatnam ,1409
+14-05-2023,Basmati Rice,2942,Windy,No event,0,5,5,High,4,Visakhapatnam ,2909
+14-05-2023,Turmeric Powder,1434,Windy,No event,0,0,15,High,5,Ludhiana,1270
+14-05-2023,Red Chilli Powder,2546,Rainy,No event,0,10,5,Medium,5,Meerut,2558
+14-05-2023,Cumin Seeds,2961,Rainy,No event,0,10,15,Medium,3,Aurangabad,2950
+14-05-2023,Coriander Powder,1375,Windy,No event,0,10,15,Medium,5,Bangalore,1306
+14-05-2023,Garam Masala,2893,Rainy,No event,0,20,15,Low,4,Kurnool,3027
+14-05-2023,Toor Dal,2844,Rainy,No event,0,10,20,Low,4,Karimnagar,2831
+14-05-2023,Chana Dal,2589,Sunny,No event,0,20,0,Low,4,Rajahmundry,2873
+14-05-2023,Urad Dal,1365,Cloudy,No event,0,15,10,Low,5,Visakhapatnam ,1486
+14-05-2023,Moong Dal,2563,Windy,No event,0,0,20,High,4,Kurnool,2473
+14-05-2023,Jaggery,1962,Sunny,No event,0,15,10,Medium,3,Vijayawada,2119
+14-05-2023,Ghee,1617,Sunny,No event,0,20,0,High,4,Visakhapatnam ,1763
+14-05-2023,Paneer,2872,Cloudy,No event,0,0,5,High,4,Visakhapatnam ,2915
+14-05-2023,Coconut Oil,1819,Cloudy,No event,0,0,20,Medium,4,Kota,1779
+14-05-2023,Mustard Oil,1643,Windy,No event,0,20,15,Medium,3,Amritsar,1838
+14-05-2023,Aam Papad,2543,Sunny,No event,0,5,0,Low,5,Bhopal,2644
+14-05-2023,Mango Pickle,2306,Windy,No event,0,5,15,High,5,Vijayawada,2212
+14-05-2023,Papad,1558,Sunny,No event,0,5,15,Low,5,Lucknow,1619
+14-05-2023,Idli Rice,2667,Sunny,No event,0,0,5,High,3,Bhopal,2571
+14-05-2023,Sambar Powder,2113,Cloudy,No event,0,15,15,Medium,4,Kurnool,2268
+14-05-2023,Aloo Bhujia,2113,Sunny,No event,0,0,5,Medium,5,Hyderabad,2121
+14-05-2023,Kaju Katli,2789,Windy,No event,0,10,20,Medium,5,Guntur,2789
+14-05-2023,Besan,1154,Sunny,No event,0,5,20,Medium,4,Kota,1170
+14-05-2023,Aata (Wheat Flour),2184,Cloudy,No event,0,20,15,High,3,Jalandhar,2398
+14-05-2023,Mango Juice,1258,Cloudy,No event,0,15,20,Medium,4,Meerut,1342
+14-05-2023,Lemon Pickle,1363,Cloudy,No event,0,15,20,Medium,3,Kurnool,1499
+14-05-2023,Coconut Chutney,1604,Windy,No event,0,10,5,Low,4,Kurnool,1600
+14-05-2023,Rasgulla,2108,Windy,No event,0,5,0,High,3,Aurangabad,2112
+14-05-2023,Gulab Jamun Mix,1432,Rainy,No event,0,15,15,High,5,Rajahmundry,1415
+14-05-2023,Lassi,1479,Cloudy,No event,0,20,20,Medium,3,Ludhiana,1665
+14-05-2023,Bhel Puri Mix,2410,Rainy,No event,0,5,20,High,5,Kota,2342
+14-05-2023,Pav Bhaji Masala,2317,Windy,No event,0,20,10,Medium,5,Kota,2443
+14-05-2023,Chole Masala,1596,Rainy,No event,0,5,15,High,5,Vijayawada,1665
+14-05-2023,Tamarind Paste,2356,Windy,No event,0,20,10,Low,4,Ludhiana,2476
+14-05-2023,Ready-to-eat Curry Packs,2451,Rainy,No event,0,5,0,Medium,3,Meerut,2401
+14-05-2023,Parle-G Biscuits,2488,Rainy,No event,0,0,0,Medium,3,Kota,2575
+14-05-2023,Thums Up,1170,Windy,No event,0,0,15,Low,5,Lucknow,1128
+14-05-2023,Frooti,2164,Sunny,No event,0,10,0,Medium,4,Meerut,2206
+14-05-2023,Hajmola Tablets,2115,Windy,No event,0,5,10,High,3,Lucknow,2193
+14-05-2023,Haldiram's Namkeen,2272,Sunny,No event,0,15,15,Low,4,Meerut,2313
+14-05-2023,Chyawanprash,1147,Cloudy,No event,0,20,20,Low,3,Indore,1264
+21-05-2023,Basmati Rice,1812,Rainy,No event,0,5,5,Medium,5,Tirupati,1850
+21-05-2023,Turmeric Powder,2784,Rainy,No event,0,15,20,Medium,5,Meerut,2916
+21-05-2023,Red Chilli Powder,2037,Rainy,No event,0,10,20,Medium,4,Kurnool,2054
+21-05-2023,Cumin Seeds,1886,Windy,No event,0,0,0,High,5,Ludhiana,1936
+21-05-2023,Coriander Powder,1914,Cloudy,No event,0,15,15,High,3,Vijayawada,1916
+21-05-2023,Garam Masala,2633,Sunny,No event,0,0,20,Medium,5,Visakhapatnam ,2559
+21-05-2023,Toor Dal,1527,Windy,No event,0,20,15,Medium,4,Bangalore,1579
+21-05-2023,Chana Dal,1213,Rainy,No event,0,15,20,Medium,5,Rajahmundry,1247
+21-05-2023,Urad Dal,1662,Sunny,No event,0,0,0,Low,4,Indore,1676
+21-05-2023,Moong Dal,2486,Rainy,No event,0,20,10,Medium,5,Kurnool,2684
+21-05-2023,Jaggery,2326,Rainy,No event,0,10,20,Medium,5,Hyderabad,2393
+21-05-2023,Ghee,2370,Cloudy,No event,0,5,15,High,4,Vijayawada,2381
+21-05-2023,Paneer,2200,Sunny,No event,0,20,5,Low,3,Ludhiana,2361
+21-05-2023,Coconut Oil,2985,Sunny,No event,0,20,15,Low,3,Visakhapatnam ,3034
+21-05-2023,Mustard Oil,1901,Sunny,No event,0,10,0,Low,4,Tirupati,2073
+21-05-2023,Aam Papad,2378,Cloudy,No event,0,5,10,High,3,Kurnool,2429
+21-05-2023,Mango Pickle,2058,Cloudy,No event,0,0,15,Low,3,Vijayawada,2072
+21-05-2023,Papad,1490,Windy,No event,0,0,20,Low,4,Amritsar,1378
+21-05-2023,Idli Rice,2048,Cloudy,No event,0,20,10,High,5,Rajahmundry,2113
+21-05-2023,Sambar Powder,1929,Sunny,No event,0,0,5,High,3,Vijayawada,1883
+21-05-2023,Aloo Bhujia,1044,Windy,No event,0,5,5,Low,3,Karimnagar,1102
+21-05-2023,Kaju Katli,2001,Windy,No event,0,0,10,High,5,Guntur,1860
+21-05-2023,Besan,1478,Cloudy,No event,0,15,15,Low,3,Visakhapatnam ,1467
+21-05-2023,Aata (Wheat Flour),2411,Rainy,No event,0,0,20,Low,4,Bhopal,2226
+21-05-2023,Mango Juice,2284,Rainy,No event,0,0,15,Low,5,Meerut,2128
+21-05-2023,Lemon Pickle,2644,Cloudy,No event,0,5,20,Low,4,Meerut,2567
+21-05-2023,Coconut Chutney,1266,Windy,No event,0,10,0,Medium,3,Jalandhar,1364
+21-05-2023,Rasgulla,2097,Sunny,No event,0,5,20,Low,3,Zirakpur,2019
+21-05-2023,Gulab Jamun Mix,2831,Rainy,No event,0,5,15,High,5,Visakhapatnam ,2769
+21-05-2023,Lassi,1734,Sunny,No event,0,20,5,High,3,Hyderabad,1897
+21-05-2023,Bhel Puri Mix,1664,Windy,No event,0,15,0,Low,4,Tirupati,1726
+21-05-2023,Pav Bhaji Masala,1593,Windy,No event,0,5,10,Medium,5,Hyderabad,1567
+21-05-2023,Chole Masala,1955,Windy,No event,0,20,10,Medium,5,Visakhapatnam ,2130
+21-05-2023,Tamarind Paste,2515,Cloudy,No event,0,0,15,High,3,Meerut,2522
+21-05-2023,Ready-to-eat Curry Packs,2565,Rainy,No event,0,0,10,Medium,5,Bangalore,2463
+21-05-2023,Parle-G Biscuits,2296,Rainy,No event,0,10,5,High,4,Rajahmundry,2461
+21-05-2023,Thums Up,1517,Sunny,No event,0,10,5,Medium,3,Ludhiana,1643
+21-05-2023,Frooti,1685,Rainy,No event,0,20,0,High,3,Tirupati,1936
+21-05-2023,Hajmola Tablets,2189,Cloudy,No event,0,10,5,High,5,Kurnool,2352
+21-05-2023,Haldiram's Namkeen,2245,Rainy,No event,0,5,20,Medium,5,Lucknow,2153
+21-05-2023,Chyawanprash,2644,Rainy,No event,0,15,10,High,3,Indore,2772
+28-05-2023,Basmati Rice,2781,Windy,Ganesh Chaturthi,2,15,10,High,5,Indore,2984
+28-05-2023,Turmeric Powder,1171,Rainy,Ganesh Chaturthi,2,0,10,Medium,5,Hyderabad,1207
+28-05-2023,Red Chilli Powder,1689,Rainy,Ganesh Chaturthi,2,10,5,Low,3,Jalandhar,1826
+28-05-2023,Cumin Seeds,2762,Sunny,Ganesh Chaturthi,2,0,10,High,3,Bhopal,2887
+28-05-2023,Coriander Powder,1610,Windy,Ganesh Chaturthi,2,10,15,High,4,Zirakpur,1750
+28-05-2023,Garam Masala,2808,Rainy,Ganesh Chaturthi,2,20,20,High,5,Lucknow,3031
+28-05-2023,Toor Dal,2521,Rainy,Ganesh Chaturthi,2,5,5,Medium,4,Visakhapatnam ,2624
+28-05-2023,Chana Dal,1386,Cloudy,Ganesh Chaturthi,2,10,5,High,5,Meerut,1650
+28-05-2023,Urad Dal,2907,Sunny,Ganesh Chaturthi,2,0,5,Low,4,Meerut,2894
+28-05-2023,Moong Dal,2105,Cloudy,Ganesh Chaturthi,2,15,0,Low,4,Amritsar,2453
+28-05-2023,Jaggery,1973,Cloudy,Ganesh Chaturthi,2,10,5,Low,3,Guntur,2136
+28-05-2023,Ghee,2508,Sunny,Ganesh Chaturthi,2,20,20,Medium,5,Visakhapatnam ,2623
+28-05-2023,Paneer,1502,Cloudy,Ganesh Chaturthi,2,0,10,Low,4,Tirupati,1581
+28-05-2023,Coconut Oil,1324,Sunny,Ganesh Chaturthi,2,5,0,High,3,Bhopal,1442
+28-05-2023,Mustard Oil,1708,Windy,Ganesh Chaturthi,2,10,0,Low,3,Visakhapatnam ,1977
+28-05-2023,Aam Papad,2301,Sunny,Ganesh Chaturthi,2,10,15,Medium,4,Aurangabad,2487
+28-05-2023,Mango Pickle,1894,Rainy,Ganesh Chaturthi,2,0,5,High,3,Guntur,1965
+28-05-2023,Papad,2306,Windy,Ganesh Chaturthi,2,15,15,Low,4,Amritsar,2551
+28-05-2023,Idli Rice,1317,Windy,Ganesh Chaturthi,2,5,0,High,4,Amritsar,1400
+28-05-2023,Sambar Powder,1972,Cloudy,Ganesh Chaturthi,2,0,20,Medium,4,Tirupati,1984
+28-05-2023,Aloo Bhujia,1657,Rainy,Ganesh Chaturthi,2,20,5,Low,5,Zirakpur,1982
+28-05-2023,Kaju Katli,1070,Cloudy,Ganesh Chaturthi,2,5,5,Medium,5,Vijayawada,1240
+28-05-2023,Besan,1051,Rainy,Ganesh Chaturthi,2,5,0,Medium,3,Kota,1214
+28-05-2023,Aata (Wheat Flour),2786,Sunny,Ganesh Chaturthi,2,20,5,Medium,3,Kurnool,3135
+28-05-2023,Mango Juice,2957,Cloudy,Ganesh Chaturthi,2,10,10,Medium,5,Karimnagar,3078
+28-05-2023,Lemon Pickle,1082,Cloudy,Ganesh Chaturthi,2,0,0,High,5,Amritsar,1144
+28-05-2023,Coconut Chutney,2522,Cloudy,Ganesh Chaturthi,2,20,10,Medium,3,Bangalore,2840
+28-05-2023,Rasgulla,1272,Cloudy,Ganesh Chaturthi,2,0,5,High,4,Kota,1284
+28-05-2023,Gulab Jamun Mix,1568,Rainy,Ganesh Chaturthi,2,0,10,High,5,Lucknow,1689
+28-05-2023,Lassi,2500,Rainy,Ganesh Chaturthi,2,5,20,Low,3,Aurangabad,2647
+28-05-2023,Bhel Puri Mix,2972,Sunny,Ganesh Chaturthi,2,10,0,High,3,Zirakpur,3087
+28-05-2023,Pav Bhaji Masala,2727,Rainy,Ganesh Chaturthi,2,20,5,Low,4,Karimnagar,3072
+28-05-2023,Chole Masala,1107,Sunny,Ganesh Chaturthi,2,10,15,Low,5,Amravati,1210
+28-05-2023,Tamarind Paste,2039,Cloudy,Ganesh Chaturthi,2,20,15,Medium,4,Aurangabad,2234
+28-05-2023,Ready-to-eat Curry Packs,1484,Cloudy,Ganesh Chaturthi,2,5,5,Low,3,Vijayawada,1648
+28-05-2023,Parle-G Biscuits,1750,Cloudy,Ganesh Chaturthi,2,0,15,Low,4,Guntur,1732
+28-05-2023,Thums Up,1534,Rainy,Ganesh Chaturthi,2,5,20,Low,5,Guntur,1637
+28-05-2023,Frooti,1974,Rainy,Ganesh Chaturthi,2,15,10,Medium,3,Ludhiana,2109
+28-05-2023,Hajmola Tablets,2153,Rainy,Ganesh Chaturthi,2,10,0,Low,3,Ludhiana,2307
+28-05-2023,Haldiram's Namkeen,1578,Windy,Ganesh Chaturthi,2,20,5,High,5,Amritsar,1839
+28-05-2023,Chyawanprash,1514,Sunny,Ganesh Chaturthi,2,0,0,High,5,Aurangabad,1571
+04-06-2023,Basmati Rice,2203,Rainy,No event,0,0,0,Low,4,Tirupati,2108
+04-06-2023,Turmeric Powder,1125,Cloudy,No event,0,5,5,Medium,3,Hyderabad,1237
+04-06-2023,Red Chilli Powder,2705,Sunny,No event,0,5,10,High,5,Amravati,2655
+04-06-2023,Cumin Seeds,1186,Windy,No event,0,0,10,Low,4,Karimnagar,1221
+04-06-2023,Coriander Powder,2294,Rainy,No event,0,15,5,High,3,Aurangabad,2407
+04-06-2023,Garam Masala,2140,Rainy,No event,0,5,0,Low,5,Amritsar,2255
+04-06-2023,Toor Dal,2153,Sunny,No event,0,0,0,Low,3,Jalandhar,2148
+04-06-2023,Chana Dal,1367,Windy,No event,0,0,0,Low,4,Jalandhar,1360
+04-06-2023,Urad Dal,1694,Cloudy,No event,0,10,20,Low,4,Indore,1750
+04-06-2023,Moong Dal,1556,Sunny,No event,0,0,5,Medium,3,Kota,1512
+04-06-2023,Jaggery,2018,Sunny,No event,0,0,20,High,4,Amravati,1965
+04-06-2023,Ghee,1154,Rainy,No event,0,15,0,Low,5,Meerut,1218
+04-06-2023,Paneer,2177,Rainy,No event,0,10,5,Medium,3,Zirakpur,2305
+04-06-2023,Coconut Oil,1449,Windy,No event,0,0,5,Low,5,Lucknow,1365
+04-06-2023,Mustard Oil,1642,Sunny,No event,0,15,0,Low,5,Vijayawada,1798
+04-06-2023,Aam Papad,2798,Rainy,No event,0,5,10,Low,4,Amravati,2743
+04-06-2023,Mango Pickle,2289,Windy,No event,0,20,0,Low,3,Lucknow,2506
+04-06-2023,Papad,2935,Windy,No event,0,5,20,High,4,Rajahmundry,2932
+04-06-2023,Idli Rice,2357,Rainy,No event,0,0,10,Medium,4,Rajahmundry,2405
+04-06-2023,Sambar Powder,2459,Cloudy,No event,0,0,20,High,5,Amritsar,2326
+04-06-2023,Aloo Bhujia,1780,Cloudy,No event,0,15,0,Medium,3,Kurnool,1907
+04-06-2023,Kaju Katli,2480,Windy,No event,0,5,20,Medium,4,Aurangabad,2416
+04-06-2023,Besan,1557,Sunny,No event,0,0,15,Medium,5,Meerut,1512
+04-06-2023,Aata (Wheat Flour),1673,Windy,No event,0,5,15,Medium,5,Karimnagar,1591
+04-06-2023,Mango Juice,1523,Cloudy,No event,0,20,15,Medium,4,Lucknow,1727
+04-06-2023,Lemon Pickle,1618,Windy,No event,0,10,15,High,3,Vijayawada,1643
+04-06-2023,Coconut Chutney,1191,Rainy,No event,0,10,20,High,5,Rajahmundry,1221
+04-06-2023,Rasgulla,2410,Rainy,No event,0,20,20,Low,5,Zirakpur,2502
+04-06-2023,Gulab Jamun Mix,2290,Sunny,No event,0,5,20,Low,3,Guntur,2305
+04-06-2023,Lassi,2526,Cloudy,No event,0,20,10,High,4,Indore,2589
+04-06-2023,Bhel Puri Mix,1633,Windy,No event,0,15,5,Low,4,Kota,1802
+04-06-2023,Pav Bhaji Masala,2420,Rainy,No event,0,10,0,High,4,Amravati,2517
+04-06-2023,Chole Masala,1018,Sunny,No event,0,0,15,Medium,3,Kota,972
+04-06-2023,Tamarind Paste,1306,Sunny,No event,0,5,5,Medium,3,Karimnagar,1241
+04-06-2023,Ready-to-eat Curry Packs,1739,Sunny,No event,0,5,5,High,3,Karimnagar,1673
+04-06-2023,Parle-G Biscuits,2549,Windy,No event,0,15,20,Medium,3,Visakhapatnam ,2680
+04-06-2023,Thums Up,1678,Sunny,No event,0,20,15,Medium,4,Tirupati,1722
+04-06-2023,Frooti,2269,Sunny,No event,0,0,5,Medium,4,Hyderabad,2332
+04-06-2023,Hajmola Tablets,1377,Cloudy,No event,0,15,5,High,4,Karimnagar,1535
+04-06-2023,Haldiram's Namkeen,2271,Rainy,No event,0,5,10,Medium,3,Amravati,2240
+04-06-2023,Chyawanprash,1755,Windy,No event,0,0,10,Medium,3,Hyderabad,1700
+11-06-2023,Basmati Rice,2016,Windy,Gudi Padwa,2,5,10,Medium,4,Karimnagar,2195
+11-06-2023,Turmeric Powder,1790,Windy,Gudi Padwa,2,5,5,Low,5,Kota,1871
+11-06-2023,Red Chilli Powder,1529,Windy,Gudi Padwa,2,20,0,Low,4,Visakhapatnam ,1903
+11-06-2023,Cumin Seeds,1881,Sunny,Gudi Padwa,2,5,15,High,5,Amritsar,2001
+11-06-2023,Coriander Powder,1342,Cloudy,Gudi Padwa,2,20,15,Low,4,Lucknow,1646
+11-06-2023,Garam Masala,1942,Rainy,Gudi Padwa,2,5,5,Medium,3,Amravati,1979
+11-06-2023,Toor Dal,1740,Sunny,Gudi Padwa,2,15,5,High,4,Indore,1958
+11-06-2023,Chana Dal,2016,Cloudy,Gudi Padwa,2,10,0,Medium,3,Vijayawada,2251
+11-06-2023,Urad Dal,2036,Sunny,Gudi Padwa,2,20,5,Medium,4,Tirupati,2293
+11-06-2023,Moong Dal,2611,Cloudy,Gudi Padwa,2,10,5,Medium,5,Bangalore,2815
+11-06-2023,Jaggery,1981,Windy,Gudi Padwa,2,15,5,Low,3,Kurnool,2107
+11-06-2023,Ghee,2211,Rainy,Gudi Padwa,2,5,5,High,4,Zirakpur,2308
+11-06-2023,Paneer,2843,Sunny,Gudi Padwa,2,20,20,High,4,Meerut,3019
+11-06-2023,Coconut Oil,2063,Sunny,Gudi Padwa,2,5,5,High,5,Jalandhar,2243
+11-06-2023,Mustard Oil,1899,Rainy,Gudi Padwa,2,15,20,Medium,3,Bangalore,1959
+11-06-2023,Aam Papad,2876,Cloudy,Gudi Padwa,2,20,20,High,3,Karimnagar,3143
+11-06-2023,Mango Pickle,1820,Rainy,Gudi Padwa,2,10,20,High,5,Ludhiana,1925
+11-06-2023,Papad,1523,Windy,Gudi Padwa,2,5,20,Low,3,Karimnagar,1541
+11-06-2023,Idli Rice,1877,Cloudy,Gudi Padwa,2,15,10,Low,4,Visakhapatnam ,2053
+11-06-2023,Sambar Powder,2065,Cloudy,Gudi Padwa,2,20,5,Medium,5,Hyderabad,2405
+11-06-2023,Aloo Bhujia,2609,Sunny,Gudi Padwa,2,0,0,Low,5,Bhopal,2779
+11-06-2023,Kaju Katli,1306,Cloudy,Gudi Padwa,2,20,20,High,4,Meerut,1415
+11-06-2023,Besan,1971,Cloudy,Gudi Padwa,2,15,5,Low,5,Karimnagar,2193
+11-06-2023,Aata (Wheat Flour),1657,Sunny,Gudi Padwa,2,10,0,Low,3,Bhopal,1927
+11-06-2023,Mango Juice,1771,Cloudy,Gudi Padwa,2,0,5,Low,4,Bangalore,1838
+11-06-2023,Lemon Pickle,2359,Rainy,Gudi Padwa,2,20,5,High,4,Jalandhar,2609
+11-06-2023,Coconut Chutney,1863,Sunny,Gudi Padwa,2,5,5,Low,5,Visakhapatnam ,1904
+11-06-2023,Rasgulla,2781,Rainy,Gudi Padwa,2,10,10,Medium,4,Rajahmundry,2997
+11-06-2023,Gulab Jamun Mix,1835,Cloudy,Gudi Padwa,2,15,0,High,3,Amravati,2183
+11-06-2023,Lassi,2751,Sunny,Gudi Padwa,2,10,10,Medium,5,Aurangabad,2977
+11-06-2023,Bhel Puri Mix,2443,Sunny,Gudi Padwa,2,20,10,Medium,4,Rajahmundry,2787
+11-06-2023,Pav Bhaji Masala,2659,Cloudy,Gudi Padwa,2,5,0,Medium,5,Amravati,2757
+11-06-2023,Chole Masala,2721,Rainy,Gudi Padwa,2,20,15,High,5,Karimnagar,2932
+11-06-2023,Tamarind Paste,2168,Rainy,Gudi Padwa,2,15,20,Low,5,Visakhapatnam ,2254
+11-06-2023,Ready-to-eat Curry Packs,1419,Rainy,Gudi Padwa,2,20,5,Medium,4,Ludhiana,1693
+11-06-2023,Parle-G Biscuits,1427,Windy,Gudi Padwa,2,10,20,High,3,Visakhapatnam ,1543
+11-06-2023,Thums Up,1777,Rainy,Gudi Padwa,2,5,5,Low,5,Bhopal,1843
+11-06-2023,Frooti,2381,Sunny,Gudi Padwa,2,20,5,Medium,4,Jalandhar,2743
+11-06-2023,Hajmola Tablets,2101,Sunny,Gudi Padwa,2,0,15,Low,5,Vijayawada,2110
+11-06-2023,Haldiram's Namkeen,2597,Sunny,Gudi Padwa,2,0,20,Medium,3,Amravati,2548
+11-06-2023,Chyawanprash,2676,Cloudy,Gudi Padwa,2,10,10,Medium,3,Indore,2803
+18-06-2023,Basmati Rice,2643,Cloudy,No event,0,20,10,Low,4,Amritsar,2702
+18-06-2023,Turmeric Powder,1091,Sunny,No event,0,0,5,High,3,Guntur,1092
+18-06-2023,Red Chilli Powder,1024,Windy,No event,0,15,15,Medium,4,Rajahmundry,1154
+18-06-2023,Cumin Seeds,2080,Windy,No event,0,20,5,High,4,Zirakpur,2247
+18-06-2023,Coriander Powder,2449,Windy,No event,0,0,0,Low,5,Vijayawada,2369
+18-06-2023,Garam Masala,1997,Sunny,No event,0,10,0,High,3,Bangalore,2051
+18-06-2023,Toor Dal,2207,Windy,No event,0,15,20,Medium,3,Visakhapatnam ,2339
+18-06-2023,Chana Dal,2622,Rainy,No event,0,10,20,Low,3,Rajahmundry,2602
+18-06-2023,Urad Dal,1787,Rainy,No event,0,10,5,Medium,5,Aurangabad,1834
+18-06-2023,Moong Dal,1836,Rainy,No event,0,5,15,High,3,Amravati,1877
+18-06-2023,Jaggery,2411,Sunny,No event,0,10,0,High,3,Tirupati,2563
+18-06-2023,Ghee,1195,Cloudy,No event,0,15,15,Low,3,Zirakpur,1220
+18-06-2023,Paneer,1779,Sunny,No event,0,5,5,Low,5,Lucknow,1720
+18-06-2023,Coconut Oil,1270,Rainy,No event,0,0,0,High,3,Kurnool,1325
+18-06-2023,Mustard Oil,1724,Cloudy,No event,0,10,10,Low,3,Bangalore,1850
+18-06-2023,Aam Papad,1102,Sunny,No event,0,5,10,High,4,Ludhiana,1125
+18-06-2023,Mango Pickle,1678,Windy,No event,0,10,15,Medium,5,Tirupati,1779
+18-06-2023,Papad,2978,Windy,No event,0,5,15,Medium,4,Tirupati,2989
+18-06-2023,Idli Rice,2421,Cloudy,No event,0,10,10,Medium,3,Jalandhar,2528
+18-06-2023,Sambar Powder,1717,Rainy,No event,0,15,0,Medium,5,Bhopal,1916
+18-06-2023,Aloo Bhujia,1000,Windy,No event,0,20,15,High,3,Rajahmundry,1159
+18-06-2023,Kaju Katli,2381,Cloudy,No event,0,20,15,Medium,4,Karimnagar,2529
+18-06-2023,Besan,1989,Rainy,No event,0,5,5,Medium,5,Karimnagar,2021
+18-06-2023,Aata (Wheat Flour),1118,Windy,No event,0,0,10,High,5,Amravati,1129
+18-06-2023,Mango Juice,1417,Cloudy,No event,0,20,5,High,4,Guntur,1535
+18-06-2023,Lemon Pickle,1514,Cloudy,No event,0,5,20,Medium,5,Meerut,1449
+18-06-2023,Coconut Chutney,2542,Rainy,No event,0,10,20,Low,3,Kota,2454
+18-06-2023,Rasgulla,1324,Windy,No event,0,5,0,Medium,5,Aurangabad,1410
+18-06-2023,Gulab Jamun Mix,1258,Rainy,No event,0,20,15,High,5,Ludhiana,1350
+18-06-2023,Lassi,2347,Windy,No event,0,10,15,Low,3,Zirakpur,2317
+18-06-2023,Bhel Puri Mix,2872,Sunny,No event,0,10,0,Low,5,Lucknow,2873
+18-06-2023,Pav Bhaji Masala,1473,Windy,No event,0,5,15,High,5,Ludhiana,1369
+18-06-2023,Chole Masala,1083,Rainy,No event,0,10,10,Medium,3,Meerut,1135
+18-06-2023,Tamarind Paste,2291,Sunny,No event,0,0,0,Low,3,Hyderabad,2203
+18-06-2023,Ready-to-eat Curry Packs,2911,Sunny,No event,0,0,20,High,5,Kota,2715
+18-06-2023,Parle-G Biscuits,2602,Cloudy,No event,0,20,5,Medium,4,Kurnool,2876
+18-06-2023,Thums Up,1446,Sunny,No event,0,20,5,Medium,3,Kurnool,1680
+18-06-2023,Frooti,2574,Sunny,No event,0,5,5,Low,5,Visakhapatnam ,2643
+18-06-2023,Hajmola Tablets,2189,Rainy,No event,0,20,10,Medium,4,Ludhiana,2368
+18-06-2023,Haldiram's Namkeen,1048,Sunny,No event,0,15,0,Low,3,Visakhapatnam ,1149
+18-06-2023,Chyawanprash,2189,Cloudy,No event,0,5,20,High,4,Amritsar,2156
+25-06-2023,Basmati Rice,2658,Cloudy,No event,0,10,5,High,4,Zirakpur,2808
+25-06-2023,Turmeric Powder,1349,Cloudy,No event,0,0,10,Medium,4,Karimnagar,1339
+25-06-2023,Red Chilli Powder,1742,Windy,No event,0,10,20,High,3,Jalandhar,1686
+25-06-2023,Cumin Seeds,1492,Windy,No event,0,20,10,Medium,4,Visakhapatnam ,1696
+25-06-2023,Coriander Powder,1470,Cloudy,No event,0,20,10,Medium,3,Hyderabad,1572
+25-06-2023,Garam Masala,1181,Windy,No event,0,5,10,Low,3,Meerut,1205
+25-06-2023,Toor Dal,1096,Rainy,No event,0,15,10,Low,5,Vijayawada,1197
+25-06-2023,Chana Dal,2125,Rainy,No event,0,0,20,High,5,Kurnool,1970
+25-06-2023,Urad Dal,1122,Rainy,No event,0,15,10,High,4,Aurangabad,1314
+25-06-2023,Moong Dal,2509,Rainy,No event,0,15,0,Low,5,Bangalore,2642
+25-06-2023,Jaggery,1491,Rainy,No event,0,10,5,Medium,4,Bangalore,1657
+25-06-2023,Ghee,1188,Sunny,No event,0,0,5,Medium,4,Kota,1221
+25-06-2023,Paneer,1048,Cloudy,No event,0,15,15,Medium,3,Kota,1092
+25-06-2023,Coconut Oil,1217,Sunny,No event,0,10,5,Low,4,Rajahmundry,1380
+25-06-2023,Mustard Oil,1270,Cloudy,No event,0,15,5,Low,4,Ludhiana,1417
+25-06-2023,Aam Papad,1524,Sunny,No event,0,20,10,High,5,Rajahmundry,1693
+25-06-2023,Mango Pickle,1154,Rainy,No event,0,10,20,Medium,4,Rajahmundry,1219
+25-06-2023,Papad,2222,Cloudy,No event,0,0,10,Low,3,Guntur,2135
+25-06-2023,Idli Rice,1030,Sunny,No event,0,10,20,Medium,4,Guntur,1022
+25-06-2023,Sambar Powder,2615,Sunny,No event,0,5,5,Low,4,Rajahmundry,2575
+25-06-2023,Aloo Bhujia,1411,Sunny,No event,0,20,0,Low,4,Visakhapatnam ,1686
+25-06-2023,Kaju Katli,2272,Rainy,No event,0,20,0,Low,3,Guntur,2462
+25-06-2023,Besan,1987,Cloudy,No event,0,20,10,Low,5,Ludhiana,2108
+25-06-2023,Aata (Wheat Flour),2081,Cloudy,No event,0,5,15,Low,5,Zirakpur,2001
+25-06-2023,Mango Juice,2622,Sunny,No event,0,0,20,High,3,Aurangabad,2495
+25-06-2023,Lemon Pickle,1636,Windy,No event,0,0,20,High,4,Kota,1493
+25-06-2023,Coconut Chutney,2622,Sunny,No event,0,5,5,Medium,4,Guntur,2548
+25-06-2023,Rasgulla,2984,Cloudy,No event,0,20,15,High,3,Karimnagar,3137
+25-06-2023,Gulab Jamun Mix,2354,Sunny,No event,0,0,10,Medium,5,Visakhapatnam ,2395
+25-06-2023,Lassi,2481,Sunny,No event,0,5,20,Low,5,Karimnagar,2365
+25-06-2023,Bhel Puri Mix,2230,Windy,No event,0,10,0,High,4,Bhopal,2373
+25-06-2023,Pav Bhaji Masala,2753,Sunny,No event,0,5,10,Low,5,Meerut,2767
+25-06-2023,Chole Masala,2098,Rainy,No event,0,20,10,Low,4,Bhopal,2250
+25-06-2023,Tamarind Paste,2739,Cloudy,No event,0,5,10,High,5,Jalandhar,2645
+25-06-2023,Ready-to-eat Curry Packs,2000,Cloudy,No event,0,0,20,High,4,Amravati,1926
+25-06-2023,Parle-G Biscuits,1675,Windy,No event,0,15,15,Medium,3,Hyderabad,1681
+25-06-2023,Thums Up,1035,Sunny,No event,0,15,10,Medium,4,Ludhiana,1217
+25-06-2023,Frooti,2557,Cloudy,No event,0,10,0,Low,5,Rajahmundry,2663
+25-06-2023,Hajmola Tablets,1433,Windy,No event,0,20,20,Low,4,Ludhiana,1601
+25-06-2023,Haldiram's Namkeen,1038,Cloudy,No event,0,5,20,High,5,Tirupati,916
+25-06-2023,Chyawanprash,2997,Windy,No event,0,15,10,Low,5,Amravati,3045
+02-07-2023,Basmati Rice,2977,Cloudy,Minor Event,1,15,10,Low,5,Zirakpur,3129
+02-07-2023,Turmeric Powder,1210,Rainy,Minor Event,1,15,5,High,3,Meerut,1407
+02-07-2023,Red Chilli Powder,1269,Cloudy,Minor Event,1,15,15,Low,5,Zirakpur,1305
+02-07-2023,Cumin Seeds,2194,Sunny,Minor Event,1,0,5,Medium,4,Bangalore,2199
+02-07-2023,Coriander Powder,1099,Sunny,Minor Event,1,5,0,Low,3,Zirakpur,1244
+02-07-2023,Garam Masala,1461,Cloudy,Minor Event,1,0,20,Low,4,Jalandhar,1463
+02-07-2023,Toor Dal,1259,Cloudy,Minor Event,1,5,20,High,3,Meerut,1240
+02-07-2023,Chana Dal,2293,Sunny,Minor Event,1,0,15,High,5,Tirupati,2298
+02-07-2023,Urad Dal,1953,Cloudy,Minor Event,1,5,20,Medium,4,Vijayawada,1872
+02-07-2023,Moong Dal,2888,Sunny,Minor Event,1,0,20,High,4,Rajahmundry,2829
+02-07-2023,Jaggery,2604,Sunny,Minor Event,1,15,5,Low,4,Visakhapatnam ,2837
+02-07-2023,Ghee,1541,Sunny,Minor Event,1,5,0,Medium,5,Ludhiana,1654
+02-07-2023,Paneer,2821,Sunny,Minor Event,1,10,5,Low,3,Karimnagar,2982
+02-07-2023,Coconut Oil,2164,Cloudy,Minor Event,1,10,15,Low,5,Aurangabad,2182
+02-07-2023,Mustard Oil,1808,Rainy,Minor Event,1,0,5,Low,4,Bangalore,1904
+02-07-2023,Aam Papad,2604,Rainy,Minor Event,1,5,5,Low,4,Karimnagar,2636
+02-07-2023,Mango Pickle,2185,Windy,Minor Event,1,5,10,High,3,Kota,2164
+02-07-2023,Papad,1312,Rainy,Minor Event,1,10,20,High,4,Hyderabad,1387
+02-07-2023,Idli Rice,1715,Rainy,Minor Event,1,15,5,Low,4,Guntur,1983
+02-07-2023,Sambar Powder,1099,Rainy,Minor Event,1,5,5,Medium,3,Kurnool,1177
+02-07-2023,Aloo Bhujia,2649,Cloudy,Minor Event,1,15,20,High,4,Visakhapatnam ,2773
+02-07-2023,Kaju Katli,2298,Cloudy,Minor Event,1,0,0,High,3,Indore,2252
+02-07-2023,Besan,1701,Rainy,Minor Event,1,10,10,Medium,5,Kurnool,1783
+02-07-2023,Aata (Wheat Flour),1228,Cloudy,Minor Event,1,20,15,Low,3,Tirupati,1399
+02-07-2023,Mango Juice,1731,Windy,Minor Event,1,5,15,Low,4,Meerut,1772
+02-07-2023,Lemon Pickle,1268,Sunny,Minor Event,1,5,20,Medium,5,Zirakpur,1323
+02-07-2023,Coconut Chutney,1116,Rainy,Minor Event,1,0,10,Medium,4,Amritsar,1045
+02-07-2023,Rasgulla,1421,Sunny,Minor Event,1,0,5,Low,3,Rajahmundry,1475
+02-07-2023,Gulab Jamun Mix,2448,Cloudy,Minor Event,1,5,5,Medium,5,Amravati,2494
+02-07-2023,Lassi,1149,Sunny,Minor Event,1,20,5,Medium,4,Kota,1279
+02-07-2023,Bhel Puri Mix,2127,Windy,Minor Event,1,10,10,High,5,Hyderabad,2304
+02-07-2023,Pav Bhaji Masala,1250,Sunny,Minor Event,1,0,5,Low,5,Ludhiana,1183
+02-07-2023,Chole Masala,2074,Windy,Minor Event,1,5,0,Low,4,Meerut,2259
+02-07-2023,Tamarind Paste,1758,Rainy,Minor Event,1,10,5,High,4,Aurangabad,1958
+02-07-2023,Ready-to-eat Curry Packs,2395,Rainy,Minor Event,1,10,5,High,3,Amravati,2552
+02-07-2023,Parle-G Biscuits,2114,Rainy,Minor Event,1,0,15,Low,3,Bangalore,2080
+02-07-2023,Thums Up,2196,Windy,Minor Event,1,20,0,Medium,3,Tirupati,2521
+02-07-2023,Frooti,2197,Cloudy,Minor Event,1,15,10,High,4,Bangalore,2275
+02-07-2023,Hajmola Tablets,2743,Windy,Minor Event,1,15,5,Low,5,Bangalore,2891
+02-07-2023,Haldiram's Namkeen,1165,Windy,Minor Event,1,10,5,High,4,Amravati,1220
+02-07-2023,Chyawanprash,2357,Windy,Minor Event,1,5,20,High,4,Vijayawada,2281
+09-07-2023,Basmati Rice,2937,Sunny,Durga Puja,3,20,10,Medium,4,Rajahmundry,3273
+09-07-2023,Turmeric Powder,1282,Rainy,Durga Puja,3,20,0,Low,3,Guntur,1637
+09-07-2023,Red Chilli Powder,1638,Rainy,Durga Puja,3,15,15,Low,3,Guntur,1885
+09-07-2023,Cumin Seeds,2271,Cloudy,Durga Puja,3,15,10,High,4,Indore,2466
+09-07-2023,Coriander Powder,2370,Sunny,Durga Puja,3,20,10,Low,5,Zirakpur,2763
+09-07-2023,Garam Masala,2366,Rainy,Durga Puja,3,20,10,High,5,Amritsar,2686
+09-07-2023,Toor Dal,1870,Windy,Durga Puja,3,0,10,High,4,Aurangabad,1970
+09-07-2023,Chana Dal,2340,Windy,Durga Puja,3,20,20,Low,5,Zirakpur,2527
+09-07-2023,Urad Dal,1453,Cloudy,Durga Puja,3,0,5,Low,4,Visakhapatnam ,1646
+09-07-2023,Moong Dal,1914,Sunny,Durga Puja,3,0,10,Low,3,Bangalore,2053
+09-07-2023,Jaggery,1260,Sunny,Durga Puja,3,0,10,High,4,Rajahmundry,1281
+09-07-2023,Ghee,1068,Sunny,Durga Puja,3,0,10,Low,5,Hyderabad,1171
+09-07-2023,Paneer,2900,Windy,Durga Puja,3,5,15,Medium,3,Amritsar,2963
+09-07-2023,Coconut Oil,2407,Windy,Durga Puja,3,15,0,Medium,5,Lucknow,2784
+09-07-2023,Mustard Oil,1830,Windy,Durga Puja,3,10,5,High,3,Ludhiana,2023
+09-07-2023,Aam Papad,2798,Sunny,Durga Puja,3,5,5,Low,4,Rajahmundry,2876
+09-07-2023,Mango Pickle,2686,Windy,Durga Puja,3,10,5,Medium,3,Zirakpur,2824
+09-07-2023,Papad,2302,Sunny,Durga Puja,3,0,0,Low,3,Meerut,2408
+09-07-2023,Idli Rice,2716,Sunny,Durga Puja,3,5,20,Medium,5,Kurnool,2818
+09-07-2023,Sambar Powder,2951,Cloudy,Durga Puja,3,0,5,Low,3,Ludhiana,3164
+09-07-2023,Aloo Bhujia,1595,Rainy,Durga Puja,3,10,10,Low,4,Amravati,1847
+09-07-2023,Kaju Katli,2423,Cloudy,Durga Puja,3,5,20,High,5,Bhopal,2611
+09-07-2023,Besan,2776,Windy,Durga Puja,3,10,5,Medium,5,Amravati,2921
+09-07-2023,Aata (Wheat Flour),2306,Rainy,Durga Puja,3,15,0,Low,4,Tirupati,2653
+09-07-2023,Mango Juice,1258,Sunny,Durga Puja,3,15,20,Low,4,Aurangabad,1555
+09-07-2023,Lemon Pickle,1225,Sunny,Durga Puja,3,0,20,Medium,3,Hyderabad,1349
+09-07-2023,Coconut Chutney,2205,Sunny,Durga Puja,3,5,0,Medium,4,Meerut,2503
+09-07-2023,Rasgulla,1617,Rainy,Durga Puja,3,5,10,High,3,Lucknow,1683
+09-07-2023,Gulab Jamun Mix,1501,Windy,Durga Puja,3,15,5,Low,5,Lucknow,1766
+09-07-2023,Lassi,1507,Cloudy,Durga Puja,3,5,20,Medium,3,Visakhapatnam ,1570
+09-07-2023,Bhel Puri Mix,1859,Windy,Durga Puja,3,5,10,Medium,3,Indore,2007
+09-07-2023,Pav Bhaji Masala,1598,Rainy,Durga Puja,3,10,0,High,4,Kurnool,1894
+09-07-2023,Chole Masala,1540,Rainy,Durga Puja,3,10,20,Low,5,Karimnagar,1703
+09-07-2023,Tamarind Paste,1817,Cloudy,Durga Puja,3,15,5,High,4,Kurnool,2157
+09-07-2023,Ready-to-eat Curry Packs,2162,Rainy,Durga Puja,3,15,5,High,3,Vijayawada,2354
+09-07-2023,Parle-G Biscuits,1394,Cloudy,Durga Puja,3,5,10,Low,5,Tirupati,1634
+09-07-2023,Thums Up,1951,Windy,Durga Puja,3,10,20,High,4,Karimnagar,2156
+09-07-2023,Frooti,2038,Rainy,Durga Puja,3,0,20,Medium,5,Kurnool,2035
+09-07-2023,Hajmola Tablets,2991,Windy,Durga Puja,3,5,20,Low,4,Visakhapatnam ,2999
+09-07-2023,Haldiram's Namkeen,2888,Rainy,Durga Puja,3,20,20,Medium,4,Vijayawada,3237
+09-07-2023,Chyawanprash,2541,Sunny,Durga Puja,3,0,10,High,4,Vijayawada,2607
+16-07-2023,Basmati Rice,2422,Windy,Onam,2,15,20,Medium,4,Karimnagar,2622
+16-07-2023,Turmeric Powder,2439,Windy,Onam,2,15,15,Medium,3,Amravati,2583
+16-07-2023,Red Chilli Powder,2313,Windy,Onam,2,10,5,Low,4,Vijayawada,2555
+16-07-2023,Cumin Seeds,2386,Rainy,Onam,2,10,0,Medium,3,Meerut,2641
+16-07-2023,Coriander Powder,1745,Windy,Onam,2,20,5,High,4,Indore,2082
+16-07-2023,Garam Masala,2229,Sunny,Onam,2,5,15,High,4,Visakhapatnam ,2227
+16-07-2023,Toor Dal,1992,Cloudy,Onam,2,20,20,High,3,Indore,2140
+16-07-2023,Chana Dal,2030,Cloudy,Onam,2,5,0,Low,4,Aurangabad,2206
+16-07-2023,Urad Dal,2667,Windy,Onam,2,15,20,Medium,4,Indore,2824
+16-07-2023,Moong Dal,1366,Sunny,Onam,2,15,20,High,5,Rajahmundry,1563
+16-07-2023,Jaggery,1774,Windy,Onam,2,15,10,High,5,Vijayawada,2024
+16-07-2023,Ghee,1520,Cloudy,Onam,2,5,5,High,4,Hyderabad,1592
+16-07-2023,Paneer,2907,Cloudy,Onam,2,0,20,Medium,3,Vijayawada,2884
+16-07-2023,Coconut Oil,1323,Sunny,Onam,2,10,10,Medium,5,Karimnagar,1519
+16-07-2023,Mustard Oil,2045,Cloudy,Onam,2,0,5,High,4,Meerut,2022
+16-07-2023,Aam Papad,2797,Sunny,Onam,2,5,10,Medium,4,Zirakpur,2903
+16-07-2023,Mango Pickle,1712,Windy,Onam,2,20,10,Medium,4,Indore,1972
+16-07-2023,Papad,1711,Sunny,Onam,2,0,5,Medium,5,Aurangabad,1786
+16-07-2023,Idli Rice,1256,Rainy,Onam,2,15,20,High,5,Amritsar,1338
+16-07-2023,Sambar Powder,1297,Windy,Onam,2,20,0,Medium,3,Indore,1594
+16-07-2023,Aloo Bhujia,1436,Windy,Onam,2,10,5,High,5,Jalandhar,1564
+16-07-2023,Kaju Katli,1941,Cloudy,Onam,2,0,10,Medium,5,Visakhapatnam ,2042
+16-07-2023,Besan,2325,Cloudy,Onam,2,10,10,High,3,Aurangabad,2412
+16-07-2023,Aata (Wheat Flour),1747,Cloudy,Onam,2,20,10,Medium,5,Indore,2023
+16-07-2023,Mango Juice,1443,Sunny,Onam,2,15,20,Low,3,Amravati,1605
+16-07-2023,Lemon Pickle,2797,Sunny,Onam,2,5,20,Low,4,Ludhiana,2861
+16-07-2023,Coconut Chutney,2415,Sunny,Onam,2,15,0,High,4,Ludhiana,2574
+16-07-2023,Rasgulla,1920,Sunny,Onam,2,0,10,High,4,Jalandhar,2046
+16-07-2023,Gulab Jamun Mix,1217,Sunny,Onam,2,10,15,High,3,Amravati,1297
+16-07-2023,Lassi,1844,Sunny,Onam,2,15,20,Medium,5,Indore,2073
+16-07-2023,Bhel Puri Mix,2500,Rainy,Onam,2,15,15,High,4,Guntur,2649
+16-07-2023,Pav Bhaji Masala,1639,Cloudy,Onam,2,20,10,High,5,Amritsar,1843
+16-07-2023,Chole Masala,2004,Cloudy,Onam,2,5,0,Low,4,Hyderabad,2130
+16-07-2023,Tamarind Paste,1414,Sunny,Onam,2,15,0,Medium,3,Bhopal,1656
+16-07-2023,Ready-to-eat Curry Packs,1743,Windy,Onam,2,15,10,High,5,Tirupati,1875
+16-07-2023,Parle-G Biscuits,2991,Cloudy,Onam,2,15,20,Low,5,Visakhapatnam ,3152
+16-07-2023,Thums Up,1620,Rainy,Onam,2,0,20,High,3,Lucknow,1550
+16-07-2023,Frooti,2676,Windy,Onam,2,5,10,Medium,3,Zirakpur,2831
+16-07-2023,Hajmola Tablets,1838,Sunny,Onam,2,10,10,High,5,Kurnool,2053
+16-07-2023,Haldiram's Namkeen,1597,Cloudy,Onam,2,20,20,High,4,Bangalore,1822
+16-07-2023,Chyawanprash,1336,Sunny,Onam,2,15,10,Low,4,Indore,1477
+23-07-2023,Basmati Rice,1880,Windy,Eid-ul-Adha,3,10,15,Medium,3,Karimnagar,2018
+23-07-2023,Turmeric Powder,2204,Windy,Eid-ul-Adha,3,0,10,Medium,4,Tirupati,2296
+23-07-2023,Red Chilli Powder,1078,Windy,Eid-ul-Adha,3,5,15,High,3,Jalandhar,1175
+23-07-2023,Cumin Seeds,1974,Cloudy,Eid-ul-Adha,3,15,0,High,4,Hyderabad,2179
+23-07-2023,Coriander Powder,1181,Rainy,Eid-ul-Adha,3,15,10,Medium,4,Karimnagar,1392
+23-07-2023,Garam Masala,1393,Cloudy,Eid-ul-Adha,3,0,5,Medium,5,Zirakpur,1601
+23-07-2023,Toor Dal,1648,Sunny,Eid-ul-Adha,3,15,10,Low,5,Karimnagar,1855
+23-07-2023,Chana Dal,1038,Cloudy,Eid-ul-Adha,3,10,15,High,4,Rajahmundry,1149
+23-07-2023,Urad Dal,2077,Cloudy,Eid-ul-Adha,3,10,0,High,5,Tirupati,2398
+23-07-2023,Moong Dal,1022,Cloudy,Eid-ul-Adha,3,5,0,Medium,4,Aurangabad,1167
+23-07-2023,Jaggery,2957,Cloudy,Eid-ul-Adha,3,0,20,High,5,Hyderabad,3068
+23-07-2023,Ghee,2890,Windy,Eid-ul-Adha,3,15,0,High,4,Amravati,3173
+23-07-2023,Paneer,1314,Sunny,Eid-ul-Adha,3,15,10,High,4,Tirupati,1640
+23-07-2023,Coconut Oil,2402,Rainy,Eid-ul-Adha,3,5,10,Medium,4,Bhopal,2641
+23-07-2023,Mustard Oil,1203,Cloudy,Eid-ul-Adha,3,15,20,Low,4,Meerut,1342
+23-07-2023,Aam Papad,1302,Rainy,Eid-ul-Adha,3,5,20,High,5,Vijayawada,1307
+23-07-2023,Mango Pickle,2535,Windy,Eid-ul-Adha,3,5,15,High,5,Rajahmundry,2736
+23-07-2023,Papad,1822,Windy,Eid-ul-Adha,3,20,5,High,4,Amravati,2175
+23-07-2023,Idli Rice,2926,Windy,Eid-ul-Adha,3,20,20,High,3,Amravati,3202
+23-07-2023,Sambar Powder,2815,Sunny,Eid-ul-Adha,3,20,0,High,4,Kota,3075
+23-07-2023,Aloo Bhujia,2558,Windy,Eid-ul-Adha,3,10,15,Low,3,Jalandhar,2715
+23-07-2023,Kaju Katli,2866,Sunny,Eid-ul-Adha,3,0,15,Medium,5,Kota,2999
+23-07-2023,Besan,2894,Rainy,Eid-ul-Adha,3,5,0,High,4,Ludhiana,3189
+23-07-2023,Aata (Wheat Flour),1804,Sunny,Eid-ul-Adha,3,5,20,High,3,Kurnool,1884
+23-07-2023,Mango Juice,2320,Windy,Eid-ul-Adha,3,10,20,Low,4,Karimnagar,2567
+23-07-2023,Lemon Pickle,1358,Sunny,Eid-ul-Adha,3,10,10,Low,5,Hyderabad,1651
+23-07-2023,Coconut Chutney,2596,Windy,Eid-ul-Adha,3,5,0,Low,3,Vijayawada,2787
+23-07-2023,Rasgulla,1626,Sunny,Eid-ul-Adha,3,0,0,High,3,Hyderabad,1681
+23-07-2023,Gulab Jamun Mix,2356,Cloudy,Eid-ul-Adha,3,15,10,Low,3,Tirupati,2606
+23-07-2023,Lassi,1717,Sunny,Eid-ul-Adha,3,15,10,Medium,3,Visakhapatnam ,1897
+23-07-2023,Bhel Puri Mix,1820,Rainy,Eid-ul-Adha,3,20,15,Low,4,Amravati,2139
+23-07-2023,Pav Bhaji Masala,1716,Rainy,Eid-ul-Adha,3,20,15,Medium,3,Aurangabad,2008
+23-07-2023,Chole Masala,1467,Rainy,Eid-ul-Adha,3,0,5,High,5,Zirakpur,1652
+23-07-2023,Tamarind Paste,2167,Windy,Eid-ul-Adha,3,15,0,Low,4,Lucknow,2382
+23-07-2023,Ready-to-eat Curry Packs,1352,Sunny,Eid-ul-Adha,3,15,10,Low,5,Visakhapatnam ,1567
+23-07-2023,Parle-G Biscuits,1557,Cloudy,Eid-ul-Adha,3,15,5,Medium,4,Meerut,1844
+23-07-2023,Thums Up,1376,Sunny,Eid-ul-Adha,3,20,5,Low,5,Ludhiana,1728
+23-07-2023,Frooti,2629,Windy,Eid-ul-Adha,3,10,10,High,3,Lucknow,2776
+23-07-2023,Hajmola Tablets,1400,Windy,Eid-ul-Adha,3,15,15,Low,5,Lucknow,1564
+23-07-2023,Haldiram's Namkeen,2656,Sunny,Eid-ul-Adha,3,0,15,High,3,Amravati,2704
+23-07-2023,Chyawanprash,1022,Windy,Eid-ul-Adha,3,15,15,High,5,Kurnool,1301
+30-07-2023,Basmati Rice,2623,Sunny,Navratri,3,0,5,Medium,3,Ludhiana,2800
+30-07-2023,Turmeric Powder,1738,Cloudy,Navratri,3,10,20,Medium,4,Meerut,1893
+30-07-2023,Red Chilli Powder,1267,Windy,Navratri,3,15,5,Medium,5,Amritsar,1611
+30-07-2023,Cumin Seeds,2164,Rainy,Navratri,3,10,15,High,3,Tirupati,2384
+30-07-2023,Coriander Powder,1699,Cloudy,Navratri,3,0,20,Low,4,Jalandhar,1778
+30-07-2023,Garam Masala,2346,Rainy,Navratri,3,10,10,High,4,Guntur,2501
+30-07-2023,Toor Dal,2838,Rainy,Navratri,3,20,15,Medium,4,Kurnool,3069
+30-07-2023,Chana Dal,2895,Cloudy,Navratri,3,5,5,Low,4,Tirupati,3053
+30-07-2023,Urad Dal,2088,Rainy,Navratri,3,5,5,Low,5,Aurangabad,2196
+30-07-2023,Moong Dal,1148,Rainy,Navratri,3,5,20,Low,5,Amritsar,1235
+30-07-2023,Jaggery,2309,Rainy,Navratri,3,15,15,Medium,3,Bhopal,2559
+30-07-2023,Ghee,1310,Windy,Navratri,3,15,20,High,5,Amritsar,1433
+30-07-2023,Paneer,1320,Windy,Navratri,3,5,5,Medium,4,Ludhiana,1469
+30-07-2023,Coconut Oil,2721,Rainy,Navratri,3,10,20,Low,3,Vijayawada,2824
+30-07-2023,Mustard Oil,2161,Cloudy,Navratri,3,15,20,High,5,Hyderabad,2447
+30-07-2023,Aam Papad,2439,Cloudy,Navratri,3,15,5,Medium,4,Kota,2639
+30-07-2023,Mango Pickle,1848,Sunny,Navratri,3,20,5,Medium,4,Vijayawada,2230
+30-07-2023,Papad,1801,Rainy,Navratri,3,15,10,Low,4,Hyderabad,2060
+30-07-2023,Idli Rice,1355,Sunny,Navratri,3,0,15,Low,5,Amravati,1453
+30-07-2023,Sambar Powder,1145,Sunny,Navratri,3,15,0,Low,4,Indore,1450
+30-07-2023,Aloo Bhujia,2030,Rainy,Navratri,3,0,10,Medium,5,Kurnool,2226
+30-07-2023,Kaju Katli,1164,Sunny,Navratri,3,10,20,High,5,Rajahmundry,1338
+30-07-2023,Besan,2601,Windy,Navratri,3,5,20,Low,3,Amravati,2630
+30-07-2023,Aata (Wheat Flour),1201,Windy,Navratri,3,15,5,High,3,Meerut,1527
+30-07-2023,Mango Juice,2425,Sunny,Navratri,3,15,20,Low,3,Bhopal,2612
+30-07-2023,Lemon Pickle,1539,Windy,Navratri,3,0,5,High,3,Aurangabad,1598
+30-07-2023,Coconut Chutney,1392,Sunny,Navratri,3,5,0,Medium,3,Hyderabad,1679
+30-07-2023,Rasgulla,2529,Rainy,Navratri,3,10,0,Low,3,Meerut,2828
+30-07-2023,Gulab Jamun Mix,2925,Rainy,Navratri,3,15,0,High,3,Jalandhar,3243
+30-07-2023,Lassi,1224,Rainy,Navratri,3,0,15,Low,3,Aurangabad,1249
+30-07-2023,Bhel Puri Mix,2465,Sunny,Navratri,3,5,0,Medium,3,Guntur,2578
+30-07-2023,Pav Bhaji Masala,2231,Windy,Navratri,3,20,5,Low,4,Bhopal,2506
+30-07-2023,Chole Masala,1849,Cloudy,Navratri,3,5,20,Low,5,Indore,1858
+30-07-2023,Tamarind Paste,2088,Rainy,Navratri,3,5,0,High,3,Kota,2202
+30-07-2023,Ready-to-eat Curry Packs,1104,Windy,Navratri,3,20,15,Medium,5,Bhopal,1312
+30-07-2023,Parle-G Biscuits,2289,Windy,Navratri,3,0,5,High,3,Lucknow,2495
+30-07-2023,Thums Up,2776,Sunny,Navratri,3,20,0,Low,5,Visakhapatnam ,3053
+30-07-2023,Frooti,1908,Sunny,Navratri,3,10,0,Low,4,Rajahmundry,2199
+30-07-2023,Hajmola Tablets,2343,Windy,Navratri,3,5,10,Low,5,Kurnool,2423
+30-07-2023,Haldiram's Namkeen,1314,Rainy,Navratri,3,0,5,Low,3,Amravati,1516
+30-07-2023,Chyawanprash,2316,Cloudy,Navratri,3,0,10,Low,4,Zirakpur,2444
+06-08-2023,Basmati Rice,1981,Windy,Regional Festival,2,5,0,High,3,Bhopal,2064
+06-08-2023,Turmeric Powder,2567,Cloudy,Regional Festival,2,5,5,Medium,4,Kurnool,2697
+06-08-2023,Red Chilli Powder,2550,Windy,Regional Festival,2,0,20,Medium,3,Rajahmundry,2502
+06-08-2023,Cumin Seeds,2189,Windy,Regional Festival,2,5,20,Medium,5,Karimnagar,2261
+06-08-2023,Coriander Powder,2848,Sunny,Regional Festival,2,10,15,Low,4,Kurnool,3050
+06-08-2023,Garam Masala,2694,Cloudy,Regional Festival,2,5,0,Medium,5,Kota,2785
+06-08-2023,Toor Dal,2903,Sunny,Regional Festival,2,20,15,Medium,5,Bhopal,3130
+06-08-2023,Chana Dal,2854,Rainy,Regional Festival,2,20,10,Low,4,Amravati,3078
+06-08-2023,Urad Dal,1567,Cloudy,Regional Festival,2,0,10,High,4,Rajahmundry,1538
+06-08-2023,Moong Dal,2070,Rainy,Regional Festival,2,5,5,Low,5,Vijayawada,2107
+06-08-2023,Jaggery,1680,Cloudy,Regional Festival,2,0,15,Low,5,Aurangabad,1635
+06-08-2023,Ghee,2119,Windy,Regional Festival,2,10,0,Medium,4,Aurangabad,2400
+06-08-2023,Paneer,1329,Cloudy,Regional Festival,2,15,20,Low,3,Indore,1561
+06-08-2023,Coconut Oil,1395,Rainy,Regional Festival,2,5,10,Medium,4,Bhopal,1439
+06-08-2023,Mustard Oil,2704,Windy,Regional Festival,2,10,5,High,3,Amravati,2973
+06-08-2023,Aam Papad,2849,Windy,Regional Festival,2,5,0,Medium,5,Tirupati,3002
+06-08-2023,Mango Pickle,1018,Cloudy,Regional Festival,2,5,0,High,3,Kota,1267
+06-08-2023,Papad,2488,Rainy,Regional Festival,2,10,10,High,4,Indore,2682
+06-08-2023,Idli Rice,2299,Rainy,Regional Festival,2,0,20,Low,5,Lucknow,2233
+06-08-2023,Sambar Powder,2070,Cloudy,Regional Festival,2,10,15,High,4,Meerut,2188
+06-08-2023,Aloo Bhujia,1380,Windy,Regional Festival,2,10,20,High,3,Karimnagar,1452
+06-08-2023,Kaju Katli,1105,Windy,Regional Festival,2,0,20,Medium,4,Bhopal,1081
+06-08-2023,Besan,2100,Windy,Regional Festival,2,5,10,High,3,Hyderabad,2176
+06-08-2023,Aata (Wheat Flour),1141,Cloudy,Regional Festival,2,20,5,Low,3,Aurangabad,1440
+06-08-2023,Mango Juice,1652,Windy,Regional Festival,2,0,0,Medium,4,Rajahmundry,1841
+06-08-2023,Lemon Pickle,2660,Windy,Regional Festival,2,5,0,High,5,Meerut,2721
+06-08-2023,Coconut Chutney,1957,Windy,Regional Festival,2,10,20,Low,5,Visakhapatnam ,2005
+06-08-2023,Rasgulla,2278,Cloudy,Regional Festival,2,0,10,High,4,Vijayawada,2319
+06-08-2023,Gulab Jamun Mix,2222,Cloudy,Regional Festival,2,0,20,Medium,5,Lucknow,2136
+06-08-2023,Lassi,1734,Cloudy,Regional Festival,2,0,15,High,3,Visakhapatnam ,1848
+06-08-2023,Bhel Puri Mix,2043,Cloudy,Regional Festival,2,0,10,Medium,4,Visakhapatnam ,2025
+06-08-2023,Pav Bhaji Masala,2156,Sunny,Regional Festival,2,0,5,Low,5,Indore,2185
+06-08-2023,Chole Masala,1704,Windy,Regional Festival,2,20,15,Low,5,Indore,1978
+06-08-2023,Tamarind Paste,1337,Cloudy,Regional Festival,2,15,5,High,3,Bangalore,1528
+06-08-2023,Ready-to-eat Curry Packs,1970,Sunny,Regional Festival,2,0,10,Low,5,Kota,2032
+06-08-2023,Parle-G Biscuits,2506,Rainy,Regional Festival,2,10,0,Low,5,Zirakpur,2716
+06-08-2023,Thums Up,1328,Rainy,Regional Festival,2,15,15,Low,5,Zirakpur,1524
+06-08-2023,Frooti,1762,Rainy,Regional Festival,2,5,5,High,5,Jalandhar,1930
+06-08-2023,Hajmola Tablets,2573,Sunny,Regional Festival,2,15,10,High,3,Jalandhar,2772
+06-08-2023,Haldiram's Namkeen,1620,Cloudy,Regional Festival,2,10,0,Low,5,Amritsar,1890
+06-08-2023,Chyawanprash,2545,Cloudy,Regional Festival,2,15,0,High,3,Karimnagar,2794
+13-08-2023,Basmati Rice,1401,Cloudy,No event,0,0,20,High,4,Visakhapatnam ,1294
+13-08-2023,Turmeric Powder,2816,Windy,No event,0,20,15,Low,3,Karimnagar,2851
+13-08-2023,Red Chilli Powder,2037,Cloudy,No event,0,5,0,High,3,Jalandhar,1987
+13-08-2023,Cumin Seeds,2506,Sunny,No event,0,10,20,Low,3,Amravati,2552
+13-08-2023,Coriander Powder,1256,Cloudy,No event,0,5,0,Medium,4,Jalandhar,1295
+13-08-2023,Garam Masala,2175,Rainy,No event,0,5,15,Medium,3,Rajahmundry,2160
+13-08-2023,Toor Dal,1354,Rainy,No event,0,5,5,High,4,Meerut,1350
+13-08-2023,Chana Dal,1323,Cloudy,No event,0,20,5,Low,3,Bhopal,1525
+13-08-2023,Urad Dal,2215,Sunny,No event,0,5,0,High,5,Amritsar,2324
+13-08-2023,Moong Dal,1663,Rainy,No event,0,20,15,Medium,5,Visakhapatnam ,1775
+13-08-2023,Jaggery,2075,Rainy,No event,0,5,0,High,3,Kurnool,2152
+13-08-2023,Ghee,2789,Sunny,No event,0,15,5,High,3,Amritsar,2988
+13-08-2023,Paneer,1939,Rainy,No event,0,0,15,Low,4,Guntur,1882
+13-08-2023,Coconut Oil,2545,Cloudy,No event,0,15,5,Low,4,Kota,2608
+13-08-2023,Mustard Oil,2748,Rainy,No event,0,10,5,High,5,Zirakpur,2774
+13-08-2023,Aam Papad,2766,Windy,No event,0,15,15,High,3,Zirakpur,2846
+13-08-2023,Mango Pickle,2245,Sunny,No event,0,15,10,Medium,4,Ludhiana,2405
+13-08-2023,Papad,1874,Cloudy,No event,0,0,0,Medium,4,Rajahmundry,1844
+13-08-2023,Idli Rice,2800,Cloudy,No event,0,5,10,Low,3,Tirupati,2730
+13-08-2023,Sambar Powder,1788,Sunny,No event,0,20,5,High,5,Hyderabad,1926
+13-08-2023,Aloo Bhujia,1509,Cloudy,No event,0,0,10,High,4,Visakhapatnam ,1467
+13-08-2023,Kaju Katli,1980,Windy,No event,0,15,10,Low,5,Amritsar,2097
+13-08-2023,Besan,1389,Windy,No event,0,10,10,Medium,5,Aurangabad,1411
+13-08-2023,Aata (Wheat Flour),2014,Windy,No event,0,5,5,Medium,3,Zirakpur,2117
+13-08-2023,Mango Juice,2613,Windy,No event,0,10,20,High,4,Jalandhar,2604
+13-08-2023,Lemon Pickle,2754,Rainy,No event,0,15,10,High,3,Ludhiana,2875
+13-08-2023,Coconut Chutney,1491,Windy,No event,0,5,20,Medium,4,Vijayawada,1440
+13-08-2023,Rasgulla,1122,Sunny,No event,0,0,15,Low,3,Kota,1039
+13-08-2023,Gulab Jamun Mix,2112,Cloudy,No event,0,0,10,High,4,Bhopal,2138
+13-08-2023,Lassi,2717,Cloudy,No event,0,10,10,Low,4,Guntur,2667
+13-08-2023,Bhel Puri Mix,2842,Rainy,No event,0,10,15,Low,3,Rajahmundry,2781
+13-08-2023,Pav Bhaji Masala,1358,Cloudy,No event,0,5,10,High,4,Indore,1395
+13-08-2023,Chole Masala,2284,Cloudy,No event,0,0,0,High,4,Guntur,2302
+13-08-2023,Tamarind Paste,2046,Rainy,No event,0,15,5,High,4,Hyderabad,2118
+13-08-2023,Ready-to-eat Curry Packs,1324,Windy,No event,0,0,15,High,5,Ludhiana,1205
+13-08-2023,Parle-G Biscuits,2036,Windy,No event,0,10,0,High,4,Amravati,2174
+13-08-2023,Thums Up,2795,Cloudy,No event,0,15,20,Low,4,Ludhiana,2857
+13-08-2023,Frooti,2638,Windy,No event,0,5,10,Low,3,Lucknow,2661
+13-08-2023,Hajmola Tablets,1885,Sunny,No event,0,10,15,Low,5,Kota,1992
+13-08-2023,Haldiram's Namkeen,2379,Cloudy,No event,0,0,5,Medium,5,Lucknow,2367
+13-08-2023,Chyawanprash,2784,Cloudy,No event,0,10,5,Low,3,Zirakpur,2759
+20-08-2023,Basmati Rice,2360,Cloudy,Christmas,3,10,5,High,4,Kurnool,2648
+20-08-2023,Turmeric Powder,1458,Cloudy,Christmas,3,20,20,Low,5,Meerut,1677
+20-08-2023,Red Chilli Powder,1881,Cloudy,Christmas,3,20,20,High,5,Amritsar,2158
+20-08-2023,Cumin Seeds,1937,Cloudy,Christmas,3,20,5,Medium,5,Meerut,2209
+20-08-2023,Coriander Powder,1576,Cloudy,Christmas,3,0,20,Low,3,Kota,1558
+20-08-2023,Garam Masala,1356,Sunny,Christmas,3,5,20,High,3,Guntur,1482
+20-08-2023,Toor Dal,1055,Cloudy,Christmas,3,0,0,Low,5,Jalandhar,1169
+20-08-2023,Chana Dal,1671,Sunny,Christmas,3,0,0,Low,3,Karimnagar,1851
+20-08-2023,Urad Dal,2025,Rainy,Christmas,3,15,10,Low,4,Amravati,2247
+20-08-2023,Moong Dal,1843,Windy,Christmas,3,15,20,Low,3,Amravati,2130
+20-08-2023,Jaggery,1963,Cloudy,Christmas,3,10,10,Low,4,Visakhapatnam ,2240
+20-08-2023,Ghee,2171,Cloudy,Christmas,3,5,0,High,5,Zirakpur,2294
+20-08-2023,Paneer,2227,Cloudy,Christmas,3,5,0,Low,4,Rajahmundry,2471
+20-08-2023,Coconut Oil,1060,Cloudy,Christmas,3,10,10,Medium,4,Meerut,1345
+20-08-2023,Mustard Oil,2204,Cloudy,Christmas,3,0,10,Low,5,Karimnagar,2264
+20-08-2023,Aam Papad,1472,Sunny,Christmas,3,5,15,High,5,Lucknow,1655
+20-08-2023,Mango Pickle,2654,Windy,Christmas,3,15,15,Medium,4,Kurnool,2905
+20-08-2023,Papad,2429,Sunny,Christmas,3,10,10,Low,4,Amravati,2645
+20-08-2023,Idli Rice,2648,Windy,Christmas,3,10,10,Low,4,Kurnool,2782
+20-08-2023,Sambar Powder,1121,Windy,Christmas,3,20,5,Low,5,Bhopal,1426
+20-08-2023,Aloo Bhujia,2444,Cloudy,Christmas,3,5,15,Low,5,Ludhiana,2534
+20-08-2023,Kaju Katli,1458,Windy,Christmas,3,20,20,Low,3,Amravati,1796
+20-08-2023,Besan,1637,Windy,Christmas,3,10,5,Medium,5,Rajahmundry,1931
+20-08-2023,Aata (Wheat Flour),2298,Sunny,Christmas,3,0,10,Medium,3,Ludhiana,2304
+20-08-2023,Mango Juice,1769,Rainy,Christmas,3,20,5,Low,5,Jalandhar,2171
+20-08-2023,Lemon Pickle,1383,Rainy,Christmas,3,0,10,Low,4,Tirupati,1517
+20-08-2023,Coconut Chutney,2872,Cloudy,Christmas,3,15,20,High,5,Rajahmundry,3094
+20-08-2023,Rasgulla,1606,Rainy,Christmas,3,0,0,Medium,3,Guntur,1667
+20-08-2023,Gulab Jamun Mix,1215,Rainy,Christmas,3,15,10,High,4,Zirakpur,1547
+20-08-2023,Lassi,1971,Rainy,Christmas,3,5,15,High,3,Amravati,1996
+20-08-2023,Bhel Puri Mix,2648,Sunny,Christmas,3,15,5,High,5,Vijayawada,2866
+20-08-2023,Pav Bhaji Masala,2651,Windy,Christmas,3,20,15,Medium,3,Kota,2876
+20-08-2023,Chole Masala,2710,Rainy,Christmas,3,0,15,High,4,Bhopal,2868
+20-08-2023,Tamarind Paste,2594,Sunny,Christmas,3,10,20,Medium,5,Tirupati,2644
+20-08-2023,Ready-to-eat Curry Packs,2440,Rainy,Christmas,3,20,10,Low,3,Bangalore,2739
+20-08-2023,Parle-G Biscuits,1175,Sunny,Christmas,3,5,10,Low,4,Bhopal,1355
+20-08-2023,Thums Up,2758,Rainy,Christmas,3,15,20,Low,5,Jalandhar,2883
+20-08-2023,Frooti,2782,Cloudy,Christmas,3,10,10,Low,3,Jalandhar,2941
+20-08-2023,Hajmola Tablets,2709,Sunny,Christmas,3,15,20,Medium,5,Bangalore,2985
+20-08-2023,Haldiram's Namkeen,1332,Sunny,Christmas,3,0,10,Medium,3,Lucknow,1471
+20-08-2023,Chyawanprash,2733,Cloudy,Christmas,3,0,0,Low,3,Vijayawada,2941
+27-08-2023,Basmati Rice,1471,Rainy,No event,0,0,0,Low,4,Rajahmundry,1444
+27-08-2023,Turmeric Powder,1563,Rainy,No event,0,20,10,High,4,Jalandhar,1774
+27-08-2023,Red Chilli Powder,1993,Windy,No event,0,10,20,Low,3,Amravati,1961
+27-08-2023,Cumin Seeds,1285,Sunny,No event,0,15,20,Low,5,Bangalore,1422
+27-08-2023,Coriander Powder,2660,Windy,No event,0,20,0,Low,3,Tirupati,2959
+27-08-2023,Garam Masala,1120,Windy,No event,0,15,5,Low,3,Meerut,1341
+27-08-2023,Toor Dal,1565,Cloudy,No event,0,5,5,Low,5,Guntur,1650
+27-08-2023,Chana Dal,2271,Windy,No event,0,15,20,Low,5,Amritsar,2347
+27-08-2023,Urad Dal,1840,Cloudy,No event,0,15,5,Low,4,Tirupati,1995
+27-08-2023,Moong Dal,1845,Cloudy,No event,0,0,5,High,4,Vijayawada,1844
+27-08-2023,Jaggery,1897,Cloudy,No event,0,0,5,Low,3,Bangalore,1970
+27-08-2023,Ghee,1917,Rainy,No event,0,20,10,Low,5,Rajahmundry,2127
+27-08-2023,Paneer,2816,Windy,No event,0,15,5,Low,3,Hyderabad,2842
+27-08-2023,Coconut Oil,2756,Cloudy,No event,0,15,5,Low,4,Vijayawada,2850
+27-08-2023,Mustard Oil,1086,Windy,No event,0,0,15,Medium,5,Amravati,961
+27-08-2023,Aam Papad,1492,Cloudy,No event,0,15,0,High,3,Tirupati,1662
+27-08-2023,Mango Pickle,2495,Rainy,No event,0,20,15,Medium,4,Amritsar,2629
+27-08-2023,Papad,1165,Sunny,No event,0,0,20,High,3,Bangalore,1152
+27-08-2023,Idli Rice,2033,Rainy,No event,0,15,15,Medium,3,Aurangabad,2087
+27-08-2023,Sambar Powder,2459,Rainy,No event,0,15,20,High,5,Bhopal,2505
+27-08-2023,Aloo Bhujia,2818,Rainy,No event,0,20,0,Low,3,Rajahmundry,2934
+27-08-2023,Kaju Katli,2056,Sunny,No event,0,20,5,Low,5,Karimnagar,2131
+27-08-2023,Besan,1688,Cloudy,No event,0,0,20,High,4,Karimnagar,1569
+27-08-2023,Aata (Wheat Flour),1505,Rainy,No event,0,20,10,Medium,3,Amritsar,1623
+27-08-2023,Mango Juice,2568,Rainy,No event,0,5,5,Low,5,Indore,2603
+27-08-2023,Lemon Pickle,1746,Sunny,No event,0,0,0,High,4,Tirupati,1826
+27-08-2023,Coconut Chutney,2764,Sunny,No event,0,10,15,Low,3,Rajahmundry,2752
+27-08-2023,Rasgulla,2762,Windy,No event,0,20,15,Low,5,Ludhiana,2819
+27-08-2023,Gulab Jamun Mix,1945,Windy,No event,0,15,0,Low,4,Tirupati,2023
+27-08-2023,Lassi,2581,Rainy,No event,0,15,20,Low,4,Hyderabad,2597
+27-08-2023,Bhel Puri Mix,1918,Cloudy,No event,0,10,5,Low,3,Zirakpur,2047
+27-08-2023,Pav Bhaji Masala,2663,Sunny,No event,0,20,0,Medium,5,Kota,2823
+27-08-2023,Chole Masala,2503,Rainy,No event,0,15,0,Low,4,Amravati,2672
+27-08-2023,Tamarind Paste,2728,Sunny,No event,0,10,10,Low,5,Tirupati,2689
+27-08-2023,Ready-to-eat Curry Packs,1253,Sunny,No event,0,20,20,Low,5,Bhopal,1259
+27-08-2023,Parle-G Biscuits,2938,Sunny,No event,0,0,0,Medium,3,Zirakpur,2903
+27-08-2023,Thums Up,1046,Windy,No event,0,20,20,Low,3,Kota,1155
+27-08-2023,Frooti,1414,Rainy,No event,0,5,15,Medium,4,Indore,1385
+27-08-2023,Hajmola Tablets,1739,Sunny,No event,0,0,10,High,5,Zirakpur,1751
+27-08-2023,Haldiram's Namkeen,1849,Windy,No event,0,10,20,Medium,5,Meerut,1823
+27-08-2023,Chyawanprash,2755,Sunny,No event,0,15,0,Low,4,Kurnool,2925
+03-09-2023,Basmati Rice,2960,Rainy,Sankranti,2,15,10,High,3,Vijayawada,3174
+03-09-2023,Turmeric Powder,1516,Cloudy,Sankranti,2,15,0,Low,3,Ludhiana,1743
+03-09-2023,Red Chilli Powder,2589,Windy,Sankranti,2,15,15,High,5,Lucknow,2795
+03-09-2023,Cumin Seeds,1502,Rainy,Sankranti,2,0,20,Low,4,Vijayawada,1461
+03-09-2023,Coriander Powder,2093,Cloudy,Sankranti,2,5,20,High,5,Lucknow,2236
+03-09-2023,Garam Masala,2280,Sunny,Sankranti,2,20,10,Medium,5,Ludhiana,2469
+03-09-2023,Toor Dal,2458,Sunny,Sankranti,2,5,10,Low,5,Rajahmundry,2564
+03-09-2023,Chana Dal,1897,Cloudy,Sankranti,2,15,10,Low,4,Indore,2076
+03-09-2023,Urad Dal,1539,Sunny,Sankranti,2,20,5,High,5,Guntur,1785
+03-09-2023,Moong Dal,2655,Windy,Sankranti,2,15,20,Medium,5,Lucknow,2883
+03-09-2023,Jaggery,1809,Sunny,Sankranti,2,5,0,Low,4,Tirupati,2051
+03-09-2023,Ghee,1475,Sunny,Sankranti,2,15,0,Low,5,Bhopal,1662
+03-09-2023,Paneer,2093,Cloudy,Sankranti,2,20,0,Low,4,Amritsar,2374
+03-09-2023,Coconut Oil,1710,Windy,Sankranti,2,20,10,Low,3,Visakhapatnam ,1876
+03-09-2023,Mustard Oil,1086,Windy,Sankranti,2,10,0,Low,5,Tirupati,1247
+03-09-2023,Aam Papad,2737,Sunny,Sankranti,2,20,5,High,5,Amritsar,3012
+03-09-2023,Mango Pickle,1577,Cloudy,Sankranti,2,10,20,Low,4,Hyderabad,1774
+03-09-2023,Papad,2709,Windy,Sankranti,2,0,15,High,5,Indore,2784
+03-09-2023,Idli Rice,2914,Cloudy,Sankranti,2,20,20,Low,3,Vijayawada,3160
+03-09-2023,Sambar Powder,1738,Windy,Sankranti,2,5,10,High,3,Amritsar,1765
+03-09-2023,Aloo Bhujia,1480,Cloudy,Sankranti,2,0,15,High,4,Guntur,1548
+03-09-2023,Kaju Katli,2892,Sunny,Sankranti,2,5,20,High,3,Zirakpur,3000
+03-09-2023,Besan,1742,Windy,Sankranti,2,10,10,Medium,3,Tirupati,1906
+03-09-2023,Aata (Wheat Flour),2376,Sunny,Sankranti,2,0,20,High,4,Tirupati,2442
+03-09-2023,Mango Juice,2606,Rainy,Sankranti,2,5,0,Medium,5,Kurnool,2761
+03-09-2023,Lemon Pickle,2835,Cloudy,Sankranti,2,15,10,High,3,Bangalore,3055
+03-09-2023,Coconut Chutney,2189,Sunny,Sankranti,2,15,5,High,4,Bhopal,2504
+03-09-2023,Rasgulla,1319,Sunny,Sankranti,2,10,20,Medium,4,Meerut,1463
+03-09-2023,Gulab Jamun Mix,2578,Sunny,Sankranti,2,10,5,Low,5,Lucknow,2782
+03-09-2023,Lassi,2699,Sunny,Sankranti,2,10,5,High,3,Meerut,2942
+03-09-2023,Bhel Puri Mix,1705,Sunny,Sankranti,2,15,10,High,3,Kota,1916
+03-09-2023,Pav Bhaji Masala,1889,Windy,Sankranti,2,0,10,High,5,Ludhiana,1918
+03-09-2023,Chole Masala,1881,Sunny,Sankranti,2,15,0,Medium,4,Kota,2176
+03-09-2023,Tamarind Paste,1040,Rainy,Sankranti,2,0,5,High,5,Bhopal,1054
+03-09-2023,Ready-to-eat Curry Packs,2027,Sunny,Sankranti,2,5,20,Medium,4,Bangalore,2110
+03-09-2023,Parle-G Biscuits,1542,Cloudy,Sankranti,2,10,5,Low,5,Guntur,1779
+03-09-2023,Thums Up,1879,Rainy,Sankranti,2,10,5,High,3,Rajahmundry,2015
+03-09-2023,Frooti,2907,Sunny,Sankranti,2,0,10,High,5,Rajahmundry,3029
+03-09-2023,Hajmola Tablets,2843,Windy,Sankranti,2,20,0,High,3,Bangalore,3205
+03-09-2023,Haldiram's Namkeen,1332,Sunny,Sankranti,2,10,10,High,5,Kota,1508
+03-09-2023,Chyawanprash,2750,Sunny,Sankranti,2,10,20,Low,5,Karimnagar,2841
+10-09-2023,Basmati Rice,2792,Windy,Holi,3,10,10,High,5,Meerut,3026
+10-09-2023,Turmeric Powder,1428,Sunny,Holi,3,0,20,Medium,5,Amritsar,1470
+10-09-2023,Red Chilli Powder,1915,Cloudy,Holi,3,0,15,High,4,Visakhapatnam ,2008
+10-09-2023,Cumin Seeds,2690,Sunny,Holi,3,15,10,Low,4,Vijayawada,2950
+10-09-2023,Coriander Powder,2644,Sunny,Holi,3,15,15,Low,5,Indore,2888
+10-09-2023,Garam Masala,1028,Cloudy,Holi,3,0,10,High,3,Meerut,1216
+10-09-2023,Toor Dal,1912,Rainy,Holi,3,5,0,Low,3,Guntur,2195
+10-09-2023,Chana Dal,2692,Sunny,Holi,3,15,5,High,5,Karimnagar,2868
+10-09-2023,Urad Dal,1207,Rainy,Holi,3,5,10,Medium,5,Bhopal,1450
+10-09-2023,Moong Dal,2507,Cloudy,Holi,3,10,5,Medium,5,Hyderabad,2655
+10-09-2023,Jaggery,1509,Rainy,Holi,3,15,20,Low,5,Visakhapatnam ,1766
+10-09-2023,Ghee,2972,Cloudy,Holi,3,20,10,Medium,5,Vijayawada,3329
+10-09-2023,Paneer,1560,Rainy,Holi,3,5,10,High,3,Bangalore,1730
+10-09-2023,Coconut Oil,2461,Sunny,Holi,3,0,5,Low,5,Jalandhar,2612
+10-09-2023,Mustard Oil,1268,Sunny,Holi,3,10,10,High,4,Zirakpur,1558
+10-09-2023,Aam Papad,1660,Sunny,Holi,3,20,0,Medium,4,Bangalore,1920
+10-09-2023,Mango Pickle,2359,Cloudy,Holi,3,0,5,Medium,5,Aurangabad,2562
+10-09-2023,Papad,2489,Rainy,Holi,3,0,5,Low,4,Bhopal,2619
+10-09-2023,Idli Rice,2463,Sunny,Holi,3,0,5,Low,5,Kurnool,2667
+10-09-2023,Sambar Powder,1641,Windy,Holi,3,20,5,High,5,Rajahmundry,1943
+10-09-2023,Aloo Bhujia,1127,Sunny,Holi,3,20,15,High,4,Bhopal,1501
+10-09-2023,Kaju Katli,1713,Cloudy,Holi,3,5,15,Low,4,Aurangabad,1760
+10-09-2023,Besan,1307,Windy,Holi,3,15,5,Low,3,Bangalore,1596
+10-09-2023,Aata (Wheat Flour),2479,Cloudy,Holi,3,20,15,Low,3,Lucknow,2724
+10-09-2023,Mango Juice,2784,Rainy,Holi,3,15,5,High,4,Guntur,3149
+10-09-2023,Lemon Pickle,2680,Rainy,Holi,3,5,5,High,5,Lucknow,2947
+10-09-2023,Coconut Chutney,1228,Cloudy,Holi,3,10,15,Low,4,Tirupati,1349
+10-09-2023,Rasgulla,1594,Sunny,Holi,3,15,10,Medium,3,Bangalore,1768
+10-09-2023,Gulab Jamun Mix,2861,Rainy,Holi,3,20,15,Low,5,Karimnagar,3171
+10-09-2023,Lassi,2347,Sunny,Holi,3,0,15,High,5,Bhopal,2501
+10-09-2023,Bhel Puri Mix,1577,Cloudy,Holi,3,10,20,Low,3,Bhopal,1813
+10-09-2023,Pav Bhaji Masala,2377,Sunny,Holi,3,0,15,Medium,5,Hyderabad,2426
+10-09-2023,Chole Masala,2110,Sunny,Holi,3,5,5,Low,5,Aurangabad,2225
+10-09-2023,Tamarind Paste,2750,Windy,Holi,3,5,5,Low,3,Aurangabad,2841
+10-09-2023,Ready-to-eat Curry Packs,2910,Cloudy,Holi,3,15,0,High,3,Jalandhar,3204
+10-09-2023,Parle-G Biscuits,2285,Cloudy,Holi,3,15,20,Medium,3,Guntur,2538
+10-09-2023,Thums Up,2723,Windy,Holi,3,20,10,Medium,3,Kurnool,3113
+10-09-2023,Frooti,2368,Windy,Holi,3,10,5,Medium,4,Amritsar,2564
+10-09-2023,Hajmola Tablets,2017,Windy,Holi,3,15,5,High,3,Kurnool,2257
+10-09-2023,Haldiram's Namkeen,2645,Cloudy,Holi,3,5,10,Medium,3,Tirupati,2716
+10-09-2023,Chyawanprash,1408,Rainy,Holi,3,5,0,High,4,Bhopal,1619
+17-09-2023,Basmati Rice,1104,Rainy,No event,0,20,20,High,5,Tirupati,1171
+17-09-2023,Turmeric Powder,2377,Rainy,No event,0,5,0,Low,5,Ludhiana,2463
+17-09-2023,Red Chilli Powder,1442,Cloudy,No event,0,20,20,Medium,3,Karimnagar,1509
+17-09-2023,Cumin Seeds,2769,Sunny,No event,0,10,5,Medium,3,Jalandhar,2804
+17-09-2023,Coriander Powder,1190,Cloudy,No event,0,0,20,Medium,4,Vijayawada,1112
+17-09-2023,Garam Masala,1131,Sunny,No event,0,10,10,Medium,3,Meerut,1184
+17-09-2023,Toor Dal,2057,Windy,No event,0,10,15,High,4,Rajahmundry,2145
+17-09-2023,Chana Dal,2496,Rainy,No event,0,10,20,High,4,Guntur,2490
+17-09-2023,Urad Dal,1348,Sunny,No event,0,0,10,Medium,5,Amravati,1384
+17-09-2023,Moong Dal,1822,Windy,No event,0,15,5,Medium,5,Amritsar,1965
+17-09-2023,Jaggery,1471,Sunny,No event,0,0,10,High,3,Guntur,1345
+17-09-2023,Ghee,2908,Rainy,No event,0,0,10,High,3,Meerut,2895
+17-09-2023,Paneer,1891,Sunny,No event,0,0,20,Low,4,Karimnagar,1700
+17-09-2023,Coconut Oil,2753,Sunny,No event,0,5,20,Medium,4,Guntur,2720
+17-09-2023,Mustard Oil,1890,Windy,No event,0,20,20,High,4,Rajahmundry,1924
+17-09-2023,Aam Papad,2369,Cloudy,No event,0,20,20,Medium,3,Amritsar,2478
+17-09-2023,Mango Pickle,1265,Windy,No event,0,0,0,Medium,5,Amravati,1292
+17-09-2023,Papad,2135,Rainy,No event,0,20,20,Low,4,Visakhapatnam ,2256
+17-09-2023,Idli Rice,1508,Windy,No event,0,20,5,Low,4,Meerut,1764
+17-09-2023,Sambar Powder,2497,Rainy,No event,0,20,10,High,3,Aurangabad,2571
+17-09-2023,Aloo Bhujia,1855,Rainy,No event,0,10,10,Medium,5,Kota,1953
+17-09-2023,Kaju Katli,1058,Sunny,No event,0,20,20,Medium,3,Hyderabad,1126
+17-09-2023,Besan,2649,Cloudy,No event,0,5,10,Low,4,Bhopal,2732
+17-09-2023,Aata (Wheat Flour),1484,Sunny,No event,0,20,10,Low,3,Aurangabad,1664
+17-09-2023,Mango Juice,1889,Windy,No event,0,15,15,Medium,4,Bangalore,2027
+17-09-2023,Lemon Pickle,1519,Windy,No event,0,5,0,High,3,Amritsar,1596
+17-09-2023,Coconut Chutney,1166,Windy,No event,0,15,10,High,4,Karimnagar,1313
+17-09-2023,Rasgulla,2357,Windy,No event,0,0,15,Medium,4,Zirakpur,2380
+17-09-2023,Gulab Jamun Mix,2207,Sunny,No event,0,0,15,Medium,5,Kota,2126
+17-09-2023,Lassi,1983,Sunny,No event,0,20,0,Medium,3,Amravati,2091
+17-09-2023,Bhel Puri Mix,2660,Windy,No event,0,10,5,High,5,Hyderabad,2695
+17-09-2023,Pav Bhaji Masala,1675,Sunny,No event,0,15,20,Medium,4,Kota,1716
+17-09-2023,Chole Masala,2916,Sunny,No event,0,20,15,Medium,5,Zirakpur,3108
+17-09-2023,Tamarind Paste,1136,Cloudy,No event,0,0,20,High,4,Aurangabad,1125
+17-09-2023,Ready-to-eat Curry Packs,1242,Sunny,No event,0,15,0,Medium,4,Meerut,1310
+17-09-2023,Parle-G Biscuits,2402,Rainy,No event,0,10,10,High,4,Rajahmundry,2433
+17-09-2023,Thums Up,2922,Cloudy,No event,0,5,10,Medium,5,Ludhiana,2876
+17-09-2023,Frooti,1381,Rainy,No event,0,10,15,High,3,Karimnagar,1329
+17-09-2023,Hajmola Tablets,2359,Sunny,No event,0,20,20,High,3,Indore,2510
+17-09-2023,Haldiram's Namkeen,2900,Sunny,No event,0,15,20,Medium,3,Karimnagar,3019
+17-09-2023,Chyawanprash,1340,Sunny,No event,0,15,10,Low,4,Tirupati,1396
+24-09-2023,Basmati Rice,1729,Windy,No event,0,15,20,High,5,Kurnool,1795
+24-09-2023,Turmeric Powder,2295,Rainy,No event,0,15,5,Low,4,Amritsar,2490
+24-09-2023,Red Chilli Powder,1234,Sunny,No event,0,5,0,Medium,5,Visakhapatnam ,1224
+24-09-2023,Cumin Seeds,1420,Rainy,No event,0,0,0,Low,4,Guntur,1451
+24-09-2023,Coriander Powder,1582,Windy,No event,0,0,15,Low,4,Aurangabad,1585
+24-09-2023,Garam Masala,1098,Sunny,No event,0,15,0,High,4,Amritsar,1305
+24-09-2023,Toor Dal,2095,Cloudy,No event,0,10,10,High,5,Aurangabad,2062
+24-09-2023,Chana Dal,2950,Sunny,No event,0,10,15,Low,4,Ludhiana,2966
+24-09-2023,Urad Dal,2158,Windy,No event,0,20,0,High,4,Karimnagar,2366
+24-09-2023,Moong Dal,2135,Windy,No event,0,10,10,High,3,Guntur,2248
+24-09-2023,Jaggery,2460,Windy,No event,0,10,20,High,3,Guntur,2541
+24-09-2023,Ghee,1742,Rainy,No event,0,20,20,Medium,4,Kota,1898
+24-09-2023,Paneer,1491,Cloudy,No event,0,20,20,Medium,5,Visakhapatnam ,1528
+24-09-2023,Coconut Oil,1726,Windy,No event,0,10,15,High,5,Amritsar,1710
+24-09-2023,Mustard Oil,2759,Rainy,No event,0,15,10,Low,5,Visakhapatnam ,2955
+24-09-2023,Aam Papad,1634,Cloudy,No event,0,15,5,High,4,Visakhapatnam ,1844
+24-09-2023,Mango Pickle,2183,Windy,No event,0,10,10,Low,3,Bhopal,2133
+24-09-2023,Papad,2004,Rainy,No event,0,10,20,Low,4,Ludhiana,2034
+24-09-2023,Idli Rice,2341,Windy,No event,0,10,15,High,5,Bhopal,2292
+24-09-2023,Sambar Powder,2067,Sunny,No event,0,15,0,Medium,3,Ludhiana,2290
+24-09-2023,Aloo Bhujia,1855,Windy,No event,0,0,5,High,5,Lucknow,1906
+24-09-2023,Kaju Katli,2849,Rainy,No event,0,20,0,High,3,Vijayawada,3111
+24-09-2023,Besan,2717,Windy,No event,0,20,20,High,3,Amritsar,2730
+24-09-2023,Aata (Wheat Flour),1992,Rainy,No event,0,10,10,Medium,5,Hyderabad,1985
+24-09-2023,Mango Juice,2628,Windy,No event,0,15,15,Low,5,Tirupati,2624
+24-09-2023,Lemon Pickle,1076,Cloudy,No event,0,20,20,Medium,3,Amritsar,1084
+24-09-2023,Coconut Chutney,1711,Windy,No event,0,20,10,Low,5,Meerut,1882
+24-09-2023,Rasgulla,1476,Windy,No event,0,15,20,Low,3,Karimnagar,1551
+24-09-2023,Gulab Jamun Mix,1390,Windy,No event,0,5,15,Low,3,Amritsar,1457
+24-09-2023,Lassi,1949,Rainy,No event,0,15,10,High,5,Jalandhar,2071
+24-09-2023,Bhel Puri Mix,2360,Sunny,No event,0,0,20,Medium,3,Guntur,2244
+24-09-2023,Pav Bhaji Masala,2259,Cloudy,No event,0,10,5,High,3,Vijayawada,2281
+24-09-2023,Chole Masala,1843,Rainy,No event,0,15,20,Low,5,Tirupati,1854
+24-09-2023,Tamarind Paste,2539,Cloudy,No event,0,5,5,Low,5,Zirakpur,2484
+24-09-2023,Ready-to-eat Curry Packs,1424,Sunny,No event,0,20,10,Low,5,Indore,1510
+24-09-2023,Parle-G Biscuits,1595,Rainy,No event,0,15,20,Medium,3,Kota,1578
+24-09-2023,Thums Up,2111,Sunny,No event,0,15,20,Medium,4,Karimnagar,2067
+24-09-2023,Frooti,2884,Cloudy,No event,0,15,15,Low,5,Bhopal,2965
+24-09-2023,Hajmola Tablets,1574,Sunny,No event,0,5,15,High,4,Amravati,1644
+24-09-2023,Haldiram's Namkeen,2143,Sunny,No event,0,15,0,Low,3,Jalandhar,2244
+24-09-2023,Chyawanprash,1970,Rainy,No event,0,20,5,Low,3,Kurnool,2124
+01-10-2023,Basmati Rice,1241,Cloudy,No event,0,15,5,Medium,5,Jalandhar,1414
+01-10-2023,Turmeric Powder,1211,Rainy,No event,0,20,5,Low,3,Guntur,1441
+01-10-2023,Red Chilli Powder,2936,Rainy,No event,0,10,0,High,3,Tirupati,2998
+01-10-2023,Cumin Seeds,1258,Sunny,No event,0,0,20,High,5,Aurangabad,1213
+01-10-2023,Coriander Powder,2786,Cloudy,No event,0,15,20,High,3,Bangalore,2810
+01-10-2023,Garam Masala,1386,Sunny,No event,0,0,0,Medium,3,Zirakpur,1311
+01-10-2023,Toor Dal,2914,Windy,No event,0,15,0,Medium,5,Kota,3068
+01-10-2023,Chana Dal,2793,Windy,No event,0,0,20,Low,3,Kota,2650
+01-10-2023,Urad Dal,1270,Cloudy,No event,0,15,5,High,3,Vijayawada,1468
+01-10-2023,Moong Dal,2906,Windy,No event,0,10,15,Low,5,Amritsar,2976
+01-10-2023,Jaggery,1230,Windy,No event,0,5,20,Low,4,Visakhapatnam ,1279
+01-10-2023,Ghee,2151,Cloudy,No event,0,5,20,Low,4,Vijayawada,2035
+01-10-2023,Paneer,1654,Windy,No event,0,10,10,Medium,5,Kurnool,1742
+01-10-2023,Coconut Oil,1456,Cloudy,No event,0,10,20,Low,3,Meerut,1540
+01-10-2023,Mustard Oil,2418,Cloudy,No event,0,20,0,Medium,3,Amravati,2561
+01-10-2023,Aam Papad,1161,Cloudy,No event,0,15,15,Medium,4,Vijayawada,1160
+01-10-2023,Mango Pickle,1705,Windy,No event,0,15,5,Medium,3,Bhopal,1764
+01-10-2023,Papad,1263,Cloudy,No event,0,10,10,Low,5,Vijayawada,1222
+01-10-2023,Idli Rice,2563,Cloudy,No event,0,20,5,Medium,5,Bangalore,2663
+01-10-2023,Sambar Powder,1054,Rainy,No event,0,15,5,High,5,Kota,1109
+01-10-2023,Aloo Bhujia,1598,Rainy,No event,0,15,0,High,3,Kota,1667
+01-10-2023,Kaju Katli,1949,Sunny,No event,0,10,10,High,3,Ludhiana,1948
+01-10-2023,Besan,1295,Windy,No event,0,20,5,Low,4,Vijayawada,1466
+01-10-2023,Aata (Wheat Flour),2488,Cloudy,No event,0,10,15,Medium,4,Karimnagar,2502
+01-10-2023,Mango Juice,2371,Rainy,No event,0,15,15,High,3,Bangalore,2355
+01-10-2023,Lemon Pickle,2626,Sunny,No event,0,0,15,Low,3,Guntur,2642
+01-10-2023,Coconut Chutney,2273,Cloudy,No event,0,10,20,Medium,4,Meerut,2220
+01-10-2023,Rasgulla,2391,Cloudy,No event,0,10,0,Low,3,Bangalore,2479
+01-10-2023,Gulab Jamun Mix,1285,Sunny,No event,0,20,5,High,3,Bhopal,1531
+01-10-2023,Lassi,1012,Rainy,No event,0,0,0,Medium,5,Karimnagar,1002
+01-10-2023,Bhel Puri Mix,2819,Cloudy,No event,0,15,0,High,4,Indore,2998
+01-10-2023,Pav Bhaji Masala,1534,Windy,No event,0,20,20,High,5,Kurnool,1579
+01-10-2023,Chole Masala,1324,Cloudy,No event,0,20,10,Low,5,Meerut,1440
+01-10-2023,Tamarind Paste,1333,Rainy,No event,0,5,15,Low,4,Meerut,1235
+01-10-2023,Ready-to-eat Curry Packs,1558,Rainy,No event,0,15,0,Medium,5,Kota,1628
+01-10-2023,Parle-G Biscuits,1588,Cloudy,No event,0,10,20,Low,3,Visakhapatnam ,1572
+01-10-2023,Thums Up,2594,Sunny,No event,0,0,20,High,5,Lucknow,2447
+01-10-2023,Frooti,1685,Windy,No event,0,20,5,Low,3,Karimnagar,1773
+01-10-2023,Hajmola Tablets,2900,Rainy,No event,0,5,15,Medium,3,Karimnagar,2803
+01-10-2023,Haldiram's Namkeen,1308,Rainy,No event,0,20,5,High,5,Vijayawada,1478
+01-10-2023,Chyawanprash,2233,Windy,No event,0,0,5,Medium,5,Zirakpur,2108
+08-10-2023,Basmati Rice,2479,Windy,Sunday,1,15,5,Medium,4,Vijayawada,2641
+08-10-2023,Turmeric Powder,2222,Cloudy,Sunday,1,20,0,Medium,3,Visakhapatnam ,2451
+08-10-2023,Red Chilli Powder,1878,Rainy,Sunday,1,15,0,Low,3,Hyderabad,2141
+08-10-2023,Cumin Seeds,2903,Windy,Sunday,1,10,20,Medium,4,Hyderabad,2956
+08-10-2023,Coriander Powder,2239,Cloudy,Sunday,1,10,20,Low,4,Guntur,2241
+08-10-2023,Garam Masala,2126,Windy,Sunday,1,10,5,High,3,Vijayawada,2342
+08-10-2023,Toor Dal,2441,Sunny,Sunday,1,20,0,Low,3,Ludhiana,2690
+08-10-2023,Chana Dal,2705,Windy,Sunday,1,15,5,Low,5,Aurangabad,2797
+08-10-2023,Urad Dal,2288,Sunny,Sunday,1,0,20,High,3,Kota,2225
+08-10-2023,Moong Dal,1744,Cloudy,Sunday,1,20,10,High,4,Karimnagar,1937
+08-10-2023,Jaggery,2531,Rainy,Sunday,1,5,5,Medium,4,Hyderabad,2551
+08-10-2023,Ghee,1854,Cloudy,Sunday,1,20,10,Low,3,Kurnool,2099
+08-10-2023,Paneer,2412,Rainy,Sunday,1,20,15,High,4,Bangalore,2561
+08-10-2023,Coconut Oil,2644,Rainy,Sunday,1,5,20,Medium,3,Kurnool,2649
+08-10-2023,Mustard Oil,1619,Sunny,Sunday,1,15,5,Medium,4,Amritsar,1836
+08-10-2023,Aam Papad,1567,Windy,Sunday,1,15,5,High,5,Bhopal,1673
+08-10-2023,Mango Pickle,2223,Rainy,Sunday,1,15,0,High,3,Karimnagar,2400
+08-10-2023,Papad,2676,Rainy,Sunday,1,20,15,Low,4,Amritsar,2876
+08-10-2023,Idli Rice,2565,Windy,Sunday,1,5,10,High,4,Bhopal,2543
+08-10-2023,Sambar Powder,2846,Windy,Sunday,1,0,5,Medium,4,Indore,2874
+08-10-2023,Aloo Bhujia,1479,Cloudy,Sunday,1,5,0,Low,3,Lucknow,1490
+08-10-2023,Kaju Katli,2850,Sunny,Sunday,1,10,15,Low,5,Amravati,2861
+08-10-2023,Besan,1653,Sunny,Sunday,1,10,0,Medium,5,Rajahmundry,1836
+08-10-2023,Aata (Wheat Flour),2925,Windy,Sunday,1,20,15,High,4,Kurnool,3062
+08-10-2023,Mango Juice,1545,Windy,Sunday,1,5,15,Low,3,Guntur,1657
+08-10-2023,Lemon Pickle,1350,Cloudy,Sunday,1,20,10,Medium,3,Bangalore,1462
+08-10-2023,Coconut Chutney,1292,Sunny,Sunday,1,20,5,High,4,Visakhapatnam ,1484
+08-10-2023,Rasgulla,1501,Cloudy,Sunday,1,20,5,Medium,5,Aurangabad,1640
+08-10-2023,Gulab Jamun Mix,1124,Rainy,Sunday,1,5,20,Low,3,Jalandhar,1136
+08-10-2023,Lassi,1320,Rainy,Sunday,1,10,0,Low,5,Jalandhar,1423
+08-10-2023,Bhel Puri Mix,2670,Sunny,Sunday,1,0,15,Medium,3,Visakhapatnam ,2680
+08-10-2023,Pav Bhaji Masala,2822,Rainy,Sunday,1,0,0,Medium,5,Ludhiana,2783
+08-10-2023,Chole Masala,1930,Rainy,Sunday,1,15,5,Low,3,Lucknow,2133
+08-10-2023,Tamarind Paste,1843,Windy,Sunday,1,20,15,High,5,Vijayawada,2098
+08-10-2023,Ready-to-eat Curry Packs,2614,Sunny,Sunday,1,20,15,Medium,3,Ludhiana,2749
+08-10-2023,Parle-G Biscuits,2555,Sunny,Sunday,1,5,0,Low,3,Amravati,2613
+08-10-2023,Thums Up,1992,Rainy,Sunday,1,0,0,Low,5,Zirakpur,2070
+08-10-2023,Frooti,1349,Cloudy,Sunday,1,10,10,Medium,3,Ludhiana,1458
+08-10-2023,Hajmola Tablets,2499,Rainy,Sunday,1,5,10,High,5,Bangalore,2535
+08-10-2023,Haldiram's Namkeen,1737,Windy,Sunday,1,10,5,High,3,Bhopal,1957
+08-10-2023,Chyawanprash,1757,Cloudy,Sunday,1,20,5,Medium,4,Guntur,1900
+15-10-2023,Basmati Rice,2487,Sunny,Mahashivratri,2,15,5,Low,4,Jalandhar,2692
+15-10-2023,Turmeric Powder,1789,Windy,Mahashivratri,2,5,0,Medium,3,Ludhiana,1856
+15-10-2023,Red Chilli Powder,2049,Windy,Mahashivratri,2,15,0,High,4,Aurangabad,2292
+15-10-2023,Cumin Seeds,1753,Cloudy,Mahashivratri,2,5,5,High,5,Bhopal,1831
+15-10-2023,Coriander Powder,2430,Windy,Mahashivratri,2,0,20,Medium,4,Lucknow,2391
+15-10-2023,Garam Masala,2861,Rainy,Mahashivratri,2,10,20,High,5,Lucknow,3054
+15-10-2023,Toor Dal,1208,Windy,Mahashivratri,2,10,0,High,4,Ludhiana,1464
+15-10-2023,Chana Dal,2278,Rainy,Mahashivratri,2,10,5,High,5,Zirakpur,2449
+15-10-2023,Urad Dal,2326,Rainy,Mahashivratri,2,20,5,High,3,Ludhiana,2558
+15-10-2023,Moong Dal,1443,Sunny,Mahashivratri,2,0,20,Medium,3,Ludhiana,1438
+15-10-2023,Jaggery,2417,Sunny,Mahashivratri,2,15,5,Low,4,Vijayawada,2693
+15-10-2023,Ghee,2919,Rainy,Mahashivratri,2,20,0,Low,5,Indore,3269
+15-10-2023,Paneer,2686,Cloudy,Mahashivratri,2,15,10,High,4,Bhopal,2855
+15-10-2023,Coconut Oil,1580,Cloudy,Mahashivratri,2,0,20,Low,4,Rajahmundry,1600
+15-10-2023,Mustard Oil,1962,Windy,Mahashivratri,2,5,20,High,5,Ludhiana,2023
+15-10-2023,Aam Papad,2643,Rainy,Mahashivratri,2,15,10,High,5,Amritsar,2789
+15-10-2023,Mango Pickle,1204,Sunny,Mahashivratri,2,0,20,Low,4,Aurangabad,1114
+15-10-2023,Papad,2040,Windy,Mahashivratri,2,10,5,High,3,Kota,2182
+15-10-2023,Idli Rice,2706,Windy,Mahashivratri,2,15,5,Medium,3,Zirakpur,2984
+15-10-2023,Sambar Powder,1761,Windy,Mahashivratri,2,20,10,Medium,4,Tirupati,2016
+15-10-2023,Aloo Bhujia,1606,Cloudy,Mahashivratri,2,5,20,Medium,5,Zirakpur,1745
+15-10-2023,Kaju Katli,2904,Sunny,Mahashivratri,2,20,5,Medium,5,Jalandhar,3248
+15-10-2023,Besan,2866,Cloudy,Mahashivratri,2,5,15,Low,3,Karimnagar,2965
+15-10-2023,Aata (Wheat Flour),2185,Rainy,Mahashivratri,2,20,0,Low,3,Kota,2582
+15-10-2023,Mango Juice,2065,Cloudy,Mahashivratri,2,10,0,High,3,Tirupati,2287
+15-10-2023,Lemon Pickle,2924,Windy,Mahashivratri,2,0,20,Low,5,Kurnool,2847
+15-10-2023,Coconut Chutney,2753,Sunny,Mahashivratri,2,20,15,High,3,Kurnool,3020
+15-10-2023,Rasgulla,2438,Windy,Mahashivratri,2,20,10,Low,3,Vijayawada,2692
+15-10-2023,Gulab Jamun Mix,1524,Windy,Mahashivratri,2,5,0,Medium,5,Amravati,1642
+15-10-2023,Lassi,2715,Sunny,Mahashivratri,2,0,0,High,5,Jalandhar,2724
+15-10-2023,Bhel Puri Mix,1585,Rainy,Mahashivratri,2,15,15,High,4,Guntur,1754
+15-10-2023,Pav Bhaji Masala,2645,Rainy,Mahashivratri,2,15,10,Low,3,Meerut,2858
+15-10-2023,Chole Masala,1521,Cloudy,Mahashivratri,2,10,10,Medium,3,Bangalore,1731
+15-10-2023,Tamarind Paste,1535,Windy,Mahashivratri,2,10,10,High,4,Ludhiana,1619
+15-10-2023,Ready-to-eat Curry Packs,1354,Cloudy,Mahashivratri,2,20,15,Medium,4,Vijayawada,1674
+15-10-2023,Parle-G Biscuits,1779,Sunny,Mahashivratri,2,15,10,High,5,Amritsar,1889
+15-10-2023,Thums Up,1361,Windy,Mahashivratri,2,15,10,Low,3,Guntur,1463
+15-10-2023,Frooti,2447,Windy,Mahashivratri,2,15,10,Medium,5,Bangalore,2680
+15-10-2023,Hajmola Tablets,1012,Rainy,Mahashivratri,2,15,10,Low,4,Visakhapatnam ,1197
+15-10-2023,Haldiram's Namkeen,1158,Rainy,Mahashivratri,2,15,20,Medium,4,Bangalore,1395
+15-10-2023,Chyawanprash,1478,Sunny,Mahashivratri,2,20,0,High,5,Lucknow,1788
+22-10-2023,Basmati Rice,2562,Cloudy,Ram Navami,2,10,5,Medium,5,Meerut,2740
+22-10-2023,Turmeric Powder,2486,Windy,Ram Navami,2,20,10,High,4,Guntur,2755
+22-10-2023,Red Chilli Powder,2343,Sunny,Ram Navami,2,10,10,Low,3,Rajahmundry,2406
+22-10-2023,Cumin Seeds,2646,Cloudy,Ram Navami,2,20,20,Low,3,Tirupati,2909
+22-10-2023,Coriander Powder,2775,Windy,Ram Navami,2,20,15,Medium,3,Guntur,2961
+22-10-2023,Garam Masala,2027,Cloudy,Ram Navami,2,0,15,Low,4,Rajahmundry,1995
+22-10-2023,Toor Dal,2197,Rainy,Ram Navami,2,15,5,Low,3,Kota,2482
+22-10-2023,Chana Dal,2765,Rainy,Ram Navami,2,0,20,Low,4,Rajahmundry,2731
+22-10-2023,Urad Dal,1148,Windy,Ram Navami,2,15,0,Low,5,Rajahmundry,1324
+22-10-2023,Moong Dal,1528,Windy,Ram Navami,2,20,5,Medium,4,Indore,1709
+22-10-2023,Jaggery,1809,Windy,Ram Navami,2,20,10,Low,3,Kurnool,2138
+22-10-2023,Ghee,1819,Windy,Ram Navami,2,0,10,Low,5,Kurnool,1914
+22-10-2023,Paneer,2141,Cloudy,Ram Navami,2,20,5,High,5,Rajahmundry,2396
+22-10-2023,Coconut Oil,1206,Cloudy,Ram Navami,2,10,5,Medium,4,Rajahmundry,1391
+22-10-2023,Mustard Oil,2663,Windy,Ram Navami,2,0,10,High,3,Meerut,2797
+22-10-2023,Aam Papad,1897,Sunny,Ram Navami,2,20,15,Low,4,Zirakpur,2091
+22-10-2023,Mango Pickle,2160,Rainy,Ram Navami,2,15,20,High,3,Lucknow,2340
+22-10-2023,Papad,2204,Rainy,Ram Navami,2,10,15,Low,3,Rajahmundry,2372
+22-10-2023,Idli Rice,2280,Windy,Ram Navami,2,10,5,High,5,Vijayawada,2444
+22-10-2023,Sambar Powder,1944,Windy,Ram Navami,2,10,15,Medium,4,Jalandhar,2010
+22-10-2023,Aloo Bhujia,1878,Rainy,Ram Navami,2,0,20,High,4,Hyderabad,1843
+22-10-2023,Kaju Katli,2902,Sunny,Ram Navami,2,5,15,High,4,Lucknow,2980
+22-10-2023,Besan,2133,Windy,Ram Navami,2,5,15,High,5,Ludhiana,2207
+22-10-2023,Aata (Wheat Flour),2856,Rainy,Ram Navami,2,10,0,High,5,Amravati,3154
+22-10-2023,Mango Juice,1966,Windy,Ram Navami,2,10,20,Medium,4,Hyderabad,2146
+22-10-2023,Lemon Pickle,1248,Rainy,Ram Navami,2,0,10,Medium,5,Zirakpur,1323
+22-10-2023,Coconut Chutney,1770,Windy,Ram Navami,2,10,5,High,5,Amravati,2000
+22-10-2023,Rasgulla,2149,Rainy,Ram Navami,2,5,0,Medium,4,Amravati,2311
+22-10-2023,Gulab Jamun Mix,2043,Sunny,Ram Navami,2,15,0,Medium,3,Bhopal,2305
+22-10-2023,Lassi,1769,Cloudy,Ram Navami,2,20,20,Low,5,Amravati,1884
+22-10-2023,Bhel Puri Mix,1894,Cloudy,Ram Navami,2,20,20,High,4,Guntur,2025
+22-10-2023,Pav Bhaji Masala,2691,Sunny,Ram Navami,2,0,20,High,3,Amravati,2648
+22-10-2023,Chole Masala,2080,Cloudy,Ram Navami,2,20,5,High,5,Visakhapatnam ,2439
+22-10-2023,Tamarind Paste,2875,Cloudy,Ram Navami,2,0,20,Medium,3,Kurnool,2822
+22-10-2023,Ready-to-eat Curry Packs,2579,Windy,Ram Navami,2,5,15,Low,5,Rajahmundry,2658
+22-10-2023,Parle-G Biscuits,1015,Sunny,Ram Navami,2,15,0,Medium,4,Tirupati,1255
+22-10-2023,Thums Up,2566,Sunny,Ram Navami,2,20,10,Low,3,Kota,2864
+22-10-2023,Frooti,1520,Sunny,Ram Navami,2,15,15,Medium,3,Bhopal,1624
+22-10-2023,Hajmola Tablets,2558,Sunny,Ram Navami,2,15,20,Low,3,Vijayawada,2623
+22-10-2023,Haldiram's Namkeen,2743,Windy,Ram Navami,2,0,15,Medium,5,Zirakpur,2800
+22-10-2023,Chyawanprash,2324,Rainy,Ram Navami,2,10,0,Low,4,Rajahmundry,2545
+29-10-2023,Basmati Rice,2839,Rainy,No event,0,15,5,Low,3,Meerut,3026
+29-10-2023,Turmeric Powder,1580,Sunny,No event,0,15,20,High,5,Meerut,1574
+29-10-2023,Red Chilli Powder,2893,Windy,No event,0,10,20,Low,5,Guntur,2922
+29-10-2023,Cumin Seeds,1565,Rainy,No event,0,20,20,High,4,Kurnool,1674
+29-10-2023,Coriander Powder,2986,Sunny,No event,0,20,5,Low,4,Karimnagar,3161
+29-10-2023,Garam Masala,2918,Rainy,No event,0,10,20,High,4,Karimnagar,3006
+29-10-2023,Toor Dal,2525,Windy,No event,0,5,20,Medium,3,Kurnool,2564
+29-10-2023,Chana Dal,1959,Cloudy,No event,0,20,15,High,5,Visakhapatnam ,2074
+29-10-2023,Urad Dal,1824,Windy,No event,0,15,15,Medium,3,Ludhiana,1855
+29-10-2023,Moong Dal,2058,Rainy,No event,0,5,15,Low,3,Aurangabad,2007
+29-10-2023,Jaggery,2790,Sunny,No event,0,10,10,Low,4,Rajahmundry,2748
+29-10-2023,Ghee,1374,Windy,No event,0,10,20,High,5,Hyderabad,1445
+29-10-2023,Paneer,2070,Windy,No event,0,20,5,Medium,5,Tirupati,2209
+29-10-2023,Coconut Oil,2089,Rainy,No event,0,5,5,Medium,4,Bangalore,2018
+29-10-2023,Mustard Oil,2364,Cloudy,No event,0,15,5,Low,4,Amritsar,2446
+29-10-2023,Aam Papad,2981,Windy,No event,0,0,15,Low,4,Meerut,2896
+29-10-2023,Mango Pickle,2722,Cloudy,No event,0,0,5,Medium,3,Karimnagar,2611
+29-10-2023,Papad,1683,Sunny,No event,0,10,5,Low,5,Tirupati,1673
+29-10-2023,Idli Rice,2597,Cloudy,No event,0,0,5,High,4,Kota,2556
+29-10-2023,Sambar Powder,2996,Cloudy,No event,0,10,0,High,3,Rajahmundry,3013
+29-10-2023,Aloo Bhujia,2391,Cloudy,No event,0,20,5,Medium,4,Bhopal,2483
+29-10-2023,Kaju Katli,1905,Cloudy,No event,0,20,5,Low,4,Amravati,2099
+29-10-2023,Besan,2653,Sunny,No event,0,15,0,High,3,Kurnool,2736
+29-10-2023,Aata (Wheat Flour),2923,Sunny,No event,0,0,20,High,4,Hyderabad,2773
+29-10-2023,Mango Juice,1795,Cloudy,No event,0,5,0,Low,3,Visakhapatnam ,1863
+29-10-2023,Lemon Pickle,1061,Rainy,No event,0,0,5,Low,3,Kurnool,997
+29-10-2023,Coconut Chutney,2454,Cloudy,No event,0,0,15,Low,4,Guntur,2393
+29-10-2023,Rasgulla,1786,Sunny,No event,0,20,20,High,5,Rajahmundry,1927
+29-10-2023,Gulab Jamun Mix,1063,Cloudy,No event,0,0,10,Low,5,Rajahmundry,1013
+29-10-2023,Lassi,1457,Rainy,No event,0,5,10,Low,5,Aurangabad,1423
+29-10-2023,Bhel Puri Mix,2954,Rainy,No event,0,20,5,High,4,Zirakpur,3052
+29-10-2023,Pav Bhaji Masala,2217,Windy,No event,0,5,5,High,4,Amravati,2290
+29-10-2023,Chole Masala,1790,Sunny,No event,0,20,20,Low,3,Bangalore,1886
+29-10-2023,Tamarind Paste,1745,Windy,No event,0,5,20,Medium,5,Indore,1775
+29-10-2023,Ready-to-eat Curry Packs,2096,Cloudy,No event,0,10,5,Medium,3,Hyderabad,2144
+29-10-2023,Parle-G Biscuits,1205,Rainy,No event,0,10,0,Medium,3,Bhopal,1374
+29-10-2023,Thums Up,2490,Windy,No event,0,10,0,Medium,3,Ludhiana,2572
+29-10-2023,Frooti,2493,Sunny,No event,0,10,20,High,4,Guntur,2413
+29-10-2023,Hajmola Tablets,2094,Windy,No event,0,5,15,Medium,5,Bhopal,2116
+29-10-2023,Haldiram's Namkeen,1275,Rainy,No event,0,20,0,Low,4,Tirupati,1498
+29-10-2023,Chyawanprash,1174,Rainy,No event,0,5,5,Medium,4,Ludhiana,1229
+05-11-2023,Basmati Rice,2420,Cloudy,Sunday,1,0,10,Medium,5,Amritsar,2494
+05-11-2023,Turmeric Powder,2575,Cloudy,Sunday,1,20,5,High,5,Tirupati,2895
+05-11-2023,Red Chilli Powder,2414,Rainy,Sunday,1,10,0,High,3,Bhopal,2580
+05-11-2023,Cumin Seeds,2109,Windy,Sunday,1,10,10,Low,4,Visakhapatnam ,2154
+05-11-2023,Coriander Powder,2621,Sunny,Sunday,1,5,20,Medium,4,Karimnagar,2657
+05-11-2023,Garam Masala,2029,Cloudy,Sunday,1,5,20,Medium,3,Amravati,2013
+05-11-2023,Toor Dal,1748,Windy,Sunday,1,15,0,High,4,Vijayawada,1876
+05-11-2023,Chana Dal,2561,Cloudy,Sunday,1,20,20,Medium,3,Kota,2616
+05-11-2023,Urad Dal,2598,Windy,Sunday,1,15,15,High,5,Rajahmundry,2814
+05-11-2023,Moong Dal,2508,Cloudy,Sunday,1,10,5,High,5,Zirakpur,2605
+05-11-2023,Jaggery,2268,Cloudy,Sunday,1,15,15,High,3,Bangalore,2372
+05-11-2023,Ghee,2265,Windy,Sunday,1,20,0,High,3,Kota,2546
+05-11-2023,Paneer,2227,Rainy,Sunday,1,5,15,High,4,Aurangabad,2213
+05-11-2023,Coconut Oil,2082,Sunny,Sunday,1,0,0,Low,3,Amritsar,2150
+05-11-2023,Mustard Oil,2543,Windy,Sunday,1,0,5,High,5,Jalandhar,2650
+05-11-2023,Aam Papad,2130,Sunny,Sunday,1,15,10,Medium,3,Guntur,2213
+05-11-2023,Mango Pickle,1867,Rainy,Sunday,1,5,15,Low,5,Vijayawada,1956
+05-11-2023,Papad,1347,Sunny,Sunday,1,5,15,Low,3,Karimnagar,1321
+05-11-2023,Idli Rice,2296,Sunny,Sunday,1,15,20,High,3,Visakhapatnam ,2432
+05-11-2023,Sambar Powder,2619,Sunny,Sunday,1,5,20,Low,4,Visakhapatnam ,2684
+05-11-2023,Aloo Bhujia,2699,Windy,Sunday,1,0,20,High,5,Amritsar,2613
+05-11-2023,Kaju Katli,1195,Sunny,Sunday,1,15,5,Medium,3,Lucknow,1294
+05-11-2023,Besan,2080,Rainy,Sunday,1,5,20,Medium,5,Kota,2143
+05-11-2023,Aata (Wheat Flour),2094,Cloudy,Sunday,1,10,5,Low,5,Lucknow,2271
+05-11-2023,Mango Juice,2865,Cloudy,Sunday,1,15,5,High,3,Bangalore,3065
+05-11-2023,Lemon Pickle,2465,Rainy,Sunday,1,10,20,High,4,Rajahmundry,2586
+05-11-2023,Coconut Chutney,1617,Sunny,Sunday,1,5,15,Low,3,Rajahmundry,1563
+05-11-2023,Rasgulla,1085,Cloudy,Sunday,1,20,0,High,3,Bhopal,1298
+05-11-2023,Gulab Jamun Mix,2598,Rainy,Sunday,1,5,15,Medium,3,Rajahmundry,2598
+05-11-2023,Lassi,1696,Sunny,Sunday,1,0,0,High,5,Amritsar,1716
+05-11-2023,Bhel Puri Mix,2070,Cloudy,Sunday,1,5,20,High,4,Jalandhar,2048
+05-11-2023,Pav Bhaji Masala,1868,Sunny,Sunday,1,5,20,High,4,Guntur,1928
+05-11-2023,Chole Masala,1488,Cloudy,Sunday,1,15,5,Medium,5,Jalandhar,1599
+05-11-2023,Tamarind Paste,1529,Sunny,Sunday,1,20,20,High,4,Lucknow,1635
+05-11-2023,Ready-to-eat Curry Packs,2304,Cloudy,Sunday,1,5,15,Low,5,Vijayawada,2414
+05-11-2023,Parle-G Biscuits,1638,Sunny,Sunday,1,5,0,Medium,4,Kurnool,1706
+05-11-2023,Thums Up,1883,Windy,Sunday,1,10,20,Medium,5,Rajahmundry,1999
+05-11-2023,Frooti,1410,Rainy,Sunday,1,20,15,Medium,4,Rajahmundry,1512
+05-11-2023,Hajmola Tablets,2928,Windy,Sunday,1,15,20,Medium,3,Tirupati,2953
+05-11-2023,Haldiram's Namkeen,1461,Sunny,Sunday,1,20,15,Low,5,Jalandhar,1586
+05-11-2023,Chyawanprash,1761,Sunny,Sunday,1,5,0,Medium,5,Karimnagar,1817
+12-11-2023,Basmati Rice,1669,Windy,Sunday,1,15,0,Medium,5,Visakhapatnam ,1954
+12-11-2023,Turmeric Powder,1369,Cloudy,Sunday,1,15,0,High,5,Aurangabad,1516
+12-11-2023,Red Chilli Powder,2209,Sunny,Sunday,1,0,0,Low,3,Ludhiana,2249
+12-11-2023,Cumin Seeds,2576,Windy,Sunday,1,15,5,High,3,Bangalore,2698
+12-11-2023,Coriander Powder,2174,Windy,Sunday,1,0,0,High,4,Bhopal,2311
+12-11-2023,Garam Masala,1589,Cloudy,Sunday,1,0,20,High,3,Meerut,1519
+12-11-2023,Toor Dal,2091,Sunny,Sunday,1,15,20,High,3,Karimnagar,2272
+12-11-2023,Chana Dal,2117,Windy,Sunday,1,5,5,Low,5,Aurangabad,2245
+12-11-2023,Urad Dal,2913,Rainy,Sunday,1,5,15,Medium,5,Vijayawada,3026
+12-11-2023,Moong Dal,2968,Sunny,Sunday,1,15,10,Low,4,Zirakpur,3172
+12-11-2023,Jaggery,2905,Cloudy,Sunday,1,5,15,Low,3,Guntur,3023
+12-11-2023,Ghee,1058,Sunny,Sunday,1,5,10,Medium,5,Lucknow,1137
+12-11-2023,Paneer,1034,Rainy,Sunday,1,0,20,High,4,Meerut,1045
+12-11-2023,Coconut Oil,1912,Windy,Sunday,1,15,15,Medium,5,Vijayawada,2083
+12-11-2023,Mustard Oil,1041,Rainy,Sunday,1,0,10,Medium,3,Rajahmundry,1051
+12-11-2023,Aam Papad,1817,Windy,Sunday,1,0,0,Medium,3,Guntur,1823
+12-11-2023,Mango Pickle,2946,Sunny,Sunday,1,15,5,Low,4,Zirakpur,3143
+12-11-2023,Papad,2610,Rainy,Sunday,1,0,0,High,3,Vijayawada,2581
+12-11-2023,Idli Rice,1394,Sunny,Sunday,1,10,5,High,5,Bhopal,1538
+12-11-2023,Sambar Powder,2671,Sunny,Sunday,1,20,5,Medium,5,Guntur,2803
+12-11-2023,Aloo Bhujia,2932,Rainy,Sunday,1,5,10,High,3,Indore,2968
+12-11-2023,Kaju Katli,1831,Rainy,Sunday,1,0,20,Low,5,Karimnagar,1682
+12-11-2023,Besan,1580,Windy,Sunday,1,0,5,High,5,Ludhiana,1601
+12-11-2023,Aata (Wheat Flour),2602,Cloudy,Sunday,1,20,20,Low,3,Visakhapatnam ,2825
+12-11-2023,Mango Juice,2755,Rainy,Sunday,1,10,20,High,5,Indore,2755
+12-11-2023,Lemon Pickle,2846,Sunny,Sunday,1,20,15,High,3,Bhopal,2940
+12-11-2023,Coconut Chutney,1929,Cloudy,Sunday,1,5,20,Medium,4,Bhopal,1973
+12-11-2023,Rasgulla,2329,Sunny,Sunday,1,5,15,High,3,Zirakpur,2325
+12-11-2023,Gulab Jamun Mix,1994,Sunny,Sunday,1,20,15,Low,4,Meerut,2115
+12-11-2023,Lassi,1013,Sunny,Sunday,1,20,5,Medium,4,Vijayawada,1269
+12-11-2023,Bhel Puri Mix,1642,Rainy,Sunday,1,15,5,High,5,Vijayawada,1891
+12-11-2023,Pav Bhaji Masala,2118,Cloudy,Sunday,1,5,0,High,5,Amritsar,2259
+12-11-2023,Chole Masala,1464,Cloudy,Sunday,1,0,5,High,4,Lucknow,1428
+12-11-2023,Tamarind Paste,1877,Windy,Sunday,1,15,15,Low,5,Hyderabad,2081
+12-11-2023,Ready-to-eat Curry Packs,1483,Rainy,Sunday,1,5,0,Low,3,Amritsar,1563
+12-11-2023,Parle-G Biscuits,2725,Windy,Sunday,1,5,20,High,3,Tirupati,2806
+12-11-2023,Thums Up,2825,Cloudy,Sunday,1,15,0,High,5,Visakhapatnam ,2957
+12-11-2023,Frooti,2038,Sunny,Sunday,1,20,10,Medium,5,Lucknow,2260
+12-11-2023,Hajmola Tablets,1927,Cloudy,Sunday,1,0,5,Medium,5,Lucknow,1872
+12-11-2023,Haldiram's Namkeen,1823,Windy,Sunday,1,10,5,Low,5,Indore,1954
+12-11-2023,Chyawanprash,2983,Sunny,Sunday,1,5,0,High,4,Meerut,3166
+19-11-2023,Basmati Rice,1855,Rainy,No event,0,15,0,Low,4,Jalandhar,1988
+19-11-2023,Turmeric Powder,2732,Windy,No event,0,5,20,Medium,5,Lucknow,2753
+19-11-2023,Red Chilli Powder,2143,Sunny,No event,0,15,15,Medium,5,Ludhiana,2142
+19-11-2023,Cumin Seeds,1052,Windy,No event,0,20,5,High,5,Visakhapatnam ,1164
+19-11-2023,Coriander Powder,2424,Windy,No event,0,15,20,Medium,5,Rajahmundry,2472
+19-11-2023,Garam Masala,1378,Sunny,No event,0,5,15,High,4,Visakhapatnam ,1379
+19-11-2023,Toor Dal,1449,Windy,No event,0,0,5,Medium,3,Amravati,1521
+19-11-2023,Chana Dal,1586,Rainy,No event,0,20,5,High,4,Meerut,1764
+19-11-2023,Urad Dal,1363,Windy,No event,0,5,10,High,4,Guntur,1279
+19-11-2023,Moong Dal,1035,Cloudy,No event,0,15,10,High,5,Hyderabad,1098
+19-11-2023,Jaggery,2543,Sunny,No event,0,5,20,Low,4,Jalandhar,2440
+19-11-2023,Ghee,1786,Windy,No event,0,20,20,Low,5,Kurnool,1808
+19-11-2023,Paneer,2385,Cloudy,No event,0,10,10,High,5,Vijayawada,2446
+19-11-2023,Coconut Oil,1983,Windy,No event,0,0,10,High,5,Zirakpur,2012
+19-11-2023,Mustard Oil,2180,Cloudy,No event,0,5,20,Medium,5,Amravati,2067
+19-11-2023,Aam Papad,2558,Windy,No event,0,0,20,Medium,5,Zirakpur,2463
+19-11-2023,Mango Pickle,2820,Sunny,No event,0,20,20,Medium,3,Bangalore,2821
+19-11-2023,Papad,2131,Sunny,No event,0,10,5,Low,3,Jalandhar,2125
+19-11-2023,Idli Rice,1226,Sunny,No event,0,20,10,High,5,Visakhapatnam ,1409
+19-11-2023,Sambar Powder,2304,Windy,No event,0,10,20,Medium,3,Ludhiana,2230
+19-11-2023,Aloo Bhujia,2571,Windy,No event,0,5,20,High,5,Hyderabad,2567
+19-11-2023,Kaju Katli,1154,Sunny,No event,0,0,15,Medium,3,Guntur,991
+19-11-2023,Besan,2815,Windy,No event,0,5,5,Low,3,Jalandhar,2783
+19-11-2023,Aata (Wheat Flour),2335,Cloudy,No event,0,15,0,Medium,5,Kota,2542
+19-11-2023,Mango Juice,1015,Rainy,No event,0,10,0,Low,5,Lucknow,1059
+19-11-2023,Lemon Pickle,1104,Rainy,No event,0,15,10,High,3,Amritsar,1243
+19-11-2023,Coconut Chutney,1666,Rainy,No event,0,20,5,Low,3,Kota,1768
+19-11-2023,Rasgulla,1347,Sunny,No event,0,5,20,Low,4,Visakhapatnam ,1254
+19-11-2023,Gulab Jamun Mix,2952,Rainy,No event,0,0,5,Low,3,Meerut,2898
+19-11-2023,Lassi,2290,Cloudy,No event,0,15,10,High,4,Zirakpur,2366
+19-11-2023,Bhel Puri Mix,2059,Cloudy,No event,0,5,20,High,5,Karimnagar,2053
+19-11-2023,Pav Bhaji Masala,2785,Rainy,No event,0,10,10,Medium,4,Guntur,2800
+19-11-2023,Chole Masala,1524,Sunny,No event,0,5,10,High,5,Lucknow,1513
+19-11-2023,Tamarind Paste,2583,Windy,No event,0,5,0,Low,3,Karimnagar,2581
+19-11-2023,Ready-to-eat Curry Packs,1032,Rainy,No event,0,5,15,Low,5,Indore,929
+19-11-2023,Parle-G Biscuits,1335,Cloudy,No event,0,20,0,Medium,4,Ludhiana,1611
+19-11-2023,Thums Up,2439,Cloudy,No event,0,15,5,Medium,3,Guntur,2584
+19-11-2023,Frooti,1652,Windy,No event,0,20,5,Medium,4,Meerut,1878
+19-11-2023,Hajmola Tablets,2157,Rainy,No event,0,15,0,Medium,4,Aurangabad,2282
+19-11-2023,Haldiram's Namkeen,2187,Rainy,No event,0,5,0,Medium,3,Visakhapatnam ,2200
+19-11-2023,Chyawanprash,1979,Cloudy,No event,0,5,5,Low,5,Amravati,2026
+26-11-2023,Basmati Rice,1836,Windy,Guru Nanak Jayanti,3,0,15,Low,5,Lucknow,1912
+26-11-2023,Turmeric Powder,1487,Cloudy,Guru Nanak Jayanti,3,15,10,High,5,Indore,1797
+26-11-2023,Red Chilli Powder,2423,Cloudy,Guru Nanak Jayanti,3,5,0,Medium,4,Amritsar,2646
+26-11-2023,Cumin Seeds,1558,Cloudy,Guru Nanak Jayanti,3,0,15,High,5,Amritsar,1631
+26-11-2023,Coriander Powder,1395,Cloudy,Guru Nanak Jayanti,3,20,15,Medium,5,Lucknow,1571
+26-11-2023,Garam Masala,1014,Rainy,Guru Nanak Jayanti,3,5,0,High,3,Amravati,1276
+26-11-2023,Toor Dal,1004,Cloudy,Guru Nanak Jayanti,3,20,20,Low,5,Rajahmundry,1270
+26-11-2023,Chana Dal,2842,Sunny,Guru Nanak Jayanti,3,15,15,Medium,4,Tirupati,3135
+26-11-2023,Urad Dal,2978,Windy,Guru Nanak Jayanti,3,0,15,Low,5,Indore,3114
+26-11-2023,Moong Dal,1465,Rainy,Guru Nanak Jayanti,3,5,15,Medium,5,Kurnool,1529
+26-11-2023,Jaggery,1243,Sunny,Guru Nanak Jayanti,3,15,20,Low,3,Meerut,1410
+26-11-2023,Ghee,1718,Windy,Guru Nanak Jayanti,3,20,5,Medium,5,Bhopal,2106
+26-11-2023,Paneer,2844,Rainy,Guru Nanak Jayanti,3,10,15,Medium,4,Guntur,2956
+26-11-2023,Coconut Oil,2708,Rainy,Guru Nanak Jayanti,3,10,5,Low,5,Visakhapatnam ,2912
+26-11-2023,Mustard Oil,2399,Rainy,Guru Nanak Jayanti,3,20,5,Medium,4,Lucknow,2775
+26-11-2023,Aam Papad,2935,Cloudy,Guru Nanak Jayanti,3,10,15,High,3,Hyderabad,3131
+26-11-2023,Mango Pickle,1472,Rainy,Guru Nanak Jayanti,3,5,10,High,5,Guntur,1641
+26-11-2023,Papad,1108,Sunny,Guru Nanak Jayanti,3,0,5,High,5,Lucknow,1299
+26-11-2023,Idli Rice,1821,Cloudy,Guru Nanak Jayanti,3,5,5,Medium,3,Kota,2052
+26-11-2023,Sambar Powder,1932,Sunny,Guru Nanak Jayanti,3,20,0,High,3,Guntur,2323
+26-11-2023,Aloo Bhujia,2313,Sunny,Guru Nanak Jayanti,3,10,0,High,5,Zirakpur,2512
+26-11-2023,Kaju Katli,2333,Cloudy,Guru Nanak Jayanti,3,0,10,Medium,5,Meerut,2422
+26-11-2023,Besan,1146,Cloudy,Guru Nanak Jayanti,3,15,10,High,3,Amravati,1474
+26-11-2023,Aata (Wheat Flour),1874,Sunny,Guru Nanak Jayanti,3,10,20,Medium,3,Hyderabad,2043
+26-11-2023,Mango Juice,2297,Cloudy,Guru Nanak Jayanti,3,15,5,Low,4,Indore,2513
+26-11-2023,Lemon Pickle,2277,Windy,Guru Nanak Jayanti,3,0,15,Low,5,Vijayawada,2330
+26-11-2023,Coconut Chutney,2592,Sunny,Guru Nanak Jayanti,3,10,0,High,4,Aurangabad,2892
+26-11-2023,Rasgulla,2590,Windy,Guru Nanak Jayanti,3,0,20,Low,4,Meerut,2656
+26-11-2023,Gulab Jamun Mix,2452,Rainy,Guru Nanak Jayanti,3,0,5,Low,5,Rajahmundry,2549
+26-11-2023,Lassi,1235,Rainy,Guru Nanak Jayanti,3,0,0,Low,3,Meerut,1482
+26-11-2023,Bhel Puri Mix,1084,Cloudy,Guru Nanak Jayanti,3,15,10,Medium,5,Ludhiana,1297
+26-11-2023,Pav Bhaji Masala,2053,Rainy,Guru Nanak Jayanti,3,10,15,High,3,Tirupati,2165
+26-11-2023,Chole Masala,2467,Windy,Guru Nanak Jayanti,3,5,15,Low,4,Guntur,2512
+26-11-2023,Tamarind Paste,1420,Sunny,Guru Nanak Jayanti,3,10,5,Low,5,Amravati,1604
+26-11-2023,Ready-to-eat Curry Packs,1384,Windy,Guru Nanak Jayanti,3,10,15,Low,3,Guntur,1516
+26-11-2023,Parle-G Biscuits,2516,Rainy,Guru Nanak Jayanti,3,20,0,Medium,5,Bangalore,2820
+26-11-2023,Thums Up,2379,Windy,Guru Nanak Jayanti,3,10,10,High,5,Lucknow,2505
+26-11-2023,Frooti,2171,Cloudy,Guru Nanak Jayanti,3,0,15,High,4,Lucknow,2313
+26-11-2023,Hajmola Tablets,2011,Rainy,Guru Nanak Jayanti,3,5,20,Low,3,Bangalore,2147
+26-11-2023,Haldiram's Namkeen,1293,Sunny,Guru Nanak Jayanti,3,5,5,Medium,5,Meerut,1465
+26-11-2023,Chyawanprash,1083,Windy,Guru Nanak Jayanti,3,20,10,Medium,4,Indore,1313
+03-12-2023,Basmati Rice,1292,Windy,Independence Day,3,0,5,Low,3,Amritsar,1486
+03-12-2023,Turmeric Powder,2501,Sunny,Independence Day,3,20,10,High,5,Karimnagar,2706
+03-12-2023,Red Chilli Powder,2224,Rainy,Independence Day,3,20,10,Medium,3,Bhopal,2557
+03-12-2023,Cumin Seeds,2571,Rainy,Independence Day,3,15,15,Medium,4,Ludhiana,2767
+03-12-2023,Coriander Powder,2356,Cloudy,Independence Day,3,5,0,Medium,3,Ludhiana,2505
+03-12-2023,Garam Masala,2357,Windy,Independence Day,3,5,10,Low,5,Meerut,2460
+03-12-2023,Toor Dal,2636,Cloudy,Independence Day,3,20,10,High,3,Meerut,2872
+03-12-2023,Chana Dal,2442,Windy,Independence Day,3,15,0,Medium,3,Kurnool,2837
+03-12-2023,Urad Dal,2529,Rainy,Independence Day,3,5,15,High,5,Lucknow,2570
+03-12-2023,Moong Dal,1104,Cloudy,Independence Day,3,20,20,Medium,3,Karimnagar,1435
+03-12-2023,Jaggery,2536,Windy,Independence Day,3,10,0,Medium,3,Jalandhar,2885
+03-12-2023,Ghee,1843,Cloudy,Independence Day,3,15,5,Medium,3,Rajahmundry,2164
+03-12-2023,Paneer,2658,Rainy,Independence Day,3,20,10,Medium,5,Tirupati,2931
+03-12-2023,Coconut Oil,1233,Sunny,Independence Day,3,15,20,High,5,Meerut,1356
+03-12-2023,Mustard Oil,1717,Cloudy,Independence Day,3,5,5,Low,3,Lucknow,1793
+03-12-2023,Aam Papad,2271,Sunny,Independence Day,3,10,0,High,4,Rajahmundry,2538
+03-12-2023,Mango Pickle,2619,Cloudy,Independence Day,3,0,10,Low,3,Jalandhar,2817
+03-12-2023,Papad,1295,Windy,Independence Day,3,15,10,High,5,Kurnool,1579
+03-12-2023,Idli Rice,2365,Sunny,Independence Day,3,0,10,Low,5,Guntur,2476
+03-12-2023,Sambar Powder,2851,Cloudy,Independence Day,3,0,20,Medium,4,Aurangabad,2906
+03-12-2023,Aloo Bhujia,2435,Cloudy,Independence Day,3,10,20,Low,5,Aurangabad,2594
+03-12-2023,Kaju Katli,2040,Cloudy,Independence Day,3,15,5,High,3,Bhopal,2413
+03-12-2023,Besan,2185,Cloudy,Independence Day,3,20,10,High,4,Rajahmundry,2561
+03-12-2023,Aata (Wheat Flour),1369,Windy,Independence Day,3,5,10,Low,4,Rajahmundry,1596
+03-12-2023,Mango Juice,2823,Cloudy,Independence Day,3,0,15,High,5,Lucknow,2879
+03-12-2023,Lemon Pickle,2033,Cloudy,Independence Day,3,0,5,Low,4,Lucknow,2180
+03-12-2023,Coconut Chutney,1288,Sunny,Independence Day,3,15,10,Low,5,Aurangabad,1633
+03-12-2023,Rasgulla,2393,Sunny,Independence Day,3,20,5,High,5,Hyderabad,2706
+03-12-2023,Gulab Jamun Mix,2700,Sunny,Independence Day,3,10,15,High,3,Vijayawada,2787
+03-12-2023,Lassi,1299,Sunny,Independence Day,3,5,20,High,4,Visakhapatnam ,1486
+03-12-2023,Bhel Puri Mix,1041,Windy,Independence Day,3,0,20,Low,4,Hyderabad,1147
+03-12-2023,Pav Bhaji Masala,2773,Sunny,Independence Day,3,0,5,Low,3,Rajahmundry,2816
+03-12-2023,Chole Masala,2712,Cloudy,Independence Day,3,20,20,Low,3,Amravati,3008
+03-12-2023,Tamarind Paste,1153,Sunny,Independence Day,3,0,20,Low,4,Hyderabad,1232
+03-12-2023,Ready-to-eat Curry Packs,2373,Cloudy,Independence Day,3,20,20,High,5,Rajahmundry,2698
+03-12-2023,Parle-G Biscuits,1045,Rainy,Independence Day,3,20,15,Low,4,Guntur,1314
+03-12-2023,Thums Up,2738,Windy,Independence Day,3,20,10,Low,5,Aurangabad,3090
+03-12-2023,Frooti,2481,Cloudy,Independence Day,3,0,15,High,3,Kota,2605
+03-12-2023,Hajmola Tablets,2129,Sunny,Independence Day,3,20,10,Low,3,Jalandhar,2393
+03-12-2023,Haldiram's Namkeen,1948,Windy,Independence Day,3,20,0,Medium,4,Hyderabad,2267
+03-12-2023,Chyawanprash,2643,Rainy,Independence Day,3,5,5,High,5,Rajahmundry,2797
+10-12-2023,Basmati Rice,1505,Rainy,Kumbh Mela,3,5,15,Low,5,Guntur,1554
+10-12-2023,Turmeric Powder,2772,Rainy,Kumbh Mela,3,20,10,High,5,Bangalore,3088
+10-12-2023,Red Chilli Powder,1306,Windy,Kumbh Mela,3,15,5,Medium,4,Indore,1676
+10-12-2023,Cumin Seeds,2475,Cloudy,Kumbh Mela,3,0,5,Medium,3,Visakhapatnam ,2668
+10-12-2023,Coriander Powder,2428,Sunny,Kumbh Mela,3,20,10,Medium,5,Ludhiana,2770
+10-12-2023,Garam Masala,2288,Sunny,Kumbh Mela,3,20,5,Medium,4,Bangalore,2519
+10-12-2023,Toor Dal,1863,Cloudy,Kumbh Mela,3,20,15,Medium,3,Lucknow,2159
+10-12-2023,Chana Dal,2841,Rainy,Kumbh Mela,3,20,15,High,5,Amravati,3145
+10-12-2023,Urad Dal,1388,Cloudy,Kumbh Mela,3,5,20,Low,4,Meerut,1392
+10-12-2023,Moong Dal,2983,Sunny,Kumbh Mela,3,0,15,High,5,Kurnool,2979
+10-12-2023,Jaggery,2737,Windy,Kumbh Mela,3,0,15,Low,3,Aurangabad,2857
+10-12-2023,Ghee,2158,Windy,Kumbh Mela,3,5,5,Medium,5,Ludhiana,2308
+10-12-2023,Paneer,1620,Cloudy,Kumbh Mela,3,20,20,High,5,Aurangabad,1813
+10-12-2023,Coconut Oil,1604,Cloudy,Kumbh Mela,3,15,20,High,4,Bangalore,1883
+10-12-2023,Mustard Oil,2143,Windy,Kumbh Mela,3,15,10,High,5,Guntur,2360
+10-12-2023,Aam Papad,1157,Cloudy,Kumbh Mela,3,20,5,Low,3,Amritsar,1479
+10-12-2023,Mango Pickle,1329,Cloudy,Kumbh Mela,3,15,0,Low,3,Vijayawada,1610
+10-12-2023,Papad,1809,Rainy,Kumbh Mela,3,0,10,High,3,Vijayawada,1988
+10-12-2023,Idli Rice,1359,Windy,Kumbh Mela,3,15,20,Low,5,Visakhapatnam ,1575
+10-12-2023,Sambar Powder,2211,Sunny,Kumbh Mela,3,10,10,Low,4,Zirakpur,2510
+10-12-2023,Aloo Bhujia,1198,Rainy,Kumbh Mela,3,15,15,Medium,4,Tirupati,1372
+10-12-2023,Kaju Katli,1659,Cloudy,Kumbh Mela,3,5,5,High,3,Karimnagar,1910
+10-12-2023,Besan,1370,Rainy,Kumbh Mela,3,5,0,Medium,5,Tirupati,1569
+10-12-2023,Aata (Wheat Flour),2281,Rainy,Kumbh Mela,3,10,10,Low,5,Visakhapatnam ,2465
+10-12-2023,Mango Juice,2332,Windy,Kumbh Mela,3,5,15,Low,4,Guntur,2466
+10-12-2023,Lemon Pickle,2730,Rainy,Kumbh Mela,3,5,10,Low,4,Jalandhar,2790
+10-12-2023,Coconut Chutney,2354,Rainy,Kumbh Mela,3,10,5,High,5,Tirupati,2509
+10-12-2023,Rasgulla,1954,Windy,Kumbh Mela,3,0,10,High,3,Visakhapatnam ,2150
+10-12-2023,Gulab Jamun Mix,1844,Cloudy,Kumbh Mela,3,5,15,Medium,4,Kota,2001
+10-12-2023,Lassi,2701,Cloudy,Kumbh Mela,3,10,5,Medium,4,Visakhapatnam ,3008
+10-12-2023,Bhel Puri Mix,1419,Cloudy,Kumbh Mela,3,0,10,High,3,Kota,1514
+10-12-2023,Pav Bhaji Masala,2443,Rainy,Kumbh Mela,3,15,15,Medium,4,Lucknow,2637
+10-12-2023,Chole Masala,2118,Sunny,Kumbh Mela,3,15,20,Medium,4,Jalandhar,2257
+10-12-2023,Tamarind Paste,2092,Rainy,Kumbh Mela,3,10,5,Low,3,Bhopal,2286
+10-12-2023,Ready-to-eat Curry Packs,2640,Rainy,Kumbh Mela,3,10,0,High,3,Zirakpur,2796
+10-12-2023,Parle-G Biscuits,2669,Rainy,Kumbh Mela,3,10,20,High,5,Indore,2775
+10-12-2023,Thums Up,2642,Cloudy,Kumbh Mela,3,10,10,High,4,Amravati,2828
+10-12-2023,Frooti,2683,Cloudy,Kumbh Mela,3,10,5,Low,5,Bangalore,2993
+10-12-2023,Hajmola Tablets,1499,Sunny,Kumbh Mela,3,5,20,High,4,Tirupati,1527
+10-12-2023,Haldiram's Namkeen,2364,Sunny,Kumbh Mela,3,5,15,Low,5,Kota,2441
+10-12-2023,Chyawanprash,2670,Windy,Kumbh Mela,3,0,0,Low,4,Aurangabad,2866
+17-12-2023,Basmati Rice,1683,Rainy,Sunday,1,0,10,Low,4,Karimnagar,1594
+17-12-2023,Turmeric Powder,2722,Windy,Sunday,1,15,15,High,4,Ludhiana,2916
+17-12-2023,Red Chilli Powder,2064,Windy,Sunday,1,20,0,Medium,5,Visakhapatnam ,2334
+17-12-2023,Cumin Seeds,2500,Sunny,Sunday,1,0,0,Medium,3,Karimnagar,2545
+17-12-2023,Coriander Powder,1675,Sunny,Sunday,1,5,5,Medium,4,Amritsar,1800
+17-12-2023,Garam Masala,1464,Sunny,Sunday,1,5,0,High,5,Indore,1555
+17-12-2023,Toor Dal,1052,Sunny,Sunday,1,20,5,Medium,3,Guntur,1325
+17-12-2023,Chana Dal,2985,Cloudy,Sunday,1,10,0,Low,5,Guntur,3048
+17-12-2023,Urad Dal,1710,Windy,Sunday,1,5,15,High,3,Meerut,1792
+17-12-2023,Moong Dal,1685,Rainy,Sunday,1,15,10,Low,5,Ludhiana,1918
+17-12-2023,Jaggery,1530,Sunny,Sunday,1,15,20,High,4,Jalandhar,1685
+17-12-2023,Ghee,1813,Sunny,Sunday,1,20,0,Low,4,Indore,2105
+17-12-2023,Paneer,2725,Rainy,Sunday,1,10,15,Medium,3,Bangalore,2878
+17-12-2023,Coconut Oil,1482,Cloudy,Sunday,1,15,0,High,4,Bhopal,1738
+17-12-2023,Mustard Oil,2376,Rainy,Sunday,1,10,15,Medium,4,Bangalore,2526
+17-12-2023,Aam Papad,1139,Rainy,Sunday,1,5,0,High,3,Rajahmundry,1323
+17-12-2023,Mango Pickle,2911,Sunny,Sunday,1,15,0,Low,3,Karimnagar,3110
+17-12-2023,Papad,1874,Windy,Sunday,1,10,20,High,3,Meerut,1949
+17-12-2023,Idli Rice,1389,Sunny,Sunday,1,0,15,Medium,4,Guntur,1328
+17-12-2023,Sambar Powder,2029,Windy,Sunday,1,10,10,Medium,4,Aurangabad,2034
+17-12-2023,Aloo Bhujia,1823,Sunny,Sunday,1,5,5,High,4,Visakhapatnam ,1893
+17-12-2023,Kaju Katli,1127,Rainy,Sunday,1,5,15,Low,4,Kota,1129
+17-12-2023,Besan,1021,Rainy,Sunday,1,0,5,Low,5,Zirakpur,976
+17-12-2023,Aata (Wheat Flour),1625,Sunny,Sunday,1,20,15,High,5,Hyderabad,1718
+17-12-2023,Mango Juice,1753,Windy,Sunday,1,20,10,High,3,Rajahmundry,1897
+17-12-2023,Lemon Pickle,1167,Sunny,Sunday,1,15,15,High,4,Bhopal,1293
+17-12-2023,Coconut Chutney,1441,Rainy,Sunday,1,0,20,High,5,Lucknow,1305
+17-12-2023,Rasgulla,2321,Windy,Sunday,1,15,5,Medium,4,Amritsar,2490
+17-12-2023,Gulab Jamun Mix,1914,Cloudy,Sunday,1,20,0,High,4,Kurnool,2222
+17-12-2023,Lassi,1943,Windy,Sunday,1,20,5,High,5,Jalandhar,2225
+17-12-2023,Bhel Puri Mix,1903,Cloudy,Sunday,1,5,15,High,3,Jalandhar,1956
+17-12-2023,Pav Bhaji Masala,1689,Rainy,Sunday,1,15,20,High,3,Guntur,1712
+17-12-2023,Chole Masala,1285,Cloudy,Sunday,1,15,15,Low,3,Meerut,1310
+17-12-2023,Tamarind Paste,2918,Cloudy,Sunday,1,20,10,Low,3,Tirupati,3173
+17-12-2023,Ready-to-eat Curry Packs,1436,Cloudy,Sunday,1,20,15,Medium,4,Rajahmundry,1702
+17-12-2023,Parle-G Biscuits,1935,Rainy,Sunday,1,0,0,Low,4,Ludhiana,2010
+17-12-2023,Thums Up,1342,Sunny,Sunday,1,20,5,Medium,4,Bangalore,1472
+17-12-2023,Frooti,1796,Rainy,Sunday,1,5,20,High,4,Indore,1846
+17-12-2023,Hajmola Tablets,1742,Windy,Sunday,1,5,10,Low,3,Meerut,1720
+17-12-2023,Haldiram's Namkeen,1213,Rainy,Sunday,1,10,20,High,5,Ludhiana,1244
+17-12-2023,Chyawanprash,1987,Cloudy,Sunday,1,10,20,Low,5,Bangalore,1974
+24-12-2023,Basmati Rice,2477,Sunny,No event,0,20,10,Medium,4,Kurnool,2692
+24-12-2023,Turmeric Powder,1838,Rainy,No event,0,0,20,Low,5,Amravati,1764
+24-12-2023,Red Chilli Powder,1626,Sunny,No event,0,10,0,Low,4,Amritsar,1633
+24-12-2023,Cumin Seeds,1846,Rainy,No event,0,15,10,High,4,Amravati,1881
+24-12-2023,Coriander Powder,1038,Rainy,No event,0,20,20,Medium,4,Karimnagar,1050
+24-12-2023,Garam Masala,2314,Windy,No event,0,10,20,Low,5,Rajahmundry,2369
+24-12-2023,Toor Dal,2299,Rainy,No event,0,5,5,High,4,Bangalore,2319
+24-12-2023,Chana Dal,1049,Sunny,No event,0,5,5,High,4,Guntur,1025
+24-12-2023,Urad Dal,1810,Cloudy,No event,0,20,20,Medium,3,Vijayawada,1891
+24-12-2023,Moong Dal,2960,Windy,No event,0,0,0,Low,5,Ludhiana,2913
+24-12-2023,Jaggery,2266,Cloudy,No event,0,15,15,Medium,4,Amritsar,2432
+24-12-2023,Ghee,2965,Windy,No event,0,0,5,Low,5,Lucknow,2988
+24-12-2023,Paneer,2681,Rainy,No event,0,20,5,High,3,Indore,2790
+24-12-2023,Coconut Oil,2392,Windy,No event,0,20,10,Low,4,Amravati,2472
+24-12-2023,Mustard Oil,1950,Sunny,No event,0,0,5,Medium,5,Zirakpur,1883
+24-12-2023,Aam Papad,2923,Sunny,No event,0,10,0,Medium,3,Bangalore,2983
+24-12-2023,Mango Pickle,2850,Sunny,No event,0,15,5,Medium,4,Amritsar,2892
+24-12-2023,Papad,1211,Cloudy,No event,0,5,15,Medium,5,Rajahmundry,1264
+24-12-2023,Idli Rice,2332,Rainy,No event,0,10,15,Medium,3,Amritsar,2445
+24-12-2023,Sambar Powder,1090,Sunny,No event,0,5,0,High,5,Zirakpur,1239
+24-12-2023,Aloo Bhujia,2258,Rainy,No event,0,5,5,Medium,5,Meerut,2204
+24-12-2023,Kaju Katli,2140,Rainy,No event,0,10,0,Medium,3,Bangalore,2165
+24-12-2023,Besan,1731,Cloudy,No event,0,5,5,Low,4,Indore,1795
+24-12-2023,Aata (Wheat Flour),2793,Sunny,No event,0,10,20,Medium,4,Visakhapatnam ,2879
+24-12-2023,Mango Juice,1000,Cloudy,No event,0,5,10,Medium,3,Amravati,960
+24-12-2023,Lemon Pickle,2995,Sunny,No event,0,15,5,High,3,Bhopal,3114
+24-12-2023,Coconut Chutney,1147,Sunny,No event,0,15,5,High,5,Ludhiana,1296
+24-12-2023,Rasgulla,2946,Windy,No event,0,0,5,Low,4,Ludhiana,2963
+24-12-2023,Gulab Jamun Mix,1979,Cloudy,No event,0,20,0,High,3,Zirakpur,2088
+24-12-2023,Lassi,1791,Cloudy,No event,0,0,0,Low,3,Bhopal,1845
+24-12-2023,Bhel Puri Mix,1258,Sunny,No event,0,10,10,Medium,3,Hyderabad,1286
+24-12-2023,Pav Bhaji Masala,1796,Sunny,No event,0,10,15,Medium,4,Kota,1839
+24-12-2023,Chole Masala,2252,Sunny,No event,0,20,15,High,3,Indore,2466
+24-12-2023,Tamarind Paste,2856,Sunny,No event,0,20,5,Low,3,Visakhapatnam ,3122
+24-12-2023,Ready-to-eat Curry Packs,2599,Rainy,No event,0,5,15,Medium,3,Meerut,2559
+24-12-2023,Parle-G Biscuits,1855,Sunny,No event,0,5,10,Low,4,Vijayawada,1906
+24-12-2023,Thums Up,1433,Sunny,No event,0,0,10,High,3,Bangalore,1311
+24-12-2023,Frooti,2963,Windy,No event,0,0,20,Medium,4,Kota,2839
+24-12-2023,Hajmola Tablets,1094,Windy,No event,0,15,0,Low,4,Amritsar,1160
+24-12-2023,Haldiram's Namkeen,2243,Rainy,No event,0,5,10,Medium,5,Ludhiana,2311
+24-12-2023,Chyawanprash,2606,Windy,No event,0,20,5,Low,3,Meerut,2836
+31-12-2023,Basmati Rice,2773,Sunny,Eid-ul-Fitr,3,15,0,High,5,Guntur,3089
+31-12-2023,Turmeric Powder,2929,Windy,Eid-ul-Fitr,3,15,10,Medium,5,Kurnool,3251
+31-12-2023,Red Chilli Powder,2720,Sunny,Eid-ul-Fitr,3,5,20,Low,5,Visakhapatnam ,2897
+31-12-2023,Cumin Seeds,2330,Rainy,Eid-ul-Fitr,3,5,0,Medium,3,Rajahmundry,2590
+31-12-2023,Coriander Powder,2395,Cloudy,Eid-ul-Fitr,3,20,0,Low,5,Tirupati,2768
+31-12-2023,Garam Masala,2786,Windy,Eid-ul-Fitr,3,5,0,Medium,3,Meerut,3052
+31-12-2023,Toor Dal,2010,Rainy,Eid-ul-Fitr,3,5,5,Medium,5,Kurnool,2241
+31-12-2023,Chana Dal,2699,Cloudy,Eid-ul-Fitr,3,15,10,High,5,Visakhapatnam ,2877
+31-12-2023,Urad Dal,1527,Sunny,Eid-ul-Fitr,3,5,15,High,3,Zirakpur,1582
+31-12-2023,Moong Dal,1743,Cloudy,Eid-ul-Fitr,3,0,5,Medium,4,Aurangabad,1938
+31-12-2023,Jaggery,2543,Windy,Eid-ul-Fitr,3,0,0,Medium,4,Meerut,2765
+31-12-2023,Ghee,2491,Sunny,Eid-ul-Fitr,3,10,5,Medium,5,Aurangabad,2639
+31-12-2023,Paneer,2907,Rainy,Eid-ul-Fitr,3,5,5,High,3,Bhopal,3159
+31-12-2023,Coconut Oil,1368,Sunny,Eid-ul-Fitr,3,10,15,Medium,4,Rajahmundry,1545
+31-12-2023,Mustard Oil,2416,Sunny,Eid-ul-Fitr,3,20,15,Medium,5,Hyderabad,2605
+31-12-2023,Aam Papad,2720,Cloudy,Eid-ul-Fitr,3,20,15,High,3,Zirakpur,2999
+31-12-2023,Mango Pickle,1041,Sunny,Eid-ul-Fitr,3,5,15,High,3,Vijayawada,1068
+31-12-2023,Papad,1208,Windy,Eid-ul-Fitr,3,20,5,High,5,Amritsar,1471
+31-12-2023,Idli Rice,1945,Cloudy,Eid-ul-Fitr,3,10,5,Low,3,Bangalore,2259
+31-12-2023,Sambar Powder,2113,Cloudy,Eid-ul-Fitr,3,10,15,Medium,4,Visakhapatnam ,2322
+31-12-2023,Aloo Bhujia,2406,Rainy,Eid-ul-Fitr,3,20,10,Medium,5,Hyderabad,2657
+31-12-2023,Kaju Katli,1820,Rainy,Eid-ul-Fitr,3,20,15,High,3,Lucknow,2103
+31-12-2023,Besan,2833,Rainy,Eid-ul-Fitr,3,0,20,High,4,Indore,2812
+31-12-2023,Aata (Wheat Flour),1161,Cloudy,Eid-ul-Fitr,3,20,0,High,5,Meerut,1437
+31-12-2023,Mango Juice,1597,Windy,Eid-ul-Fitr,3,10,0,Low,5,Ludhiana,1777
+31-12-2023,Lemon Pickle,1996,Cloudy,Eid-ul-Fitr,3,20,10,Medium,4,Bangalore,2385
+31-12-2023,Coconut Chutney,1419,Cloudy,Eid-ul-Fitr,3,5,0,High,3,Bangalore,1670
+31-12-2023,Rasgulla,1287,Cloudy,Eid-ul-Fitr,3,20,5,High,4,Hyderabad,1608
+31-12-2023,Gulab Jamun Mix,1709,Windy,Eid-ul-Fitr,3,5,5,High,5,Bhopal,1784
+31-12-2023,Lassi,1896,Sunny,Eid-ul-Fitr,3,15,20,Medium,3,Karimnagar,2027
+31-12-2023,Bhel Puri Mix,1870,Cloudy,Eid-ul-Fitr,3,10,5,High,5,Indore,2068
+31-12-2023,Pav Bhaji Masala,1329,Sunny,Eid-ul-Fitr,3,15,5,High,3,Bhopal,1586
+31-12-2023,Chole Masala,1284,Sunny,Eid-ul-Fitr,3,5,20,Low,4,Lucknow,1364
+31-12-2023,Tamarind Paste,2940,Rainy,Eid-ul-Fitr,3,20,0,High,5,Kota,3249
+31-12-2023,Ready-to-eat Curry Packs,1562,Cloudy,Eid-ul-Fitr,3,20,15,Medium,4,Jalandhar,1900
+31-12-2023,Parle-G Biscuits,2968,Sunny,Eid-ul-Fitr,3,10,10,Low,4,Visakhapatnam ,3068
+31-12-2023,Thums Up,1186,Windy,Eid-ul-Fitr,3,5,5,Medium,4,Amravati,1341
+31-12-2023,Frooti,1985,Cloudy,Eid-ul-Fitr,3,0,20,Medium,4,Bangalore,2029
+31-12-2023,Hajmola Tablets,2816,Cloudy,Eid-ul-Fitr,3,15,20,Low,5,Jalandhar,3017
+31-12-2023,Haldiram's Namkeen,1548,Sunny,Eid-ul-Fitr,3,0,15,Medium,3,Karimnagar,1538
+31-12-2023,Chyawanprash,2894,Windy,Eid-ul-Fitr,3,5,15,Low,5,Zirakpur,2947
