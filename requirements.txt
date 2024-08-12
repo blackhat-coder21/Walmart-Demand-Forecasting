@@ -1,6 +1,6 @@
 folium
 streamlit-folium
-sklearn
+scikit-learn
 numpy
 pickle
 pandas
