@@ -4,13 +4,13 @@ from datetime import timedelta
 
 # Load the dataset
 def load_data():
-    df = pd.read_csv('C:/Users/Ankit/Downloads/archive/wallmart_data.csv')
+    df = pd.read_csv('wallmart_data.csv')
     df['Date'] = pd.to_datetime(df['Date'])
     return df
 
 # Load the trained model
 def load_model():
-    with open('C:/Users/Ankit/Downloads/archive/model_pipeline.pkl', 'rb') as f:
+    with open('model_pipeline.pkl', 'rb') as f:
         model = pickle.load(f)
     return model
 
