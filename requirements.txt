@@ -2,7 +2,6 @@ folium
 streamlit-folium
 scikit-learn
 numpy
-pickle
 pandas
 datetime
 streamlit
