@@ -10,7 +10,7 @@ from predict_ui import predict
 # Load the dataset
 @st.cache_data
 def load_data():
-    df = pd.read_csv('C:/Users/Ankit/Downloads/archive/wallmart_data.csv')
+    df = pd.read_csv('wallmart_data.csv')
     return df
 
 df = load_data()
@@ -34,8 +34,8 @@ df['Month_Name'] = df['Month'].map(month_map)
 # Load additional datasets
 @st.cache_data
 def load_location_data():
-    locations_map = pd.read_csv('C:/Users/Ankit/Downloads/archive/locations_map.csv')
-    warehouse_store_mapping = pd.read_csv('C:/Users/Ankit/Downloads/archive/final_warehouse_store_mapping.csv')
+    locations_map = pd.read_csv('locations_map.csv')
+    warehouse_store_mapping = pd.read_csv('final_warehouse_store_mapping.csv')
 
     # Create a mapping of stores to their coordinates
     store_coordinates = {

@@ -1,7 +1,7 @@
 import streamlit as st
 from PIL import Image
 import pandas as pd
-from datetime import datetime
+from datetime import datetime, timedelta
 from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
@@ -11,13 +11,14 @@ import numpy as np
 import pickle
 from sklearn.impute import SimpleImputer
 
-# Dictionaries for encoding
-store_location_dict = {
-    'Amritsar': 0, 'Aurangabad': 1, 'Bangalore': 2, 'Bhopal': 3, 'Chandigarh': 4, 'Guntur': 5, 'Hyderabad': 6,
-    'Indore': 7, 'Jalandhar': 8, 'Jaipur': 9, 'Karnal': 10, 'Kochi': 11, 'Ludhiana': 12, 'Lucknow': 13, 'Meerut': 14,
-    'Rajahmundry': 15, 'Sangli': 16, 'Tirupati': 17, 'Vijayawada': 18, 'Vizag ': 19
-}
+# Load locations map from the provided CSV
+locations_df = pd.read_csv('locations_map.csv')
+store_location_dict = {row[0]: row[1] for _, row in locations_df.iterrows()}
 
+# Load the main dataset
+wallmart_df = pd.read_csv('wallmart_data.csv')
+
+# Dictionaries for encoding other features
 product_name_dict = {
     'Basmati Rice': 0, 'Turmeric Powder': 1, 'Red Chilli Powder': 2, 'Cumin Seeds': 3, 'Coriander Powder': 4,
     'Garam Masala': 5, 'Toor Dal': 6, 'Chana Dal': 7, 'Urad Dal': 8, 'Moong Dal': 9, 'Jaggery': 10, 'Ghee': 11,
@@ -48,7 +49,6 @@ class DataPreprocessor(BaseEstimator, TransformerMixin):
 
     def transform(self, X):
         X = X.copy()
-        # Use dayfirst=True to correctly parse dates in the format "dd-mm-yyyy"
         X['Date'] = pd.to_datetime(X['Date'], dayfirst=True)
         X['Year'] = X['Date'].dt.year
         X['Month'] = X['Date'].dt.month
@@ -63,18 +63,39 @@ class DataPreprocessor(BaseEstimator, TransformerMixin):
 
         return X
 
-
 def load_data():
     df = pd.read_csv('wallmart_data.csv')
     X = df.drop(columns=['Sales in Week (Target)'])
     y = df['Sales in Week (Target)']
     return X, y
 
+def get_historical_values(date, product_name, store_location):
+    one_year_ago = date - timedelta(days=365)
+    filtered_df = wallmart_df[
+        (pd.to_datetime(wallmart_df['Date'], dayfirst=True) == one_year_ago) &
+        (wallmart_df['Product Name & Brand'] == product_name) &
+        (wallmart_df['Store Location'] == store_location)
+    ]
+
+    if not filtered_df.empty:
+        past_week_sales = filtered_df['Past Week Sales'].values[0]
+        event_impact_level = filtered_df['Event_Impact_Level'].values[0]
+        competitor_action_discount = filtered_df['Competitor Action (Discount)'].values[0]
+        advertising = filtered_df['Advertising'].values[0]
+        economic_indicator = filtered_df['Economic Indicator'].values[0]
+    else:
+        past_week_sales = 0
+        event_impact_level = 0
+        competitor_action_discount = 0
+        advertising = 'Low'
+        economic_indicator = 0
+
+    return past_week_sales, event_impact_level, competitor_action_discount, advertising, economic_indicator
+
 def train_model(X, y):
-    # Add SimpleImputer to handle NaN values
     preprocessor = Pipeline(steps=[
         ('data_preprocessor', DataPreprocessor(store_location_dict, product_name_dict, event_dict)),
-        ('imputer', SimpleImputer(strategy='mean'))  # Replace NaNs with the mean of the column
+        ('imputer', SimpleImputer(strategy='mean'))
     ])
 
     model = GradientBoostingRegressor()
@@ -92,15 +113,18 @@ def train_model(X, y):
 
 def predict():
     X, y = load_data()
-    train_model(X, y)  # Retrain the model with current data and environment
+    train_model(X, y)
 
-    # UI elements
     st.title("Sales Prediction Dashboard")
     date = st.date_input("Select the date:", value=datetime.now().date())
     product_name_display = st.selectbox("Select the product name:", X['Product Name & Brand'].unique())
     weather_pattern_display = st.selectbox("Select the weather pattern:", X['Weather Pattern'].unique())
     event_display = st.selectbox("Select the event:", X['Event'].unique())
+    store_location_display = st.selectbox("Select the store location:", list(store_location_dict.keys()))
     promotion_discount = st.slider("Select the promotion discount (%):", min_value=0, max_value=100, value=0)
+
+    # Get historical values from 1 year ago
+    past_week_sales, event_impact_level, competitor_action_discount, advertising, economic_indicator = get_historical_values(date, product_name_display, store_location_display)
 
     if st.button("Predict Sales"):
         columns = [
@@ -112,26 +136,25 @@ def predict():
 
         data_list = [
             date,
-            product_name_display,  
-            2070,  # Example Past Week Sales
-            weather_pattern_display,  # Weather Pattern
-            event_display,  # Event
-            3,  # Event Impact Level
-            promotion_discount,  # Promotions (Discount)
-            20,  # Competitor Action (Discount)
-            'Low',  # Advertising
-            4,  # Economic Indicator
-            'Sangli'  # Store Location
+            product_name_display,
+            past_week_sales,
+            weather_pattern_display,
+            event_display,
+            event_impact_level,
+            promotion_discount,
+            competitor_action_discount,
+            advertising,
+            economic_indicator,
+            store_location_display
         ]
 
         df = pd.DataFrame([data_list], columns=columns)
 
-        # Load the trained model
         with open('model_pipeline.pkl', 'rb') as file:
             model = pickle.load(file)
 
         predicted_sales = model.predict(df)
-        st.write(f"*Predicted Sales for {product_name_display} on:* {predicted_sales[0]:.2f}")
+        st.write(f"*Predicted Sales for {product_name_display} on {date}:* {predicted_sales[0]:.2f}")
 
 if __name__ == "__main__":
     predict()

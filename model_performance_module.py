@@ -21,7 +21,7 @@ def model_performance():
         st.write("Model Accuracy: 76.23%")
 
         # Load and display the associated image
-        image = Image.open("C:/Users/Ankit/Downloads/archive/linear_regression.png")
+        image = Image.open("linear_regression.png")
         st.image(image, caption="Predicted vs Observed Sales for Linear Regression")
 
     elif model_option == "Random Forest":
@@ -37,7 +37,7 @@ def model_performance():
         st.write("Model Accuracy: 97.17%")
 
         # Load and display the associated image
-        image = Image.open("C:/Users/Ankit/Downloads/archive/gradient_boosting.png")
+        image = Image.open("gradient_boosting.png")
         st.image(image, caption="Predicted vs Observed Sales for Gradient Boosting Regressor")
 
     elif model_option == "Neural Network":
