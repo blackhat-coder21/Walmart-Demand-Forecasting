@@ -6,4 +6,3 @@ pandas
 datetime
 streamlit
 geopy
-heapq
