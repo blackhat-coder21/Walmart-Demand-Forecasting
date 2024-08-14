@@ -5,3 +5,5 @@ numpy
 pandas
 datetime
 streamlit
+geopy
+heapq
