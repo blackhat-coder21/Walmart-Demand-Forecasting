@@ -15,8 +15,10 @@ from sklearn.impute import SimpleImputer
 locations_df = pd.read_csv('locations_map.csv')
 store_location_dict = {row[0]: row[1] for _, row in locations_df.iterrows()}
 
-# Load the main dataset
+# Load the main datasets
 wallmart_df = pd.read_csv('wallmart_data.csv')
+warehouse_store_mapping_df = pd.read_csv('final_warehouse_store_mapping.csv')
+product_name_map_df = pd.read_csv('product_name_map.csv')
 
 # Dictionaries for encoding other features
 product_name_dict = {
@@ -92,6 +94,26 @@ def get_historical_values(date, product_name, store_location):
 
     return past_week_sales, event_impact_level, competitor_action_discount, advertising, economic_indicator
 
+def check_stock_availability(product_name, store_location):
+    # Map the product name to its category code
+    category_code = product_name_map_df.loc[product_name_map_df['Product Name & Brand'] == product_name, 'Category Code'].values[0]
+    
+    # Filter the warehouse-store mapping for the selected store
+    store_df = warehouse_store_mapping_df[warehouse_store_mapping_df['Store'] == store_location]
+    
+    # Calculate the sum of the available stock for the product category across all relevant warehouses
+    stock_column = f'Product_{category_code}_Current_Availability'
+    total_stock = store_df[stock_column].sum()
+    
+    # Define a threshold for stock availability (e.g., required quantity)
+    required_quantity = 500  # Example threshold
+    
+    # Check if the stock is sufficient
+    if total_stock >= required_quantity:
+        return total_stock, "Sufficient stock available"
+    else:
+        return total_stock, "Insufficient stock available"
+
 def train_model(X, y):
     preprocessor = Pipeline(steps=[
         ('data_preprocessor', DataPreprocessor(store_location_dict, product_name_dict, event_dict)),
@@ -126,6 +148,10 @@ def predict():
     # Get historical values from 1 year ago
     past_week_sales, event_impact_level, competitor_action_discount, advertising, economic_indicator = get_historical_values(date, product_name_display, store_location_display)
 
+    # Check stock availability
+    total_stock, stock_status = check_stock_availability(product_name_display, store_location_display)
+    st.write(f"Stock Status: {stock_status} (Total Stock: {total_stock})")
+
     if st.button("Predict Sales"):
         columns = [
             'Date', 'Product Name & Brand', 'Past Week Sales', 'Weather Pattern',
@@ -150,11 +176,14 @@ def predict():
 
         df = pd.DataFrame([data_list], columns=columns)
 
+        # Load the trained model
         with open('model_pipeline.pkl', 'rb') as file:
             model = pickle.load(file)
 
+        # Make the prediction
         predicted_sales = model.predict(df)
         st.write(f"*Predicted Sales for {product_name_display} on {date}:* {predicted_sales[0]:.2f}")
 
 if __name__ == "__main__":
     predict()
+
