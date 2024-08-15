@@ -18,7 +18,7 @@ def model_performance():
         st.write("Mean Squared Error: 277173.89")
         st.write("Root Mean Squared Error: 526.47")
         st.write("R-squared: 0.23")
-        st.write("Model Accuracy: 76.23%")
+        # st.write("Model Accuracy: 76.23%")
 
         # Load and display the associated image
         image = Image.open("linear_regression.png")
@@ -28,7 +28,7 @@ def model_performance():
         st.write("Mean Absolute Error: 55.14")
         st.write("Mean Squared Error: 4597.37")
         st.write("Root Mean Squared Error: 67.80")
-        st.write("R-squared: 0.98")
+        # st.write("R-squared: 0.98")
 
         # Load and display the associated image
         image = Image.open("random_forest.png")
@@ -40,7 +40,7 @@ def model_performance():
         st.write("Mean Squared Error: 4029.48")
         st.write("Root Mean Squared Error: 63.48")
         st.write("R-squared: 0.99")
-        st.write("Model Accuracy: 97.17%")
+        # st.write("Model Accuracy: 97.17%")
 
         # Load and display the associated image
         image = Image.open("gradient_boosting.png")
