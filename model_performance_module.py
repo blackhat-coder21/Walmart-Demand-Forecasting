@@ -24,6 +24,8 @@ def model_performance():
         image = Image.open("linear_regression.png")
         st.image(image, caption="Predicted vs Observed Sales for Linear Regression")
 
+        st.write("Linear regression resulted in low accuracy because the data exhibits non-linear relationships, and it is incapable of capturing complex interactions between variables as it assumes a linear relationship between the features and the target")
+
     elif model_option == "Random Forest":
         st.write("Mean Absolute Error: 55.14")
         st.write("Mean Squared Error: 4597.37")
@@ -33,6 +35,8 @@ def model_performance():
         # Load and display the associated image
         image = Image.open("random_forest.png")
         st.image(image, caption="Predicted vs Observed Sales for Random Forest Regressor")
+
+        st.write("Random forest achieved high accuracy due to its bagging technique, where multiple decision trees are trained on random subsets of the data and features. This approach reduces overfitting and increases the robustness of the model by averaging the predictions of the individual trees")
 
 
     elif model_option == "Gradient Boosting Regressor":
@@ -46,6 +50,9 @@ def model_performance():
         image = Image.open("gradient_boosting.png")
         st.image(image, caption="Predicted vs Observed Sales for Gradient Boosting Regressor")
 
+        st.write("Gradient boosting enhances accuracy by iteratively adding weak learners (typically decision trees) that correct the errors of the previous models. By focusing on the mistakes made in earlier iterations, the model gradually improves, achieving a strong predictive performance.")
+
+
     elif model_option == "Neural Network":
         st.write("Mean Absolute Error: 56.96")
         st.write("Mean Squared Error: 4607.89")
@@ -55,6 +62,9 @@ def model_performance():
         # Load and display the associated image
         image = Image.open("neural_network_ann.png")
         st.image(image, caption="Predicted vs Observed Sales for Neural Network")
+
+        st.write("Neural networks leverage the perceptron theory, where interconnected layers of nodes (perceptrons) process input data to capture intricate patterns and relationships. By adjusting the weights through backpropagation, neural networks can model highly non-linear and complex data structures.")
+
 
 # Run the Streamlit app
 if __name__ == "__main__":
